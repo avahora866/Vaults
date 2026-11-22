@@ -1,0 +1,260 @@
+{
+  "main": {
+    "id": "124772def468e903",
+    "type": "split",
+    "children": [
+      {
+        "id": "16917e94291c984e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "49ea79536b063af0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "___Money/Investing/Selling shares.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Selling shares"
+            }
+          },
+          {
+            "id": "b0cd37394b7ebad9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_Notes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "_Notes"
+            }
+          },
+          {
+            "id": "0c30fd3a5d73e791",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_Note.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "_Note"
+            }
+          },
+          {
+            "id": "373e5601be1ac06d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_Note.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "_Note"
+            }
+          },
+          {
+            "id": "c868e3be781208ef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_Note.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "_Note"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5e3d0e934263dc51",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "91a00486704fc419",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "02a860b05b6907ef",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "Cognitive reserve",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "761b688a9016db09",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "dc7b5c7714976635",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "1db58938af83b037",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "d5eba71d3ad6f282",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "____Inner Growth/Skill/Myelin.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "6260e67aad37a62f",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "____Inner Growth/Skill/Myelin.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "21bad3438262b236",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "____Inner Growth/_Mastery/Deep Practice.md",
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      }
+    ],
+    "currentTab": 2
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "smart-random-note:Open Random Note from Search": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "c868e3be781208ef",
+  "lastOpenFiles": [
+    "______Career/Interview Prep/Soft Questions.md",
+    "_Note.md",
+    "____Inner Growth/_Mastery/_Mastery.md",
+    "____Inner Growth/_Mastery/Deep Practice.md",
+    "____Inner Growth/Decisions/Analytic Hierarchy Process (AHP).md",
+    "____Inner Growth/Decisions/_Decisions.md",
+    "______Career/Interview Prep/Personal Interview Insights.md",
+    "_Other/Car/Jump Start.md",
+    "_Other/Car",
+    "1% improvement.md",
+    "_____Health/Brain/Brain Plasticity.md",
+    "______Career/Feature Development Plan.md",
+    "______Career/CS Compendium.md",
+    "___Money/Investing/Fine art.md",
+    "___Money/Investing/Stocks/Calculating a stock.md",
+    "___Money/Investing/Crypto/Cryptocurrency.md",
+    "___Money/Investing/Crypto/Tax for crypto.md",
+    "___Money/Investing/Stocks/Dividend and tax.md",
+    "___Money/Investing/Crypto",
+    "___Money/Investing/Stocks",
+    "____Inner Growth/Tasks.md",
+    "______Career/Interview Prep/Technical Questions.md",
+    "______Career/Interview Prep/Scenarios to use.md",
+    "Pasted image 20250127091847.png",
+    "Pasted image 20250127091622.png",
+    "Pasted image 20250127091556.png",
+    "Pasted image 20250127091438.png",
+    "Pasted image 20250127091413.png",
+    "Pasted image 20250127091313.png",
+    "Pasted image 20250111172001.png",
+    "___Money/Investing/Technical Analysis.md",
+    "____Inner Growth/_Mastery/Approaches/Discovery learning.md",
+    "____Inner Growth/_Mastery/Approaches",
+    "____Inner Growth/_Mastery/Approaches/Hierarchical Learning.md",
+    "____Inner Growth/Thinking Frameworks/Critical Thinkers.md",
+    "____Inner Growth/Thinking Frameworks/_Thinking.md",
+    "____Inner Growth/Thinking Frameworks/Mental Models/Inversion.md",
+    "__Recreation/Cooking/Ingredient Research",
+    "______Career/Math",
+    "______Career/Physics",
+    "_____Health/Fitness",
+    "__Recreation/Cooking/Cooking Methods",
+    "__Recreation/Cooking/Sauces"
+  ]
+}

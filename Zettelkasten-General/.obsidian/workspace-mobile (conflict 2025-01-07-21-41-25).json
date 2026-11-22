@@ -1,0 +1,176 @@
+{
+  "main": {
+    "id": "da28861aeb05b0d6",
+    "type": "split",
+    "children": [
+      {
+        "id": "b75d17fad1051256",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "76c45c760cc34123",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_____Health/Energy/_Energy.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "_Energy"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1ec3f9325bc2c3b1",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "e89881fa92749cfb",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "6a352c9f12d1d954",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "cd922205a32e5e2e",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "261cc68ca8a137e0",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "5870696444406ca4",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "1924aef824a66ea8",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "05b5236933a6705c",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "af96eced29857b92",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {},
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "76c45c760cc34123",
+  "lastOpenFiles": [
+    "__Recreation/Drawing.md",
+    "_____Health/Energy/Sleep.md",
+    "___Money/Easy side hustles.md",
+    "___Money/Investing/Investing terms.md",
+    "___Money/Investing/Fine art.md",
+    "___Money/Investing/Cryptocurrency.md",
+    "___Money/Inflation.md",
+    "____Inner Growth/Productivity/Focus in the brain is anchored in our visual system.md",
+    "____Inner Growth/Productivity/_Productivity.md",
+    "____Inner Growth/Productivity/Procastination/_Procrastination.md",
+    "____Inner Growth/Productivity/Procastination/How to prevent procrastination.md",
+    "____Inner Growth/Productivity/Procastination/Where does procrastination stem from.md",
+    "___Money/Investing/REIT (Real Estate Investment Trust).md",
+    "___Money/Investing",
+    "Inner Growth/Productivity/_Productivity.md",
+    "Inner Growth/Productivity/Cycle.md",
+    "Inner Growth/Productivity/Focus in the brain is anchored in our visual system.md",
+    "Inner Growth/Decisions/_Decisions.md",
+    "Inner Growth/Decisions/AHP.md",
+    "Inner Growth/Decisions/Ishikawa's Diagram.md",
+    "Health/Weight Loss.md",
+    "Health/Dandruff - Dry Scalp.md",
+    "Health/Energy/_Energy.md",
+    "Health/Energy/Sleep.md",
+    "Health/Energy/Dream Journal.md",
+    "Health/Brain/Scarcity Brain.md",
+    "Health/Brain/Memory.md"
+  ]
+}

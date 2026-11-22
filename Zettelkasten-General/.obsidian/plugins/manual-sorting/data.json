@@ -1,0 +1,253 @@
+{
+  "customFileOrder": {
+    "/": [
+      "Note.md",
+      "Overview",
+      "Templates",
+      "Career",
+      "Health",
+      "Inner Growth",
+      "Money",
+      "Recreation",
+      "Other"
+    ],
+    "Career": [
+      "Career/Company Specific Prep",
+      "Career/What does a xx do",
+      "Career/Companies that will fund masters degrees.md",
+      "Career/Checklist for Quant and Quantum Developers.md",
+      "Career/Types of jobs in the UK.md",
+      "Career/Interview Prep"
+    ],
+    "Career/Company Specific Prep": [
+      "Career/Company Specific Prep/Fivium_Interview_Prep.md"
+    ],
+    "Career/Interview Prep": [
+      "Career/Interview Prep/Personal Interview Insights.md",
+      "Career/Interview Prep/Scenarios to use.md",
+      "Career/Interview Prep/Soft Questions.md",
+      "Career/Interview Prep/Technical Questions.md"
+    ],
+    "Career/What does a xx do": [
+      "Career/What does a xx do/Quantum Developer.md",
+      "Career/What does a xx do/Quant Developer.md"
+    ],
+    "Health": [
+      "Health/Fitness",
+      "Health/Brain",
+      "Health/Energy",
+      "Health/Dandruff or Dry Scalp.md",
+      "Health/Food groups and what they provide.md",
+      "Health/Gum Disease.md",
+      "Health/Weight loss.md"
+    ],
+    "Health/Brain": [
+      "Health/Brain/Brain.md",
+      "Health/Brain/Brain Plasticity.md"
+    ],
+    "Health/Energy": [
+      "Health/Energy/Types of Energy",
+      "Health/Energy/Circadian Rhythm.md",
+      "Health/Energy/How Sleep Affects Energy.md",
+      "Health/Energy/Energy Regulation.md"
+    ],
+    "Health/Energy/Types of Energy": [
+      "Health/Energy/Types of Energy/Nutritional Energy.md",
+      "Health/Energy/Types of Energy/Types of energy.md"
+    ],
+    "Health/Fitness": [
+      "Health/Fitness/Body Recomposition.md",
+      "Health/Fitness/Exercise Physiology and Kinesiology.md",
+      "Health/Fitness/Hypertrophy.md"
+    ],
+    "Inner Growth": [
+      "Inner Growth/Motivation.md",
+      "Inner Growth/Mastery",
+      "Inner Growth/Productivity",
+      "Inner Growth/Habit",
+      "Inner Growth/Confirmation Bias.md",
+      "Inner Growth/The Human Mind and Consistency.md",
+      "Inner Growth/Cognitive Dissonance.md",
+      "Inner Growth/Techniques to analyze soemthing.md",
+      "Inner Growth/Thinking Frameworks",
+      "Inner Growth/Decisions",
+      "Inner Growth/Psychological Insights",
+      "Inner Growth/Car",
+      "Inner Growth/Face shape.md",
+      "Inner Growth/Reflective Journelling.md"
+    ],
+    "Inner Growth/Car": [
+      "Inner Growth/Car/Types of Cars.md",
+      "Inner Growth/Car/Jump Start.md",
+      "Inner Growth/Car/Oil Change.md"
+    ],
+    "Inner Growth/Decisions": [
+      "Inner Growth/Decisions/Decisions.md",
+      "Inner Growth/Decisions/Problem Solving",
+      "Inner Growth/Decisions/Uncertain Information",
+      "Inner Growth/Decisions/Cognitive Bias Mitigation Frameworks.md",
+      "Inner Growth/Decisions/Analytic Hierarchy Process (AHP).md",
+      "Inner Growth/Decisions/K-T Matrix.md",
+      "Inner Growth/Decisions/Lean Principles.md",
+      "Inner Growth/Decisions/Pareto Analysis.md",
+      "Inner Growth/Decisions/PDCA (Plan-Do-Check-Act).md",
+      "Inner Growth/Decisions/PEST.md",
+      "Inner Growth/Decisions/Six Sigma DMAIC.md",
+      "Inner Growth/Decisions/SWOT.md",
+      "Inner Growth/Decisions/TRIZ (Theory of Inventive Problem Solving).md"
+    ],
+    "Inner Growth/Decisions/Problem Solving": [
+      "Inner Growth/Decisions/Problem Solving/Gap Analysis.md",
+      "Inner Growth/Decisions/Problem Solving/Ishikawa's Diagram.md"
+    ],
+    "Inner Growth/Decisions/Uncertain Information": [
+      "Inner Growth/Decisions/Uncertain Information/Decision Trees.md",
+      "Inner Growth/Decisions/Uncertain Information/Expected Utility Theory.md",
+      "Inner Growth/Decisions/Uncertain Information/Scenario Planning.md"
+    ],
+    "Inner Growth/Habit": [
+      "Inner Growth/Habit/Habit Stacking.md",
+      "Inner Growth/Habit/Keystone habits.md",
+      "Inner Growth/Habit/Linking concepts or actions.md",
+      "Inner Growth/Habit/Meditation.md",
+      "Inner Growth/Habit/Placing importance on a habit.md"
+    ],
+    "Inner Growth/Mastery": [
+      "Inner Growth/Mastery/The Science of Mastery (Deep Practice, Ignition).md",
+      "Inner Growth/Mastery/Approaches",
+      "Inner Growth/Mastery/Sustained Ignition.md"
+    ],
+    "Inner Growth/Mastery/Approaches": [
+      "Inner Growth/Mastery/Approaches/Discovery learning.md",
+      "Inner Growth/Mastery/Approaches/Hierarchical Learning.md",
+      "Inner Growth/Mastery/Approaches/Pre learning.md",
+      "Inner Growth/Mastery/Approaches/Tracking.md"
+    ],
+    "Inner Growth/Productivity": [
+      "Inner Growth/Productivity/NeuroPlasticity",
+      "Inner Growth/Productivity/Procastination",
+      "Inner Growth/Productivity/Cognitive Load.md",
+      "Inner Growth/Productivity/Consistency (Micro Actions).md",
+      "Inner Growth/Productivity/Context Switching.md",
+      "Inner Growth/Productivity/Focus in the brain is anchored in our visual system.md",
+      "Inner Growth/Productivity/Interruptions.md",
+      "Inner Growth/Productivity/Music.md",
+      "Inner Growth/Productivity/Productivity techniques.md",
+      "Inner Growth/Productivity/Sleep in the context of productivity.md",
+      "Inner Growth/Productivity/Tasks.md",
+      "Inner Growth/Productivity/Ultradian Rhythms.md"
+    ],
+    "Inner Growth/Productivity/NeuroPlasticity": [
+      "Inner Growth/Productivity/NeuroPlasticity/Neuroplasticity.md",
+      "Inner Growth/Productivity/NeuroPlasticity/Dopamine.md"
+    ],
+    "Inner Growth/Productivity/Procastination": [
+      "Inner Growth/Productivity/Procastination/Procastination.md",
+      "Inner Growth/Productivity/Procastination/How to prevent procrastination.md",
+      "Inner Growth/Productivity/Procastination/Where does procrastination stem from.md"
+    ],
+    "Inner Growth/Psychological Insights": [
+      "Inner Growth/Psychological Insights/Emotions",
+      "Inner Growth/Psychological Insights/Confidence.md",
+      "Inner Growth/Psychological Insights/Maturity.md",
+      "Inner Growth/Psychological Insights/Validation.md"
+    ],
+    "Inner Growth/Psychological Insights/Emotions": [
+      "Inner Growth/Psychological Insights/Emotions/Emotions.md",
+      "Inner Growth/Psychological Insights/Emotions/Basic Emotions"
+    ],
+    "Inner Growth/Psychological Insights/Emotions/Basic Emotions": [
+      "Inner Growth/Psychological Insights/Emotions/Basic Emotions/Anger.md",
+      "Inner Growth/Psychological Insights/Emotions/Basic Emotions/Happiness.md"
+    ],
+    "Inner Growth/Thinking Frameworks": [
+      "Inner Growth/Thinking Frameworks/Mental Models.md"
+    ],
+    "Money": [
+      "Money/House",
+      "Money/Investing",
+      "Money/Inflation.md",
+      "Money/The Psychology Behind Financial Decisions.md",
+      "Money/Easy side hustles.md"
+    ],
+    "Money/House": [
+      "Money/House/Chain House.md",
+      "Money/House/Mortgage.md",
+      "Money/House/Mortgage Calculation.md",
+      "Money/House/Purchasing a house.md"
+    ],
+    "Money/Investing": [
+      "Money/Investing/Core Concepts",
+      "Money/Investing/Crypto",
+      "Money/Investing/Stocks",
+      "Money/Investing/Strategies",
+      "Money/Investing/Basic knowledge of Financial market.md",
+      "Money/Investing/Capital gains tax.md",
+      "Money/Investing/Financial Knowledge checklist.md",
+      "Money/Investing/Technical Analysis.md"
+    ],
+    "Money/Investing/Core Concepts": [
+      "Money/Investing/Core Concepts/Candle.md",
+      "Money/Investing/Core Concepts/Days.md",
+      "Money/Investing/Core Concepts/Indicators.md",
+      "Money/Investing/Core Concepts/Investing terms.md",
+      "Money/Investing/Core Concepts/Market Types.md",
+      "Money/Investing/Core Concepts/Moving Averages.md",
+      "Money/Investing/Core Concepts/Position Sizing.md",
+      "Money/Investing/Core Concepts/RSI and ADX.md"
+    ],
+    "Money/Investing/Crypto": [
+      "Money/Investing/Crypto/Cryptocurrency.md",
+      "Money/Investing/Crypto/Tax for crypto.md"
+    ],
+    "Money/Investing/Stocks": [
+      "Money/Investing/Stocks/Calculating a stock.md",
+      "Money/Investing/Stocks/Dividend and tax.md",
+      "Money/Investing/Stocks/Selling shares.md",
+      "Money/Investing/Stocks/REIT (Real Estate Investment Trust).md"
+    ],
+    "Money/Investing/Strategies": [
+      "Money/Investing/Strategies/Moving Average Crossover.md"
+    ],
+    "Other": [
+      "Other/Marriage",
+      "Other/My Interests.md"
+    ],
+    "Other/Marriage": [
+      "Other/Marriage/Review.md",
+      "Other/Marriage/Marriage notes 1.md",
+      "Other/Marriage/@Archive",
+      "Other/Marriage/Marriage notes.md",
+      "Other/Marriage/Marriage process.md",
+      "Other/Marriage/Structured.md"
+    ],
+    "Other/Marriage/@Archive": [
+      "Other/Marriage/@Archive/Marriage notes.md",
+      "Other/Marriage/@Archive/Marriage profile.md"
+    ],
+    "Overview": [
+      "Overview/IDENTITY CARD.md",
+      "Overview/Flashcards.base",
+      "Overview/Status.md",
+      "Overview/General overview.canvas"
+    ],
+    "Recreation": [
+      "Recreation/Scarcity Brain.md"
+    ],
+    "Templates": [
+      "Templates/Leaf.md",
+      "Templates/Tertiary Branch.md",
+      "Templates/Secondary Branch.md",
+      "Templates/Trunk.md",
+      "Templates/Career.md",
+      "Templates/Health.md",
+      "Templates/Inner Growth.md",
+      "Templates/Money.md",
+      "Templates/Recreation.md"
+    ]
+  },
+  "draggingEnabled": true,
+  "selectedSortOrder": "manual-sorting",
+  "debugMode": false,
+  "newItemsPosition": "top"
+}

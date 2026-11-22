@@ -1,0 +1,266 @@
+{
+  "main": {
+    "id": "8e9561b786faf688",
+    "type": "split",
+    "children": [
+      {
+        "id": "13c219e7a962ed40",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "47ad811527fa19b6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Other/My Interests.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "My Interests"
+            }
+          },
+          {
+            "id": "210fe4a8d9613f01",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Note.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Note"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c32fbb67be05a6ed",
+    "type": "split",
+    "children": [
+      {
+        "id": "ea762abfaa6d4a59",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "92e694d40abc8399",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "adaecd3227df55f2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "context s",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "e3b0552fa235f477",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "5ea317a8b1f63306",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Note.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Note"
+            }
+          },
+          {
+            "id": "54ef257c6121a10b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inner Growth/Car/Oil Change.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Oil Change"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 404.5
+  },
+  "right": {
+    "id": "c5810b64cce12e83",
+    "type": "split",
+    "children": [
+      {
+        "id": "34bb28059891b4d4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "73ab2e59693d0d8b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Money/Purchasing a house.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Purchasing a house"
+            }
+          },
+          {
+            "id": "b3a88fb44e0152ed",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Money/Purchasing a house.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Purchasing a house"
+            }
+          },
+          {
+            "id": "e0f687dfc7be6d28",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "adadd62197574500",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Money/Purchasing a house.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Purchasing a house"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "smart-random-note:Open Random Note from Search": false,
+      "obsidian-kindle-plugin:Sync your Kindle highlights": false
+    }
+  },
+  "active": "210fe4a8d9613f01",
+  "lastOpenFiles": [
+    "Other/Marriage/Review.md",
+    "Other/Marriage/Marriage notes 1.md",
+    "Other/Marriage/Marriage notes.md",
+    "Other/Marriage/Structured.md",
+    "Other/Marriage/Marriage process.md",
+    "Career/Company Specific Prep/Fivium_Interview_Prep.md",
+    "Overview/IDENTITY CARD.md",
+    "Overview/General overview.canvas",
+    "Overview/Flashcards.base",
+    "Note.md",
+    "Overview",
+    "Overview/Status.md",
+    "Recreation/Scarcity Brain.md",
+    "Money/The Psychology Behind Financial Decisions.md",
+    "Inner Growth/Reflective Journelling.md",
+    "Inner Growth/Face shape.md",
+    "Inner Growth/Psychological Insights/Maturity.md",
+    "Inner Growth/Psychological Insights/Confidence.md",
+    "Inner Growth/Techniques to analyze soemthing.md",
+    "Inner Growth/Cognitive Dissonance.md",
+    "Inner Growth/Confirmation Bias.md",
+    "Inner Growth/The Human Mind and Consistency.md",
+    "Health/Weight loss.md",
+    "Health/Gum Disease.md",
+    "Health/Food groups and what they provide.md",
+    "Health/Energy/Types of Energy/Types of energy.md",
+    "Health/Energy/Types of Energy/Nutritional Energy.md",
+    "Health/Energy/Types of Energy",
+    "Health/Energy/Circadian Rhythm.md",
+    "Health/Energy/How Sleep Affects Energy.md",
+    "Career/What does a xx do",
+    "Other/Marriage/@Archive",
+    "Base test.base",
+    "Coffee rexipe.canvas",
+    "Inner Growth/Decisions/Cognitive Bias",
+    "Inner Growth/Decisions/Problem Solving",
+    "Inner Growth/Decisions/Uncertain Information",
+    "Money/Investing/Core Concepts",
+    "Pasted image 20250127091622.png",
+    "Pasted image 20250127091438.png",
+    "Pasted image 20250127091313.png",
+    "Pasted image 20250111172001.png",
+    "Pasted image 20250127091905.png",
+    "Pasted image 20250127091847.png",
+    "Pasted image 20250127091556.png",
+    "Pasted image 20250127091413.png"
+  ]
+}

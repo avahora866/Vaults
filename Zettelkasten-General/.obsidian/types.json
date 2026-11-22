@@ -1,0 +1,11 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "Parent Tag": "multitext",
+    "Reference": "multitext",
+    "Review Status": "multitext",
+    "Last Reviewed": "date"
+  }
+}

@@ -1,0 +1,321 @@
+{
+  "main": {
+    "id": "124772def468e903",
+    "type": "split",
+    "children": [
+      {
+        "id": "241b1613a07c2ba2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3218c8808373da87",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_Note.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "_Note"
+            }
+          },
+          {
+            "id": "d66a0dbfab4cf58f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "___Money/House/Mortgage.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Mortgage"
+            }
+          },
+          {
+            "id": "3a9831754806cf5b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_Note.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "_Note"
+            }
+          },
+          {
+            "id": "ca96c5fcc678f453",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_Note.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "_Note"
+            }
+          },
+          {
+            "id": "3f41b00f2c1f83f4",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Coffee rexipe.canvas",
+                "viewState": {
+                  "x": -24.70312500000003,
+                  "y": 596.9062500000001,
+                  "zoom": -0.19639721280350367
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Coffee rexipe"
+            }
+          },
+          {
+            "id": "e0885c4661348095",
+            "type": "leaf",
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "Base test.base",
+                "viewName": "Table"
+              },
+              "icon": "lucide-table",
+              "title": "Base test"
+            }
+          },
+          {
+            "id": "d85a220017d36d97",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Status.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Status"
+            }
+          },
+          {
+            "id": "5e58725d792fe0f9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Note.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Note"
+            }
+          },
+          {
+            "id": "e856fad39021b3a4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Note.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Note"
+            }
+          }
+        ],
+        "currentTab": 8
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5e3d0e934263dc51",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "91a00486704fc419",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "02a860b05b6907ef",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "tag:#FLASHCARD",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "761b688a9016db09",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "dc7b5c7714976635",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "1db58938af83b037",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "d5eba71d3ad6f282",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "____Inner Growth/Skill/Myelin.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "6260e67aad37a62f",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "____Inner Growth/Skill/Myelin.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "21bad3438262b236",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Career/Company Specific Prep/Fivium_Interview_Prep.md",
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      }
+    ],
+    "currentTab": 2
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "smart-random-note:Open Random Note from Search": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "e856fad39021b3a4",
+  "lastOpenFiles": [
+    "Other/Marriage/Marriage notes 1.md",
+    "Other/Marriage/Review.md",
+    "Other/Marriage/Marriage process.md",
+    "Other/Marriage/Marriage notes.md",
+    "Other/My Interests.md",
+    "Career/Company Specific Prep/Fivium_Interview_Prep.md",
+    "Note.md",
+    "Marriage notes.md",
+    "Inner Growth/_Mastery/_Mastery.md",
+    "Inner Growth/_Mastery/Deep Practice.md",
+    "Career/Career Study Checklist.md",
+    "Career/Career Goals.md",
+    "Career/Job Types.md",
+    "Review.md",
+    "Money/Investing/Capital gains tax.md",
+    "Money/Investing/Basic knowledge of Financial market.md",
+    "Money/Investing/Stocks/Dividend and tax.md",
+    "Money/Investing/Stocks/Calculating a stock.md",
+    "Health/Body Recomposition.md",
+    "Status.md",
+    "General overview.canvas",
+    "____Inner Growth/_Mastery/_Mastery.md",
+    "____Inner Growth/Habit/Habit Stacking.md",
+    "____Inner Growth/Decisions/Problem Solving/Gap Analysis.md",
+    "_____Health/Brain/Brain.md",
+    "______Career/Career Study Checklist.md",
+    "____Inner Growth/Productivity/Tasks.md",
+    "Base test.base",
+    "Coffee rexipe.canvas",
+    "_Other/Car",
+    "___Money/Investing/Crypto",
+    "___Money/Investing/Stocks",
+    "Pasted image 20250127091847.png",
+    "Pasted image 20250127091622.png",
+    "Pasted image 20250127091556.png",
+    "Pasted image 20250127091438.png",
+    "Pasted image 20250127091413.png",
+    "Pasted image 20250127091313.png",
+    "Pasted image 20250111172001.png",
+    "____Inner Growth/_Mastery/Approaches",
+    "__Recreation/Cooking/Ingredient Research",
+    "______Career/Math",
+    "______Career/Physics",
+    "_____Health/Fitness",
+    "__Recreation/Cooking/Cooking Methods"
+  ]
+}

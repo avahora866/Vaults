@@ -1,0 +1,14 @@
+- nikkah suit
+	- I'm wearing navy blue
+	- she's wearing white
+	- her sisters wearing blue
+	- her brothers wearing charcoal grey
+	- mum and mej weaarig pink
+	- Muhammed and abdullah grey? 
+- walimah shirwani
+	- I'm wearing beige shirwani
+	- her dress isn't chose
+	- mum and mej any colour
+- return form with both passports before ramadhan
+- nikkah is 11.30 on Saturday 
+- find out dad's name
