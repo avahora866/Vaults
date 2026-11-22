@@ -1,0 +1,1 @@
+**Vi** and **Vim** are text editors used in Unix-based systems. **Vi** is the original editor, while **Vim** (Vi Improved) is an extended version offering additional features. They are widely used for coding and system administration tasks due to their efficiency and powerful functionality.

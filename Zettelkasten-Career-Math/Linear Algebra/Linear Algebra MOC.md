@@ -1,0 +1,18 @@
+---
+tags:
+  - MOC
+---
+**Prerequisites:** [[Algebra MOC]]
+
+- [[Vectors]]: Vectors are mathematical objects possessing both magnitude and direction, often represented as arrows or ordered lists of numbers. They are fundamental in linear algebra for representing points, displacements, forces, and other quantities in multi-dimensional space.
+- [[Matrices]]: Matrices are rectangular arrays of numbers arranged in rows and columns, used to represent and manipulate data or linear transformations. Operations like matrix multiplication allow for compact representation and solution of systems of linear equations and transformations.
+- [[Linear Systems]]: Linear systems are sets of linear equations involving the same set of variables. The primary goal when dealing with linear systems is to find values for the variables that satisfy all equations simultaneously, often achieved using matrix methods.
+- [[Eigenvalues and Eigenvectors]]: Eigenvalues and eigenvectors characterize how a linear transformation stretches or shrinks space; eigenvectors are special vectors that only change by a scalar factor (the eigenvalue) when the transformation is applied. They reveal fundamental properties of the transformation, crucial in fields like physics, engineering, and data analysis (e.g., PCA).
+- [[Basics of Vector Spaces]]: A vector space is a collection of vectors that can be added together and multiplied by scalars, obeying specific axioms like closure under addition and scalar multiplication. These abstract structures generalize the properties of Euclidean space and provide a framework for linear algebra.
+- [[Orthogonality]]: Orthogonality refers to the generalization of perpendicularity in vector spaces, where two vectors are orthogonal if their inner product is zero. This concept is vital for constructing convenient bases (like orthonormal bases) and simplifying many calculations, such as projections.
+- [[Coordinate Systems and Change of Basis]]: Coordinate systems provide a way to uniquely represent vectors using scalars relative to a set of basis vectors. A change of basis involves expressing vectors in terms of a new set of basis vectors, often done to simplify problem representation or analysis.
+- [[Linear Transformations and Their Matrix Representation]]: Linear transformations are functions between vector spaces that preserve vector addition and scalar multiplication, essentially mapping lines to lines while keeping the origin fixed. Any linear transformation between finite-dimensional vector spaces can be uniquely represented by a matrix relative to chosen bases.
+- [[Norms and Inner Products]]: Norms generalize the concept of vector length or magnitude, providing a measure of size, while inner products (like the dot product) generalize the angle between vectors and allow defining orthogonality. Together, they equip vector spaces with geometric structure.
+- [[QR Decomposition]]: QR decomposition factorizes a matrix A into the product of an orthogonal matrix Q (whose columns are orthonormal vectors) and an upper triangular matrix R. This decomposition is widely used in solving linear least squares problems and in algorithms for finding eigenvalues.
+- [[Cholesky Decomposition]]: Cholesky decomposition factorizes a symmetric, positive-definite matrix into the product of a lower triangular matrix and its conjugate transpose. It's an efficient method often used for solving systems of linear equations and in Monte Carlo simulations.
+- [[Special Matrices]]: Special matrices are matrices with particular structures or properties, such as diagonal, symmetric, orthogonal, or identity matrices. Their unique characteristics often lead to simplified calculations and theoretical results in various applications.

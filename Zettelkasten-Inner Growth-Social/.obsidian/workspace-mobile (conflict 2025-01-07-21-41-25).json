@@ -1,0 +1,159 @@
+{
+  "main": {
+    "id": "d4b8f36073404c4d",
+    "type": "split",
+    "children": [
+      {
+        "id": "aa4363e721fb68fd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "34e4e790a12e92fd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_Social Skills/Social Anxiety/_Social Anxiety.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "_Social Anxiety"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bf35e72965e6ba0a",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "0d453d049aa074a0",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "b5916d3a7b05344f",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "e4f2af6015073b7f",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "9e70508cdba6ef83",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "adc0db26f481f38d",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "7fe68cbe8bed2609",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Social Skills/Conversational Mastery/Conversation Techniques.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "25507385359e4e48",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "9b2b22645beada72",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {},
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "34e4e790a12e92fd",
+  "lastOpenFiles": [
+    "Other/Analyze scenarios/Being myself.md",
+    "_Social Skills/Conversational Mastery/Conversation Techniques/Response.md",
+    "_Social Skills/Conversational Mastery/Conversation Techniques/_Conversation Techniques.md",
+    "People/Friends/Hussain Makda.md",
+    "People/Makda marriage.md",
+    "Social Skills/Conversational Mastery/Conversation Techniques.md",
+    "Social Skills/Core Social Principles.md",
+    "Social Skills/Conversational Mastery/Personal Communication Insights.md",
+    "Personality.md"
+  ]
+}

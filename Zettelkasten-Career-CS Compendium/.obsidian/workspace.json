@@ -1,0 +1,224 @@
+{
+  "main": {
+    "id": "77f835bdc0175376",
+    "type": "split",
+    "children": [
+      {
+        "id": "6dcfcb34eaba7f3a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "71203ed306a0b3ec",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "de5aac14ebb2c174",
+    "type": "split",
+    "children": [
+      {
+        "id": "8f72ab6c16678c66",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "653c14c6934705c2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "2d03ecf0ede28fb7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#COMPREHEND  ",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "77f953e48a240049",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 373.5
+  },
+  "right": {
+    "id": "e57cfed11896ba55",
+    "type": "split",
+    "children": [
+      {
+        "id": "55d0871cba9342cc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d5052c47109e7b4f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Java/Java APIs and Libraries/Serialisation.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Serialisation"
+            }
+          },
+          {
+            "id": "f5844d1c1887af53",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Java/Java APIs and Libraries/Serialisation.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Serialisation"
+            }
+          },
+          {
+            "id": "14ac192b6155e1b5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Cloud/AWS/Core Concepts/AWS Cloudfront.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of AWS Cloudfront"
+            }
+          },
+          {
+            "id": "a0e2a0d0192d47bf",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false,
+                "showSearch": true,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "smart-random-note:Open Random Note from Search": false,
+      "omnisearch:Omnisearch": false,
+      "media-extended:Open external media": false
+    }
+  },
+  "active": "2d03ecf0ede28fb7",
+  "lastOpenFiles": [
+    "Web Development/Frontend/Framework/Vue/VueJS (Options API).md",
+    "Foundations/Data Structures and Algorithms/Algorithms/Coding Interview Patterns/Arrays and Pointers/Sliding Window.md",
+    "Programming/Java/Architecture/JRE (Java Runtime Environment).md",
+    "Programming/Java/Architecture/JDK (Java Development Kit).md",
+    "Programming/Java/Architecture/JDK, JRE and JVM.md",
+    "Foundations/Data Structures and Algorithms/Algorithms/Coding Interview Patterns/Heaps/Top K elements.md",
+    "Foundations/Data Structures and Algorithms/Algorithms/Coding Interview Patterns/Trees and Graphs/BFS.md",
+    "Foundations/Data Structures and Algorithms/Algorithms/Coding Interview Patterns/Trees and Graphs/DFS.md",
+    "Foundations/Data Structures and Algorithms/Algorithms/Coding Interview Patterns/Sorting and Intervals/Merge Intervals.md",
+    "Foundations/Data Structures and Algorithms/Algorithms/Coding Interview Patterns/Arrays and Pointers/Two Pointers or Iterators.md",
+    "Foundations/Data Structures and Algorithms/Algorithms/Coding Interview Patterns/Arrays and Pointers/Fast And Slow Pointers.md",
+    "Foundations/Data Structures and Algorithms/Algorithms/Coding Interview Patterns/Heaps/K-Way Merge.md",
+    "Foundations/Data Structures and Algorithms/Algorithms/Coding Interview Patterns/Combinotronics",
+    "Foundations/Data Structures and Algorithms/Algorithms/Coding Interview Patterns/Heaps",
+    "Foundations/Data Structures and Algorithms/Algorithms/Coding Interview Patterns/Trees and Graphs",
+    "Foundations/Data Structures and Algorithms/Algorithms/Coding Interview Patterns/Search",
+    "Foundations/Data Structures and Algorithms/Algorithms/Coding Interview Patterns/Sorting and Intervals",
+    "Foundations/Data Structures and Algorithms/Algorithms/Coding Interview Patterns/Arrays and Pointers",
+    "Foundations/Data Structures and Algorithms/Algorithms/Algorithms Grouped by Data Structure.md",
+    "Foundations/Data Structures and Algorithms/Algorithms/Coding Interview Patterns/Search/Modified Binary Search.md",
+    "Foundations/Data Structures and Algorithms/Algorithms/Coding Interview Patterns/Sorting and Intervals/Cyclic Sort.md",
+    "Foundations/Data Structures and Algorithms/Algorithms/Introduction/Recursive Algorithm.md",
+    "Foundations/Data Structures and Algorithms/Algorithms/Introduction/Algorithmic Complexity.md",
+    "Foundations/Data Structures and Algorithms/Algorithms/Introduction/1. Introduction.md",
+    "Review/Software Design Prep.md",
+    "Review/System Design Prep.md",
+    "Review/Potential Projects.md",
+    "Review/Necromancy Game Design.md",
+    "Review/History Timeline Project.md",
+    "Review/design_doc.md",
+    "Overview/Status.md",
+    "Overview/Notes needed.base",
+    "Overview",
+    "Web Development/Backend Frameworks/Spring/Spring Core/Beans.md",
+    "Web Development/Backend Frameworks/Spring/Spring.base",
+    "Overview/Flashcards.base",
+    "{A3B9C7FE-A0F2-45F6-9C51-508540726AC5}.png",
+    "Pasted image 20241223153634.png",
+    "Pasted image 20241223153141.png",
+    "_Images/29add57352903acd3be1275a2f83017f.png",
+    "_Images/0aacb12798630d88d5c1ae848a0bbae6.png",
+    "_Images/WebClipper.png",
+    "_Images/WebClipper-1.png",
+    "_Images/Types-of-Tree-Data-Structure.webp",
+    "_Images/Types-of-Queue-(1).webp",
+    "_Images/SubNotebooks.png"
+  ]
+}

@@ -1,0 +1,151 @@
+{
+  "customFileOrder": {
+    "/": [
+      "Digital Art.md",
+      "General Workflow for figures.md",
+      "Form",
+      "Value",
+      "Perspective",
+      "Composition",
+      "Artists",
+      "General Tips",
+      "Technincal Ability With Tools",
+      "Animation.md",
+      "Status.md",
+      "_Templates",
+      "Images"
+    ],
+    "_Templates": [
+      "_Templates/Anatomy.md",
+      "_Templates/Colour.md",
+      "_Templates/Composition.md",
+      "_Templates/Form.md",
+      "_Templates/General.md",
+      "_Templates/Technical Ability With Tools.md",
+      "_Templates/Value.md"
+    ],
+    "Artists": [
+      "Artists/Guweiz.md"
+    ],
+    "Composition": [
+      "Composition/Value Composition.md"
+    ],
+    "Form": [
+      "Form/Anatomy",
+      "Form/Figure",
+      "Form/Portraits",
+      "Form/Excersizes to practice form and perspective.md",
+      "Form/Key concepts.md"
+    ],
+    "Form/Anatomy": [
+      "Form/Anatomy/Foundational Concepts",
+      "Form/Anatomy/Regional Breakdown",
+      "Form/Anatomy/Anatomy - Map of Content.md"
+    ],
+    "Form/Anatomy/Foundational Concepts": [
+      "Form/Anatomy/Foundational Concepts/Anatomy - Bony Landmarks.md",
+      "Form/Anatomy/Foundational Concepts/Anatomy - Center of Gravity and Balance.md",
+      "Form/Anatomy/Foundational Concepts/Anatomy - Proportion.md",
+      "Form/Anatomy/Foundational Concepts/Anatomy - Simplified Forms.md",
+      "Form/Anatomy/Foundational Concepts/The Muscular System - Overview.md",
+      "Form/Anatomy/Foundational Concepts/The Skeleton - Overview.md"
+    ],
+    "Form/Anatomy/Regional Breakdown": [
+      "Form/Anatomy/Regional Breakdown/The Head",
+      "Form/Anatomy/Regional Breakdown/The Neck",
+      "Form/Anatomy/Regional Breakdown/The Torso",
+      "Form/Anatomy/Regional Breakdown/The Back",
+      "Form/Anatomy/Regional Breakdown/The Arm",
+      "Form/Anatomy/Regional Breakdown/The Hand",
+      "Form/Anatomy/Regional Breakdown/The Pelvis",
+      "Form/Anatomy/Regional Breakdown/The Leg",
+      "Form/Anatomy/Regional Breakdown/The Foot"
+    ],
+    "Form/Anatomy/Regional Breakdown/The Arm": [
+      "Form/Anatomy/Regional Breakdown/The Arm/Anatomy - The Arm.md"
+    ],
+    "Form/Anatomy/Regional Breakdown/The Back": [
+      "Form/Anatomy/Regional Breakdown/The Back/Anatomy - The Back.md"
+    ],
+    "Form/Anatomy/Regional Breakdown/The Foot": [
+      "Form/Anatomy/Regional Breakdown/The Foot/Anatomy - The Foot.md"
+    ],
+    "Form/Anatomy/Regional Breakdown/The Hand": [
+      "Form/Anatomy/Regional Breakdown/The Hand/Anatomy - The Hand.md"
+    ],
+    "Form/Anatomy/Regional Breakdown/The Head": [
+      "Form/Anatomy/Regional Breakdown/The Head/Anatomy - The Head.md"
+    ],
+    "Form/Anatomy/Regional Breakdown/The Leg": [
+      "Form/Anatomy/Regional Breakdown/The Leg/Anatomy - The Leg.md"
+    ],
+    "Form/Anatomy/Regional Breakdown/The Neck": [
+      "Form/Anatomy/Regional Breakdown/The Neck/Anatomy - The Neck.md"
+    ],
+    "Form/Anatomy/Regional Breakdown/The Pelvis": [
+      "Form/Anatomy/Regional Breakdown/The Pelvis/Anatomy - The Pelvis.md"
+    ],
+    "Form/Anatomy/Regional Breakdown/The Torso": [
+      "Form/Anatomy/Regional Breakdown/The Torso/Anatomy - The Torso.md"
+    ],
+    "Form/Figure": [
+      "Form/Figure/Body proportions.md",
+      "Form/Figure/Contra posto.md",
+      "Form/Figure/Planes.md",
+      "Form/Figure/Simplification.md"
+    ],
+    "Form/Portraits": [
+      "Form/Portraits/Bridge man method.md",
+      "Form/Portraits/Loomis method.md",
+      "Form/Portraits/Riley method.md"
+    ],
+    "General Tips": [
+      "General Tips/Drawing tips.md",
+      "General Tips/Process for drawing figures.md",
+      "General Tips/Want to try.md",
+      "General Tips/Workflow.md"
+    ],
+    "Images": [
+      "Images/maxresdefault.jpg",
+      "Images/stock-vector-muscle-diagram-most-important-muscles-of-an-athletic-black-man-anterior-and-posterior-view-male-1752470600 - Copy.jpg",
+      "Images/images.jpg",
+      "Images/Bony_pelvis__Pelvis_ossea_.jpg",
+      "Images/anatomyhand_1280.jpg",
+      "Images/human-anatomy-bone-skeleton-viewed-back-skeletal-system-rear-view-black-background-d-illustration-158321414.webp",
+      "Images/bones_leg_foot.jpg",
+      "Images/arm-anterior-muscles-labeled-3d-illustration.jpg",
+      "Images/image4.jpg",
+      "Images/searchimage_black.jpg",
+      "Images/Pasted image 20251027183256.jpg",
+      "Images/Pasted image 20251011120131.jpg",
+      "Images/Pasted image 20251011120147.jpg",
+      "Images/Pasted image 20251011120153.jpg",
+      "Images/Pasted image 20251011120202.jpg",
+      "Images/Pasted image 20251011120210.jpg",
+      "Images/Pasted image 20251011120225.jpg",
+      "Images/Pasted image 20251011152329.jpg",
+      "Images/Pasted image 20251011152436.jpg",
+      "Images/Pasted image 20251011152444.jpg",
+      "Images/Pasted image 20251011152509.jpg",
+      "Images/Pasted image 20251011152525.jpg",
+      "Images/Pasted image 20251017190111.jpg"
+    ],
+    "Perspective": [
+      "Perspective/Perspective.md"
+    ],
+    "Technincal Ability With Tools": [
+      "Technincal Ability With Tools/Line Art in CSP.md",
+      "Technincal Ability With Tools/Perspective.md"
+    ],
+    "Value": [
+      "Value/_Key Concepts.md",
+      "Value/_Personal Insights.md",
+      "Value/Planes.md",
+      "Value/Rendering.md"
+    ]
+  },
+  "draggingEnabled": true,
+  "selectedSortOrder": "manual-sorting",
+  "debugMode": false,
+  "newItemsPosition": "top"
+}

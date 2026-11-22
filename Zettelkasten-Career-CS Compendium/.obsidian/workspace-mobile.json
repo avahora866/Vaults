@@ -1,0 +1,208 @@
+{
+  "main": {
+    "id": "c431aefc8956d1cb",
+    "type": "split",
+    "children": [
+      {
+        "id": "778844e02fe74807",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "25c506b46128cfa1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Web Development/Frontend/Framework/Vue/VueJS (Options API).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "VueJS (Options API)"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "56475e3920547292",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "afc9328e60ebba17",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "2bcf29d052822f40",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": true,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "34bdf5e99a27e82f",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "9b05e5eedb04092e",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "f3063386c6646882",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "a3f4c81722ba43b6",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Java/JavaFX.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "ad4075346af34c61",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "69676eed0ee47127",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Foundations/Concurrency/Patterns/Barrier model.md",
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      }
+    ],
+    "currentTab": 2
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "smart-random-note:Open Random Note from Search": false,
+      "omnisearch:Omnisearch": false
+    }
+  },
+  "active": "25c506b46128cfa1",
+  "lastOpenFiles": [
+    "Web Development/Frontend/Framework/Vue/Vue Performance Optimisation/Virtual DOM optimizations.md",
+    "Software Architecture/Software Design/Principles/1. Software Design Principles.md",
+    "Software Architecture/Software Design/Paradigms/Functional Programming.md",
+    "Web Development/General Concepts/HTTP Protocol.md",
+    "Web Development/Security/Cyber Security/Access Control And Identity/Authorisation/OAuth.md",
+    "Web Development/Security/Cyber Security/Access Control And Identity/Authorisation/JWT.md",
+    "Web Development/Security/Cyber Security/Access Control And Identity/Authentication/Authentication.md",
+    "Web Development/Security/Cyber Security/Web Application Attacks/CSRF & XSS.md",
+    "Web Development/Security/Cyber Security/Cryptography/RSA (Rivest–Shamir–Adleman).md",
+    "Web Development/Security/Cyber Security/Cryptography/Public Key Infrastructure (PKI).md",
+    "Web Development/Security/Cyber Security/Cryptography/Asymmetric vs Symmetric Encryption.md",
+    "Web Development/Security/Cyber Security/Cryptography/Cryptography.md",
+    "Web Development/Security/Cyber Security/Cryptography/_Cryptography basics.md",
+    "Web Development/Security/Cyber Security/Access Control And Identity/Role-Based Access Control (RBAC).md",
+    "Web Development/Security/Cyber Security/Access Control And Identity/Authorisation",
+    "Web Development/Security/Cyber Security/Access Control And Identity/Authentication",
+    "Web Development/Security/Cyber Security/Cyber Security.md",
+    "Web Development/Security/Cyber Security/Web Application Attacks",
+    "Web Development/Security/Cyber Security/Cryptography",
+    "Web Development/Security/Cyber Security/Access Control And Identity",
+    "Web Development/Security/Security Theory Fundamentals.md",
+    "Web Development/Security/Cyber Security",
+    "Web Development/Security",
+    "Software Architecture/System Design/System Design.md",
+    "Web Development/Backend Frameworks/Spring/Spring Security/Spring Security.md",
+    "Software Architecture/System Design/Basic overview of Authentication and Authorisation.md",
+    "Foundations/Data Structures and Algorithms/Algorithms/Searching Algorithms/Breadth-First Search (BFS).md",
+    "Foundations/Data Structures and Algorithms/Algorithms/Coding Interview Patterns/Tree BFS.md",
+    "Web Development/Backend Frameworks/Spring/Spring Web/Spring MVC/Spring Web MVC.md",
+    "Theory of Computation/Theory of Computation.md",
+    "Theory of Computation/Automata Theory.md",
+    "Web Development/Frontend/Framework/ReactJs/ReactJs.md",
+    "Status.md",
+    "Flashcards.base",
+    "Notes needed.base",
+    "Web Framework/Spring/Spring.base",
+    "{A3B9C7FE-A0F2-45F6-9C51-508540726AC5}.png",
+    "_Images/e94a2b4a93c15ce6d6f86fd0bf59646d.png",
+    "_Images/e94e2d273e1f11e5af20ee3e82ade82e.png",
+    "_Images/e0224b5e25e61cad4005a3d98815b1cb.png",
+    "_Images/ef55346dbd47d86c63704aa273ef62a5.png",
+    "_Images/f81403dc425cfa1fb14e7603da31a2b7.png",
+    "_Images/fc04c477688fdab46bc6760d0a9f5db5.png",
+    "_Images/Pasted image 20241223153141.png",
+    "_Images/Pasted image 20241223153634.png",
+    "_Images/Screenshot_20240801_134057_Chrome.jpg",
+    "Untitled.canvas"
+  ]
+}

@@ -1,0 +1,219 @@
+{
+  "main": {
+    "id": "2d846f23101554c5",
+    "type": "split",
+    "children": [
+      {
+        "id": "38bb86fbf079eea6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "50ef2ae62c29b6ec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Animation.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Animation"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8c8ebe9b41fc0129",
+    "type": "split",
+    "children": [
+      {
+        "id": "d30bdd606bed797b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fbe48ad7feb8f69b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "62998a19d424df4f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#MOC",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "142659023c62229f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 379.5
+  },
+  "right": {
+    "id": "033352b5cd822133",
+    "type": "split",
+    "children": [
+      {
+        "id": "2d0141a22ad9ce48",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "154ac2ff891369d3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Body proportions.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Body proportions"
+            }
+          },
+          {
+            "id": "79d6716844fb17c6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Body proportions.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Body proportions"
+            }
+          },
+          {
+            "id": "b887be9b7191e6b7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "7200dc0bb870b028",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Body proportions.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Body proportions"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:New drawing": false
+    }
+  },
+  "active": "fbe48ad7feb8f69b",
+  "lastOpenFiles": [
+    "Digital Art.md",
+    "Animation.md",
+    "Form/Anatomy/Regional Breakdown/The Leg/Anatomy - The Leg.md",
+    "Form/Anatomy/Regional Breakdown/The Torso/Anatomy - The Torso.md",
+    "Images/stock-vector-muscle-diagram-most-important-muscles-of-an-athletic-black-man-anterior-and-posterior-view-male-1752470600 - Copy.jpg",
+    "Images/maxresdefault.jpg",
+    "Status.md",
+    "General Workflow for figures.md",
+    "Form/Anatomy/Regional Breakdown/The Foot/Anatomy - The Foot.md",
+    "Images/images.jpg",
+    "Form/Anatomy/Regional Breakdown/The Pelvis/Anatomy - The Pelvis.md",
+    "Images/Bony_pelvis__Pelvis_ossea_.jpg",
+    "Form/Anatomy/Regional Breakdown/The Hand/Anatomy - The Hand.md",
+    "Images/anatomyhand_1280.jpg",
+    "Form/Anatomy/Regional Breakdown/The Arm/Anatomy - The Arm.md",
+    "Form/Anatomy/Regional Breakdown/The Back/Anatomy - The Back.md",
+    "Images/human-anatomy-bone-skeleton-viewed-back-skeletal-system-rear-view-black-background-d-illustration-158321414.webp",
+    "Form/Anatomy/Regional Breakdown/The Neck/Anatomy - The Neck.md",
+    "Form/Anatomy/Regional Breakdown/The Head/Anatomy - The Head.md",
+    "Images/bones_leg_foot.jpg",
+    "Images/arm-anterior-muscles-labeled-3d-illustration.jpg",
+    "Images/image4.jpg",
+    "Images/searchimage_black.jpg",
+    "Form/Anatomy/Foundational Concepts/Anatomy - Bony Landmarks.md",
+    "Artists/Guweiz.md",
+    "Form/Anatomy/Anatomy - Map of Content.md",
+    "Form/Anatomy/Foundational Concepts/Anatomy - Center of Gravity and Balance.md",
+    "Form/Anatomy/Anatomy - Planes of the Body.md",
+    "Form/Anatomy/Foundational Concepts/Anatomy - Simplified Forms.md",
+    "_Templates/Anatomy.md",
+    "Form/Anatomy/Foundational Concepts/Anatomy - Proportion.md",
+    "_Templates/Form.md",
+    "Form/Anatomy/Foundational Concepts",
+    "Perspective/Perspective.md",
+    "Form/Anatomy/Top Half/Hand.md",
+    "Form/Anatomy/Head/Head.md",
+    "Perspective",
+    "Images",
+    "General Tips",
+    "Form/Figure",
+    "Technincal Ability With Tools",
+    "Composition",
+    "Colour",
+    "Form",
+    "Value"
+  ]
+}

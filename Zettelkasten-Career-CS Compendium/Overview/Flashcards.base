@@ -1,0 +1,57 @@
+filters:
+  and:
+    - '!file.path.contains("Old")'
+views:
+  - type: table
+    name: FLASHCARDS
+    filters:
+      and:
+        - file.tags.contains("FLASHCARD")
+    order:
+      - file.name
+      - file.path
+    sort:
+      - property: file.path
+        direction: DESC
+  - type: table
+    name: IMAGE_OCCLUSION
+    filters:
+      and:
+        - file.tags.contains("IMAGE_OCCLUSION_FLASHCARD")
+    order:
+      - file.name
+  - type: table
+    name: FLASHCARDS_without_redo
+    filters:
+      and:
+        - file.tags.contains("FLASHCARD")
+        - '!file.tags.containsAny("RE_DO", "NOTES")'
+    order:
+      - file.name
+      - file.path
+    sort:
+      - property: file.path
+        direction: DESC
+  - type: table
+    name: FLASHCARDS_WITH_REDO
+    filters:
+      and:
+        - file.tags.containsAny("NOTES", "RE_DO")
+        - file.tags.contains("FLASHCARD")
+    order:
+      - file.name
+      - file.path
+    sort:
+      - property: file.path
+        direction: ASC
+  - type: table
+    name: Tagging needed
+    filters:
+      and:
+        - '!file.tags.containsAny("TRUNK", "SECONDARY_BRANCH", "TERTIARY_BRANCH", "LEAF")'
+    order:
+      - file.name
+      - file.folder
+    sort:
+      - property: file.folder
+        direction: ASC

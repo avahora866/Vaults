@@ -1,0 +1,196 @@
+{
+  "main": {
+    "id": "d2dcbe6e805f5407",
+    "type": "split",
+    "children": [
+      {
+        "id": "af525d36da1e889e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "678b92db8d55df02",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Course Notes/Java Udemy Course/Java Record (JDK 14) (conflict 2024-12-22-19-49-54).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Java Record (JDK 14) (conflict 2024-12-22-19-49-54)"
+            }
+          },
+          {
+            "id": "a0b79c636193d81e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Course Notes/Java Udemy Course/Parameter ....md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Parameter ..."
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "221bbf682a52b63f",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "2fb76dd53031a2fe",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "5527d1fe032d91c9",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "Object oriented programming",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "a6f0082949b68352",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "d511ba72c7d0b3a4",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "90f415fd7c867878",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "4c1f19a7305fbc79",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Theory/Paradigms/Object Oriented Programming (OOP).md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "ba2632d1c23d2fff",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Java/Advanced/Collection Framework.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "18f1c8e156e91753",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Java/Advanced/Collection Framework.md"
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "a0b79c636193d81e",
+  "lastOpenFiles": [
+    "Course Notes/Java Udemy Course/Autoboxing.md",
+    "Course Notes/Java Udemy Course/Parameter ....md",
+    "Course Notes/Java Udemy Course/Strings class methods.md",
+    "Course Notes/Java Udemy Course/Java text block and printf.md",
+    "Course Notes/Java Udemy Course/Overriden methods.md",
+    "Course Notes/Java Udemy Course/Derived methods.md",
+    "Course Notes/Java Udemy Course/Compile time polymorphisim.md",
+    "Course Notes/Java Udemy Course/Java Record (JDK 14) (conflict 2024-12-22-19-49-54).md",
+    "Theory/Paradigms/Object Oriented Programming (OOP).md",
+    "Course Notes/Java Udemy Course/Object Oriented Programming (OOP).md",
+    "Course Notes/Java Udemy Course/Java Record (JDK 14).md",
+    "Java/Advanced/Collection Framework.md",
+    "Course Notes/Java Udemy Course/POJO (Plain Old Java Object).md",
+    "Course Notes/Java Udemy Course/Java constructor.md",
+    "Course Notes/Java Udemy Course/Java this keyword.md",
+    "Course Notes/Java Udemy Course/Composition.md",
+    "_Templates/Course Notes.md",
+    "Web Framework/Spring/Spring Security/Spring Security Model.md",
+    "Course Notes/Java Udemy Course",
+    "Course Notes",
+    "Web Framework/Spring/Spring Security/Spring Security Configuration.md",
+    "Data Structures & Algorithms/Datastructure/Linear Data Structures/Linked Lists.md",
+    "Data Structures & Algorithms/Datastructure/Linear Data Structures/Types of Linked Lists/Circular Linked List.md",
+    "Data Structures & Algorithms/Algorithms/Searching Algorithms __.md",
+    "Data Structures & Algorithms/Algorithms/Algorithmic Complexity.md",
+    "Data Structures & Algorithms/Algorithms/Divide and Conquer __.md",
+    "Data Structures & Algorithms/Algorithms/Coding Interview Patterns/Cyclic Sort.md",
+    "Java/Fundamentals/Keywords/Volitile.md"
+  ]
+}

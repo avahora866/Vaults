@@ -1,0 +1,208 @@
+{
+  "main": {
+    "id": "6258dd7d923295b6",
+    "type": "split",
+    "children": [
+      {
+        "id": "cede6820dcada141",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "be4b72345bd671c8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Form + Perspective/Figure/Anatomy/Hand.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Hand"
+            }
+          },
+          {
+            "id": "e6f7c07bd17028de",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Form/Anatomy/Regional Breakdown/The Leg/Anatomy - The Leg.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Anatomy - The Leg"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "55eb674ad383da06",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "be568f727703ed3e",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "39dd8786f3555659",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "4370426b3df3cc54",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "f5b892220f2eb089",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "2f6b02b07ac0b725",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "516573f2a12e7d95",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Form/Anatomy/Regional Breakdown/The Foot/Anatomy - The Foot.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "86d7bc85481c9d49",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "cd0e03c27b80b0bd",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {},
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:New drawing": false
+    }
+  },
+  "active": "e6f7c07bd17028de",
+  "lastOpenFiles": [
+    "Form/Anatomy/Regional Breakdown/The Torso/Anatomy - The Torso.md",
+    "Animation.md",
+    "General Workflow for figures.md",
+    "Form/Anatomy/Regional Breakdown/The Head/Anatomy - The Head.md",
+    "Artists/Guweiz.md",
+    "Images/Pasted image 20251027183256.jpg",
+    "Images/Pasted image 20251011120210.jpg",
+    "Images/Pasted image 20251011120131.jpg",
+    "Form/Anatomy/Regional Breakdown/The Foot/Anatomy - The Foot.md",
+    "Form/Anatomy/Regional Breakdown/The Leg/Anatomy - The Leg.md",
+    "Form/Anatomy/Regional Breakdown/The Pelvis/Anatomy - The Pelvis.md",
+    "Form/Anatomy/Regional Breakdown/The Back/Anatomy - The Back.md",
+    "Form/Anatomy/Regional Breakdown/The Arm/Anatomy - The Arm.md",
+    "Form/Anatomy/Regional Breakdown/The Hand/Anatomy - The Hand.md",
+    "Form/Anatomy/Regional Breakdown/The Neck/Anatomy - The Neck.md",
+    "Form/Anatomy/Anatomy - Map of Content.md",
+    "Form/Anatomy/Foundational Concepts/The Skeleton - Overview.md",
+    "Images/Pasted image 20251017190111.jpg",
+    "Form/Anatomy/Foundational Concepts/Anatomy - Center of Gravity and Balance.md",
+    "Form/Anatomy/Foundational Concepts/Anatomy - Bony Landmarks.md",
+    "Value/Planes.md",
+    "Value/Light.md",
+    "Value/Edge Control & Value Transitions.md",
+    "Value/Atmospheric perspective (For Depth & Distance).md",
+    "Value/_Personal Insights.md",
+    "Value/_Key Concepts.md",
+    "Value/_Exercises to Practice Shading and Value Control.md",
+    "Form + Perspective/Perspective.md",
+    "Artists",
+    "Form + Perspective/Key concepts.md",
+    "Form + Perspective/Excersizes to practice form and perspective.md",
+    "Form + Perspective/Portraits",
+    "Form + Perspective/Figure/Anatomy/Bottom Half",
+    "Form + Perspective/Figure/Anatomy/Top Half",
+    "Form + Perspective/Figure/Anatomy/Head",
+    "_Templates",
+    "Form + Perspective/Figure/Construction methods",
+    "Excalidraw"
+  ]
+}

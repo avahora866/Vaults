@@ -1,0 +1,57 @@
+{
+  "customFileOrder": {
+    "/": [
+      "Templates",
+      "Overview",
+      "Review",
+      "Prerequisites",
+      "Linear Algebra",
+      "Other Mathmatic Fields"
+    ],
+    "Linear Algebra": [
+      "Linear Algebra/Linear Algebra MOC.md",
+      "Linear Algebra/Linear Algebra.md",
+      "Linear Algebra/Linear Systems.md",
+      "Linear Algebra/Matrix.md",
+      "Linear Algebra/Vector.md",
+      "Linear Algebra/Linear Algebra Checklist.md"
+    ],
+    "Other Mathmatic Fields": [
+      "Other Mathmatic Fields/Trigonometry",
+      "Other Mathmatic Fields/Trigonometry.md"
+    ],
+    "Other Mathmatic Fields/Trigonometry": [
+      "Other Mathmatic Fields/Trigonometry/Links.md",
+      "Other Mathmatic Fields/Trigonometry/Similar triangles.md",
+      "Other Mathmatic Fields/Trigonometry/Sine and cosine law.md",
+      "Other Mathmatic Fields/Trigonometry/Soh coh toa.md",
+      "Other Mathmatic Fields/Trigonometry/What is trigonometry.md"
+    ],
+    "Overview": [
+      "Overview/Checklist.md",
+      "Overview/Mathematics Map of Content.md",
+      "Overview/Status.md",
+      "Overview/Symbols.md"
+    ],
+    "Prerequisites": [
+      "Prerequisites/Algebra.md",
+      "Prerequisites/Arithmetic.md"
+    ],
+    "Review": [
+      "Review/Coprime.md",
+      "Review/Euler's Totient Function.md",
+      "Review/Exponent.md"
+    ],
+    "Templates": [
+      "Templates/LEAD.md",
+      "Templates/SECONDARY BRANCH.md",
+      "Templates/TRUNK.md",
+      "Templates/Checklist.md",
+      "Templates/Custom.md"
+    ]
+  },
+  "draggingEnabled": true,
+  "selectedSortOrder": "manual-sorting",
+  "debugMode": false,
+  "newItemsPosition": "top"
+}

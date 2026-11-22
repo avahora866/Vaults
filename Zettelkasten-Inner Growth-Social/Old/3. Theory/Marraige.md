@@ -1,0 +1,2 @@
+# Criticism
+Dorothy Dix, America's premier authority on the causes of marital unhappiness, declares that more than fifty per cent of all marriages are failures; and she knows that one of the reasons why so many romantic dreams break up on the rocks of Reno is criticism—futile, heart-breaking criticism.

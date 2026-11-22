@@ -1,0 +1,183 @@
+{
+  "main": {
+    "id": "f728effb45e4cfc3",
+    "type": "split",
+    "children": [
+      {
+        "id": "a0c543a151286917",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ba119282784955fa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Nanowrimo/Planning.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Planning"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "04889088621746b8",
+    "type": "split",
+    "children": [
+      {
+        "id": "30899df6235dd29e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bda0230c6ad8c004",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "7d16431f9b06be1c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "c0b3a7eb1c91ddad",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "95a5fe430c22bd30",
+    "type": "split",
+    "children": [
+      {
+        "id": "ca0eb030df32840c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cb17b5a263d66d25",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Hi.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Hi"
+            }
+          },
+          {
+            "id": "766d086cb616c1d2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Hi.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Hi"
+            }
+          },
+          {
+            "id": "e48749e5db35c5a7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "8a7d4cfcb1d5f0b5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Hi.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Hi"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "ba119282784955fa",
+  "lastOpenFiles": [
+    "S-1/Setting.md",
+    "S-1/Plot points.md",
+    "S-1/Characters.md",
+    "Story Ideas.md",
+    "S-1/World.md",
+    "S-1/Timeline.md",
+    "S-1/Magic.md",
+    "Nanowrimo/Planning.md",
+    "Hi.md",
+    "S-1",
+    "New folder",
+    "Prompts",
+    "Nanowrimo",
+    "Untitled"
+  ]
+}

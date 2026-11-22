@@ -1,0 +1,179 @@
+{
+  "main": {
+    "id": "810f19ef90a3b585",
+    "type": "split",
+    "children": [
+      {
+        "id": "614c180185fa93ee",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6a79d24e0447a614",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Electronics/1. Core Concepts/Ohm's Law/1. Ohm’s Law.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1. Ohm’s Law"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "339e827799908aa1",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "89cb54bf8c986108",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "588eb8b39b6443da",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "ba56dc43ddf1f7b0",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "d1ae20fb3a75a754",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "5a2103fdcdec39ed",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "1f4552a408be88e2",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Electronics/1. Core Concepts/Ohm's Law/1. Ohm’s Law.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "777454f6ce79e46f",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Electronics/1. Core Concepts/Ohm's Law/1. Ohm’s Law.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "e1accb245de4edc1",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Electronics/1. Core Concepts/Ohm's Law/1. Ohm’s Law.md",
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "6a79d24e0447a614",
+  "lastOpenFiles": [
+    "Electronics/Sensors & Input Devices/Light, temperature, motion, proximity sensors.md",
+    "Electronics/Sensors & Input Devices/Buttons, switches, rotary encoders.md",
+    "Electronics/Sensors & Input Devices/Analog vs digital signals.md",
+    "Electronics/Power Systems/Power distribution and safety.md",
+    "Electronics/Power Systems/Voltage regulators, buck or boost converters.md",
+    "Electronics/Power Systems/Batteries.md",
+    "Electronics/Components/Active vs Passive Components.md",
+    "Electronics/Components/Passive Components/Resistors.md",
+    "Electronics/Components/Passive Components/Inductors.md",
+    "Electronics/Components/Passive Components/Diodes.md",
+    "Electronics/Components/Passive Components/Capacitors.md",
+    "Electronics/Components/Active Componetns/Transistors.md",
+    "Electronics/Components/Active Componetns/Op-Amps.md",
+    "Electronics/Components/Active Componetns/MOSFETs.md",
+    "Electronics/1. Core Concepts/Series vs parallel circuits.md",
+    "Electronics/1. Core Concepts/Power And Energy In Ciruits.md",
+    "Electronics/1. Core Concepts/Ohm's Law/Voltage.md",
+    "Electronics/1. Core Concepts/Ohm's Law/Resistence.md",
+    "Electronics/1. Core Concepts/Ohm's Law/Current.md",
+    "Electronics/1. Core Concepts/Ohm's Law/1. Ohm’s Law.md"
+  ]
+}

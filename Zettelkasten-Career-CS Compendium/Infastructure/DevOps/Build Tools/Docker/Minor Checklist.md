@@ -1,0 +1,20 @@
+---
+tags:
+  - CHECKLIST
+---
+- [ ] **Security Best Practices**  
+      - [ ] Running containers with least privilege (`USER` instruction in Dockerfile)  
+      - [ ] Avoiding root access inside containers  
+      - [ ] Scanning images for vulnerabilities (`docker scan image-name`)  
+      - [ ] Using private registries for sensitive images  
+- [ ] **Docker in CI/CD Pipelines**  
+      - [ ] Using Docker in GitHub Actions, GitLab CI, Jenkins  
+      - [ ] Building and pushing Docker images in CI/CD (`docker build`, `docker push`)  
+- [ ] **Deploying Docker Containers**  
+      - [ ] Deploying to cloud providers (AWS ECS, Azure Container Instances, Google Cloud Run)  
+      - [ ] Running containers on a VPS (DigitalOcean, Linode, etc.)  
+      - [ ] Using Docker with Nginx for reverse proxy setups  
+- [ ] **Advanced Docker Concepts**  
+      - [ ] Multi-stage builds for smaller images  
+      - [ ] Running GUI applications inside containers  
+      - [ ] Using BuildKit for faster builds
