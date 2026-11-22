@@ -1,0 +1,115 @@
+{
+  "customFileOrder": {
+    "/": [
+      "01 Physics Map of Content.md",
+      "01 Mechanics",
+      "05 Modern Physics",
+      "06 Quantum Mechanics Foundations",
+      "02 Waves and Oscillations",
+      "04 Thermodynamics",
+      "03 Electromagnetism",
+      "_Definitions and notes to organise",
+      "_Templates",
+      "Checklist.md",
+      "Physics Map of Content.md",
+      "Status.md"
+    ],
+    "_Definitions and notes to organise": [
+      "_Definitions and notes to organise/3D Cartesian coordinates.md",
+      "_Definitions and notes to organise/Derivative.md",
+      "_Definitions and notes to organise/Orthoganol Components.md",
+      "_Definitions and notes to organise/Perpendicular.md",
+      "_Definitions and notes to organise/Spatial coordinate.md"
+    ],
+    "_Templates": [
+      "_Templates/LEAF.md",
+      "_Templates/BRANCH.md",
+      "_Templates/TRUNK.md",
+      "_Templates/Custom.md",
+      "_Templates/MOC.md"
+    ],
+    "01 Mechanics": [
+      "01 Mechanics/Dynamics",
+      "01 Mechanics/Kinematics",
+      "01 Mechanics/01 Mechanics Map of Content.md",
+      "01 Mechanics/02 Mechanics.md"
+    ],
+    "01 Mechanics/Dynamics": [
+      "01 Mechanics/Dynamics/01 Dynamics Map of Content.md",
+      "01 Mechanics/Dynamics/02 Dynamics.md",
+      "01 Mechanics/Dynamics/Contact and Field Forces.md",
+      "01 Mechanics/Dynamics/Energy and Work.md",
+      "01 Mechanics/Dynamics/Gravitational Potential Energy and Pendulums.md",
+      "01 Mechanics/Dynamics/Inertia and Mass.md",
+      "01 Mechanics/Dynamics/Momentum and Impulse.md",
+      "01 Mechanics/Dynamics/Newtons Laws of Motion.md",
+      "01 Mechanics/Dynamics/Power.md",
+      "01 Mechanics/Dynamics/Resonance.md",
+      "01 Mechanics/Dynamics/Simple Harmonic Motion.md",
+      "01 Mechanics/Dynamics/Work-Energy Theorem.md"
+    ],
+    "01 Mechanics/Kinematics": [
+      "01 Mechanics/Kinematics/01 Kinematics Map of Content.md",
+      "01 Mechanics/Kinematics/02 Kinematics.md",
+      "01 Mechanics/Kinematics/Kinematics Basics.md"
+    ],
+    "02 Waves and Oscillations": [
+      "02 Waves and Oscillations/01 Waves and Oscillations Map of Content.md",
+      "02 Waves and Oscillations/02 Waves and Oscillations.md",
+      "02 Waves and Oscillations/Doppler Effect.md",
+      "02 Waves and Oscillations/Nodes and Antinodes.md",
+      "02 Waves and Oscillations/Standing Waves.md",
+      "02 Waves and Oscillations/Superposition and Interference.md",
+      "02 Waves and Oscillations/Waves and Oscillations.md"
+    ],
+    "03 Electromagnetism": [
+      "03 Electromagnetism/01 Electromagnetism Map of Content.md",
+      "03 Electromagnetism/02 Electromagnetism.md",
+      "03 Electromagnetism/Capacitors and Inductors.md",
+      "03 Electromagnetism/Electric Charge and Coulombs Law.md",
+      "03 Electromagnetism/Electric Potential Energy.md",
+      "03 Electromagnetism/Electromagnetic Waves.md",
+      "03 Electromagnetism/Electromagnetism.md",
+      "03 Electromagnetism/Energy in Electric and Magnetic Fields.md",
+      "03 Electromagnetism/Magnetic Fields and Moving Charges.md",
+      "03 Electromagnetism/Polarization.md"
+    ],
+    "04 Thermodynamics": [
+      "04 Thermodynamics/01 Thermodynamics Map of Content.md",
+      "04 Thermodynamics/02 Thermodynamics.md",
+      "04 Thermodynamics/Entropy and Irreversibility.md",
+      "04 Thermodynamics/Heat Transfer.md",
+      "04 Thermodynamics/Laws of Thermodynamics.md",
+      "04 Thermodynamics/Statistical Mechanics.md",
+      "04 Thermodynamics/Thermodynamics.md"
+    ],
+    "05 Modern Physics": [
+      "05 Modern Physics/01 Modern Physics Map of Content.md",
+      "05 Modern Physics/02 Modern Physics.md",
+      "05 Modern Physics/Bohr Model of the Atom.md",
+      "05 Modern Physics/De Broglie Matter Waves.md",
+      "05 Modern Physics/Energy Quantization.md",
+      "05 Modern Physics/Modern Physics.md",
+      "05 Modern Physics/Photoelectric Effect.md",
+      "05 Modern Physics/Plancks Hypothesis.md",
+      "05 Modern Physics/Special Relativity.md",
+      "05 Modern Physics/Time Dilation and Length Contraction.md",
+      "05 Modern Physics/Wave-Particle Duality.md"
+    ],
+    "06 Quantum Mechanics Foundations": [
+      "06 Quantum Mechanics Foundations/01 Quantum Mechanics Foundations Map of Content.md",
+      "06 Quantum Mechanics Foundations/02 Quantum Mechanics Foundations.md",
+      "06 Quantum Mechanics Foundations/Heisenberg Uncertainty Principle.md",
+      "06 Quantum Mechanics Foundations/Measurement and Observables.md",
+      "06 Quantum Mechanics Foundations/Quantum Harmonic Oscillator.md",
+      "06 Quantum Mechanics Foundations/Quantum Mechanics Foundations.md",
+      "06 Quantum Mechanics Foundations/Quantum States.md",
+      "06 Quantum Mechanics Foundations/Schrodinger Equation and State Evolution.md",
+      "06 Quantum Mechanics Foundations/Two-Level Systems.md"
+    ]
+  },
+  "draggingEnabled": true,
+  "selectedSortOrder": "alphabetical",
+  "debugMode": false,
+  "newItemsPosition": "top"
+}

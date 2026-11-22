@@ -1,0 +1,143 @@
+{
+  "cascadeColors": false,
+  "colorBackground": false,
+  "palette": [
+    {
+      "id": "ihtRmFx_8NoNFx64bFAB6",
+      "name": "To be reworked",
+      "value": "#ff0000"
+    },
+    {
+      "id": "FbsBtVPGlrjjOgQadhASu",
+      "name": "Complete",
+      "value": "#00ff00"
+    },
+    {
+      "id": "vwZamTVZYo54Sw4QzkX1g",
+      "name": "In Progress",
+      "value": "#78d2dd"
+    }
+  ],
+  "fileColors": [
+    {
+      "path": "NodeJs",
+      "color": "ihtRmFx_8NoNFx64bFAB6"
+    },
+    {
+      "path": "Web Application",
+      "color": "ihtRmFx_8NoNFx64bFAB6"
+    },
+    {
+      "path": "Concurrency",
+      "color": "vwZamTVZYo54Sw4QzkX1g"
+    },
+    {
+      "path": "Concurrency/Concurrency.md",
+      "color": "vwZamTVZYo54Sw4QzkX1g"
+    },
+    {
+      "path": "Concurrency/Synchronisation.md",
+      "color": "vwZamTVZYo54Sw4QzkX1g"
+    },
+    {
+      "path": "C",
+      "color": "ihtRmFx_8NoNFx64bFAB6"
+    },
+    {
+      "path": "DevOps/Build Tools/Docker",
+      "color": "ihtRmFx_8NoNFx64bFAB6"
+    },
+    {
+      "path": "DevOps",
+      "color": "ihtRmFx_8NoNFx64bFAB6"
+    },
+    {
+      "path": "DevOps/Build Tools/Maven",
+      "color": "ihtRmFx_8NoNFx64bFAB6"
+    },
+    {
+      "path": "DevOps/Build Tools",
+      "color": "ihtRmFx_8NoNFx64bFAB6"
+    },
+    {
+      "path": "Java/Collection",
+      "color": "ihtRmFx_8NoNFx64bFAB6"
+    },
+    {
+      "path": "Java",
+      "color": "ihtRmFx_8NoNFx64bFAB6"
+    },
+    {
+      "path": "Java/Concurrency",
+      "color": "ihtRmFx_8NoNFx64bFAB6"
+    },
+    {
+      "path": "Web Development/CSS",
+      "color": "ihtRmFx_8NoNFx64bFAB6"
+    },
+    {
+      "path": "Web Development/Framework",
+      "color": "ihtRmFx_8NoNFx64bFAB6"
+    },
+    {
+      "path": "Web Development/JavaScript",
+      "color": "ihtRmFx_8NoNFx64bFAB6"
+    },
+    {
+      "path": "Web Development/Typescript",
+      "color": "ihtRmFx_8NoNFx64bFAB6"
+    },
+    {
+      "path": "Programming/Java",
+      "color": "ihtRmFx_8NoNFx64bFAB6"
+    },
+    {
+      "path": "Programming/Java/Concurrency",
+      "color": "ihtRmFx_8NoNFx64bFAB6"
+    },
+    {
+      "path": "Programming/Java/Networking",
+      "color": "ihtRmFx_8NoNFx64bFAB6"
+    },
+    {
+      "path": "Foundations/Concurrency",
+      "color": "vwZamTVZYo54Sw4QzkX1g"
+    },
+    {
+      "path": "Foundations/Concurrency/Concurrency.md",
+      "color": "vwZamTVZYo54Sw4QzkX1g"
+    },
+    {
+      "path": "Foundations/Data Structures and Algorithms/Algorithms/Coding Interview Patterns/Sorting and Intervals/Cyclic Sort.md",
+      "color": "FbsBtVPGlrjjOgQadhASu"
+    },
+    {
+      "path": "Foundations/Data Structures and Algorithms/Algorithms/Coding Interview Patterns/Arrays and Pointers/Fast And Slow Pointers.md",
+      "color": "FbsBtVPGlrjjOgQadhASu"
+    },
+    {
+      "path": "Foundations/Data Structures and Algorithms/Algorithms/Coding Interview Patterns/Sorting and Intervals/Merge Intervals.md",
+      "color": "FbsBtVPGlrjjOgQadhASu"
+    },
+    {
+      "path": "Foundations/Data Structures and Algorithms/Algorithms/Coding Interview Patterns/Arrays and Pointers/Two Pointers or Iterators.md",
+      "color": "FbsBtVPGlrjjOgQadhASu"
+    },
+    {
+      "path": "Foundations/Data Structures and Algorithms/Algorithms/Coding Interview Patterns/Arrays and Pointers/Sliding Window.md",
+      "color": "FbsBtVPGlrjjOgQadhASu"
+    },
+    {
+      "path": "Foundations/Data Structures and Algorithms/Algorithms/Coding Interview Patterns/Trees and Graphs/BFS.md",
+      "color": "vwZamTVZYo54Sw4QzkX1g"
+    },
+    {
+      "path": "Foundations/Data Structures and Algorithms/Algorithms/Searching Algorithms/Binary Search on Arrays.md",
+      "color": "FbsBtVPGlrjjOgQadhASu"
+    },
+    {
+      "path": "Web Development",
+      "color": "vwZamTVZYo54Sw4QzkX1g"
+    }
+  ]
+}

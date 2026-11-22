@@ -1,0 +1,192 @@
+{
+  "main": {
+    "id": "747fe1ac51b371ef",
+    "type": "split",
+    "children": [
+      {
+        "id": "da2db110f28aa240",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6bebb733f71bf9f0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linear Algebra/CHecklist.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "CHecklist"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4ecfde5ce6c7b075",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "fdcd00c5bda46739",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "b950bde7cd6d6439",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "tag:#Note",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "95dbd4dee320f62e",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "1f21226dc39ef7aa",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "b4d0c63fb534808e",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "252626bd642be6a4",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Arithmatic/_Arithmetic.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "e35bf003d0dc50f6",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Trigonometry/Similar triangles.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "0f394a511e0f0f15",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Trigonometry/Similar triangles.md",
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "6bebb733f71bf9f0",
+  "lastOpenFiles": [
+    "Checklist.md",
+    "Linear Algebra/CHecklist.md",
+    "Arithmatic/Absolute Values.md",
+    "Linear Algebra",
+    "Algebra/_Algebra.md",
+    "Algebra/Factoring.md",
+    "Algebra/Polynomials.md",
+    "Algebra/Inequalities.md",
+    "Algebra/Linear equations.md",
+    "Algebra/Equations.md",
+    "Algebra/Operation.md",
+    "_Templates/Algebra.md",
+    "Trigonometry/Similar triangles.md",
+    "Trigonometry/_What is trigonometry.md",
+    "Arithmatic/_Arithmetic.md",
+    "Arithmatic/Arithmetic Sequences and Series.md",
+    "Arithmatic/Scientific Notoation.md",
+    "Arithmatic/Basic modular arithmetic.md",
+    "Arithmatic/Relationship between decimals and fractions.md",
+    "Arithmatic/Rational and Irrational numbers.md",
+    "rational",
+    "Arithmatic/Percentage.md",
+    "Algebra/Cross-Multiplying.md",
+    "Trigonometry/Sine and cosine law.md",
+    "Trigonometry/Soh coh toa.md",
+    "Symbols.md",
+    "Pasted image 20250221223137.jpg",
+    "Pasted image 20250221223110.png",
+    "Trigonometry/_Links.md",
+    "Algebra",
+    "_Templates/Trigonometry.md",
+    "_Templates",
+    "Trigonometry"
+  ]
+}

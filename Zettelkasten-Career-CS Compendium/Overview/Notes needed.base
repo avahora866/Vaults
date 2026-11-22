@@ -1,0 +1,16 @@
+views:
+  - type: table
+    name: Re do
+    filters:
+      and:
+        - file.tags.containsAny("RE_DO")
+  - type: table
+    name: Todo
+    filters:
+      and:
+        - file.tags.containsAny("TODO")
+  - type: table
+    name: Notes
+    filters:
+      and:
+        - file.tags.containsAny("NOTES")

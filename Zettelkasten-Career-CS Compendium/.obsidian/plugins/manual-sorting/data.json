@@ -1,0 +1,1682 @@
+{
+  "customFileOrder": {
+    "/": [
+      "Overview",
+      "Review",
+      "Foundations",
+      "Programming",
+      "Web Development",
+      "Database",
+      "Network",
+      "Software Architecture",
+      "Infastructure",
+      "Testing",
+      "Version Control",
+      "Machine Learning",
+      "Theory of Computation",
+      "Templates"
+    ],
+    "Database": [
+      "Database/Needs Attention.md",
+      "Database/Object Relational Mapping (ORM).md",
+      "Database/Query Optimisation.md",
+      "Database/Relational Database.md"
+    ],
+    "Foundations": [
+      "Foundations/Data Structures and Algorithms",
+      "Foundations/Concurrency",
+      "Foundations/Theory"
+    ],
+    "Foundations/Concurrency": [
+      "Foundations/Concurrency/Needs Attention.md",
+      "Foundations/Concurrency/Memory models.md",
+      "Foundations/Concurrency/Key Concepts",
+      "Foundations/Concurrency/Patterns",
+      "Foundations/Concurrency/1. Concurrency Checklist.md",
+      "Foundations/Concurrency/Concurrency.md",
+      "Foundations/Concurrency/Performance and Scalability.md",
+      "Foundations/Concurrency/Race Conditions.md",
+      "Foundations/Concurrency/Synchronisation.md",
+      "Foundations/Concurrency/Thread Management.md"
+    ],
+    "Foundations/Concurrency/Key Concepts": [
+      "Foundations/Concurrency/Key Concepts/Atomicity.md",
+      "Foundations/Concurrency/Key Concepts/Non-blocking.md"
+    ],
+    "Foundations/Concurrency/Patterns": [
+      "Foundations/Concurrency/Patterns/Barrier model.md",
+      "Foundations/Concurrency/Patterns/_Concurrency patterns.md",
+      "Foundations/Concurrency/Patterns/Actor model.md",
+      "Foundations/Concurrency/Patterns/Balking Pattern.md",
+      "Foundations/Concurrency/Patterns/Fork Join.md",
+      "Foundations/Concurrency/Patterns/Future Promise.md",
+      "Foundations/Concurrency/Patterns/Proactor Pattern.md",
+      "Foundations/Concurrency/Patterns/Producer-Consumer.md",
+      "Foundations/Concurrency/Patterns/Reactor.md",
+      "Foundations/Concurrency/Patterns/Read-Write Model.md",
+      "Foundations/Concurrency/Patterns/Scheduler pattern.md",
+      "Foundations/Concurrency/Patterns/Thread local storage.md",
+      "Foundations/Concurrency/Patterns/Thread pool.md",
+      "Foundations/Concurrency/Patterns/Worker Thread.md"
+    ],
+    "Foundations/Data Structures and Algorithms": [
+      "Foundations/Data Structures and Algorithms/Algorithms",
+      "Foundations/Data Structures and Algorithms/Datastructure",
+      "Foundations/Data Structures and Algorithms/Introduction.md"
+    ],
+    "Foundations/Data Structures and Algorithms/Algorithms": [
+      "Foundations/Data Structures and Algorithms/Algorithms/Introduction",
+      "Foundations/Data Structures and Algorithms/Algorithms/Coding Interview Patterns",
+      "Foundations/Data Structures and Algorithms/Algorithms/Algorithms Grouped by Data Structure.md",
+      "Foundations/Data Structures and Algorithms/Algorithms/Merge Algorithms",
+      "Foundations/Data Structures and Algorithms/Algorithms/Sorting Algorithms",
+      "Foundations/Data Structures and Algorithms/Algorithms/Searching Algorithms",
+      "Foundations/Data Structures and Algorithms/Algorithms/Trie Algorithms",
+      "Foundations/Data Structures and Algorithms/Algorithms/Dynamic Programming",
+      "Foundations/Data Structures and Algorithms/Algorithms/Greedy Algorithms",
+      "Foundations/Data Structures and Algorithms/Algorithms/Bit Manipulation",
+      "Foundations/Data Structures and Algorithms/Algorithms/Divide and Conquer",
+      "Foundations/Data Structures and Algorithms/Algorithms/Math and Number Theory",
+      "Foundations/Data Structures and Algorithms/Algorithms/Algorithm Status.md"
+    ],
+    "Foundations/Data Structures and Algorithms/Algorithms/Bit Manipulation": [
+      "Foundations/Data Structures and Algorithms/Algorithms/Bit Manipulation/Bit Manipulation.md",
+      "Foundations/Data Structures and Algorithms/Algorithms/Bit Manipulation/Bit masks for DP.md",
+      "Foundations/Data Structures and Algorithms/Algorithms/Bit Manipulation/Subsets using Bits.md",
+      "Foundations/Data Structures and Algorithms/Algorithms/Bit Manipulation/XOR tricks, finding unique numbers.md"
+    ],
+    "Foundations/Data Structures and Algorithms/Algorithms/Coding Interview Patterns": [
+      "Foundations/Data Structures and Algorithms/Algorithms/Coding Interview Patterns/Arrays and Pointers",
+      "Foundations/Data Structures and Algorithms/Algorithms/Coding Interview Patterns/Sorting and Intervals",
+      "Foundations/Data Structures and Algorithms/Algorithms/Coding Interview Patterns/Search",
+      "Foundations/Data Structures and Algorithms/Algorithms/Coding Interview Patterns/Trees and Graphs",
+      "Foundations/Data Structures and Algorithms/Algorithms/Coding Interview Patterns/Heaps",
+      "Foundations/Data Structures and Algorithms/Algorithms/Coding Interview Patterns/Combinotronics"
+    ],
+    "Foundations/Data Structures and Algorithms/Algorithms/Coding Interview Patterns/Arrays and Pointers": [
+      "Foundations/Data Structures and Algorithms/Algorithms/Coding Interview Patterns/Arrays and Pointers/Sliding Window.md",
+      "Foundations/Data Structures and Algorithms/Algorithms/Coding Interview Patterns/Arrays and Pointers/Fast And Slow Pointers.md",
+      "Foundations/Data Structures and Algorithms/Algorithms/Coding Interview Patterns/Arrays and Pointers/Two Pointers or Iterators.md"
+    ],
+    "Foundations/Data Structures and Algorithms/Algorithms/Coding Interview Patterns/Combinotronics": [
+      "Foundations/Data Structures and Algorithms/Algorithms/Coding Interview Patterns/Combinotronics/Subsets.md"
+    ],
+    "Foundations/Data Structures and Algorithms/Algorithms/Coding Interview Patterns/Heaps": [
+      "Foundations/Data Structures and Algorithms/Algorithms/Coding Interview Patterns/Heaps/Two Heaps.md",
+      "Foundations/Data Structures and Algorithms/Algorithms/Coding Interview Patterns/Heaps/Top K elements.md",
+      "Foundations/Data Structures and Algorithms/Algorithms/Coding Interview Patterns/Heaps/K-Way Merge.md"
+    ],
+    "Foundations/Data Structures and Algorithms/Algorithms/Coding Interview Patterns/Search": [
+      "Foundations/Data Structures and Algorithms/Algorithms/Coding Interview Patterns/Search/Modified Binary Search.md"
+    ],
+    "Foundations/Data Structures and Algorithms/Algorithms/Coding Interview Patterns/Sorting and Intervals": [
+      "Foundations/Data Structures and Algorithms/Algorithms/Coding Interview Patterns/Sorting and Intervals/Cyclic Sort.md",
+      "Foundations/Data Structures and Algorithms/Algorithms/Coding Interview Patterns/Sorting and Intervals/Merge Intervals.md"
+    ],
+    "Foundations/Data Structures and Algorithms/Algorithms/Coding Interview Patterns/Trees and Graphs": [
+      "Foundations/Data Structures and Algorithms/Algorithms/Coding Interview Patterns/Trees and Graphs/DFS.md",
+      "Foundations/Data Structures and Algorithms/Algorithms/Coding Interview Patterns/Trees and Graphs/Topological Sort.md",
+      "Foundations/Data Structures and Algorithms/Algorithms/Coding Interview Patterns/Trees and Graphs/BFS.md"
+    ],
+    "Foundations/Data Structures and Algorithms/Algorithms/Divide and Conquer": [
+      "Foundations/Data Structures and Algorithms/Algorithms/Divide and Conquer/Problems",
+      "Foundations/Data Structures and Algorithms/Algorithms/Divide and Conquer/0. Divide and Conquer.md"
+    ],
+    "Foundations/Data Structures and Algorithms/Algorithms/Divide and Conquer/Problems": [
+      "Foundations/Data Structures and Algorithms/Algorithms/Divide and Conquer/Problems/Closest Pair of Points.md"
+    ],
+    "Foundations/Data Structures and Algorithms/Algorithms/Dynamic Programming": [
+      "Foundations/Data Structures and Algorithms/Algorithms/Dynamic Programming/Problems",
+      "Foundations/Data Structures and Algorithms/Algorithms/Dynamic Programming/Dynamic Programming.md",
+      "Foundations/Data Structures and Algorithms/Algorithms/Dynamic Programming/Memorisation.md"
+    ],
+    "Foundations/Data Structures and Algorithms/Algorithms/Dynamic Programming/Problems": [
+      "Foundations/Data Structures and Algorithms/Algorithms/Dynamic Programming/Problems/01 Knapsack.md",
+      "Foundations/Data Structures and Algorithms/Algorithms/Dynamic Programming/Problems/Coin Change.md",
+      "Foundations/Data Structures and Algorithms/Algorithms/Dynamic Programming/Problems/Dynamic Programming on Trees or DP on Grids.md",
+      "Foundations/Data Structures and Algorithms/Algorithms/Dynamic Programming/Problems/Fibonacci and Climbing Stairs.md",
+      "Foundations/Data Structures and Algorithms/Algorithms/Dynamic Programming/Problems/Longest Common Subsequence and Substring.md",
+      "Foundations/Data Structures and Algorithms/Algorithms/Dynamic Programming/Problems/Longest Increasing Subsequence.md",
+      "Foundations/Data Structures and Algorithms/Algorithms/Dynamic Programming/Problems/Unbounded Knapsack.md"
+    ],
+    "Foundations/Data Structures and Algorithms/Algorithms/Greedy Algorithms": [
+      "Foundations/Data Structures and Algorithms/Algorithms/Greedy Algorithms/1. Greedy Algorithm.md",
+      "Foundations/Data Structures and Algorithms/Algorithms/Greedy Algorithms/Activity Selection or Interval Scheduling.md",
+      "Foundations/Data Structures and Algorithms/Algorithms/Greedy Algorithms/Greedy and Sorting or Priority Queue pattern.md",
+      "Foundations/Data Structures and Algorithms/Algorithms/Greedy Algorithms/HuffmanEncoding.md"
+    ],
+    "Foundations/Data Structures and Algorithms/Algorithms/Introduction": [
+      "Foundations/Data Structures and Algorithms/Algorithms/Introduction/_Sorting terminology.md",
+      "Foundations/Data Structures and Algorithms/Algorithms/Introduction/1. Introduction.md",
+      "Foundations/Data Structures and Algorithms/Algorithms/Introduction/Algorithmic Complexity.md",
+      "Foundations/Data Structures and Algorithms/Algorithms/Introduction/Recursive Algorithm.md"
+    ],
+    "Foundations/Data Structures and Algorithms/Algorithms/Math and Number Theory": [
+      "Foundations/Data Structures and Algorithms/Algorithms/Math and Number Theory/1. Math and Number Theory.md",
+      "Foundations/Data Structures and Algorithms/Algorithms/Math and Number Theory/GCD (Euclidean Algorithm).md",
+      "Foundations/Data Structures and Algorithms/Algorithms/Math and Number Theory/Modular Arithmetic.md",
+      "Foundations/Data Structures and Algorithms/Algorithms/Math and Number Theory/Prime Factorization.md",
+      "Foundations/Data Structures and Algorithms/Algorithms/Math and Number Theory/Sieve of Eratosthenes.md"
+    ],
+    "Foundations/Data Structures and Algorithms/Algorithms/Merge Algorithms": [
+      "Foundations/Data Structures and Algorithms/Algorithms/Merge Algorithms/Basic Merge (inside merge sort).md",
+      "Foundations/Data Structures and Algorithms/Algorithms/Merge Algorithms/K-Way Merge.md",
+      "Foundations/Data Structures and Algorithms/Algorithms/Merge Algorithms/Natural Merge (Variant of merge sort).md"
+    ],
+    "Foundations/Data Structures and Algorithms/Algorithms/Searching Algorithms": [
+      "Foundations/Data Structures and Algorithms/Algorithms/Searching Algorithms/Graph Specific Algorithms",
+      "Foundations/Data Structures and Algorithms/Algorithms/Searching Algorithms/Advanced",
+      "Foundations/Data Structures and Algorithms/Algorithms/Searching Algorithms/Backtracking.md",
+      "Foundations/Data Structures and Algorithms/Algorithms/Searching Algorithms/Binary Search on Arrays.md",
+      "Foundations/Data Structures and Algorithms/Algorithms/Searching Algorithms/Binary Search Variations.md",
+      "Foundations/Data Structures and Algorithms/Algorithms/Searching Algorithms/Breadth-First Search (BFS).md",
+      "Foundations/Data Structures and Algorithms/Algorithms/Searching Algorithms/Depth First Search (DFS).md"
+    ],
+    "Foundations/Data Structures and Algorithms/Algorithms/Searching Algorithms/Advanced": [
+      "Foundations/Data Structures and Algorithms/Algorithms/Searching Algorithms/Advanced/Heuristic and Cost-Based Tree Search.md"
+    ],
+    "Foundations/Data Structures and Algorithms/Algorithms/Searching Algorithms/Graph Specific Algorithms": [
+      "Foundations/Data Structures and Algorithms/Algorithms/Searching Algorithms/Graph Specific Algorithms/Kruskal’s Algorithm (MST).md",
+      "Foundations/Data Structures and Algorithms/Algorithms/Searching Algorithms/Graph Specific Algorithms/Prim’s Algorithm (MST).md",
+      "Foundations/Data Structures and Algorithms/Algorithms/Searching Algorithms/Graph Specific Algorithms/DFS and BFS.md",
+      "Foundations/Data Structures and Algorithms/Algorithms/Searching Algorithms/Graph Specific Algorithms/_Graph Algorithms MOC.md",
+      "Foundations/Data Structures and Algorithms/Algorithms/Searching Algorithms/Graph Specific Algorithms/A(star) Algorithm.md",
+      "Foundations/Data Structures and Algorithms/Algorithms/Searching Algorithms/Graph Specific Algorithms/Bellman-Ford.md",
+      "Foundations/Data Structures and Algorithms/Algorithms/Searching Algorithms/Graph Specific Algorithms/Dijkstra’s Algorithm.md",
+      "Foundations/Data Structures and Algorithms/Algorithms/Searching Algorithms/Graph Specific Algorithms/Floyd-Warshall.md"
+    ],
+    "Foundations/Data Structures and Algorithms/Algorithms/Sorting Algorithms": [
+      "Foundations/Data Structures and Algorithms/Algorithms/Sorting Algorithms/Bucket Sort.md",
+      "Foundations/Data Structures and Algorithms/Algorithms/Sorting Algorithms/Bubble Sort.md",
+      "Foundations/Data Structures and Algorithms/Algorithms/Sorting Algorithms/Counting Sort.md",
+      "Foundations/Data Structures and Algorithms/Algorithms/Sorting Algorithms/Heap Sort.md",
+      "Foundations/Data Structures and Algorithms/Algorithms/Sorting Algorithms/Insertion Sort.md",
+      "Foundations/Data Structures and Algorithms/Algorithms/Sorting Algorithms/Merge Sort.md",
+      "Foundations/Data Structures and Algorithms/Algorithms/Sorting Algorithms/Quick Sort.md",
+      "Foundations/Data Structures and Algorithms/Algorithms/Sorting Algorithms/Selection Sort.md"
+    ],
+    "Foundations/Data Structures and Algorithms/Algorithms/Trie Algorithms": [
+      "Foundations/Data Structures and Algorithms/Algorithms/Trie Algorithms/Trie (Prefix Tree) Algorithms.md",
+      "Foundations/Data Structures and Algorithms/Algorithms/Trie Algorithms/Count of Words with a Given Prefix.md",
+      "Foundations/Data Structures and Algorithms/Algorithms/Trie Algorithms/Find All Words in the Trie.md",
+      "Foundations/Data Structures and Algorithms/Algorithms/Trie Algorithms/Longest Prefix Matching.md",
+      "Foundations/Data Structures and Algorithms/Algorithms/Trie Algorithms/Trie Autocomplete.md",
+      "Foundations/Data Structures and Algorithms/Algorithms/Trie Algorithms/Trie Delete Word.md",
+      "Foundations/Data Structures and Algorithms/Algorithms/Trie Algorithms/Trie from List of Words.md",
+      "Foundations/Data Structures and Algorithms/Algorithms/Trie Algorithms/Trie Insert Algorithm.md",
+      "Foundations/Data Structures and Algorithms/Algorithms/Trie Algorithms/Trie Prefix Search.md",
+      "Foundations/Data Structures and Algorithms/Algorithms/Trie Algorithms/Trie Word Search.md",
+      "Foundations/Data Structures and Algorithms/Algorithms/Trie Algorithms/Word Suggestions with Prefix.md"
+    ],
+    "Foundations/Data Structures and Algorithms/Datastructure": [
+      "Foundations/Data Structures and Algorithms/Datastructure/Linear Data Structures",
+      "Foundations/Data Structures and Algorithms/Datastructure/Non-Linear Data Structures",
+      "Foundations/Data Structures and Algorithms/Datastructure/DataStructures.md"
+    ],
+    "Foundations/Data Structures and Algorithms/Datastructure/Linear Data Structures": [
+      "Foundations/Data Structures and Algorithms/Datastructure/Linear Data Structures/Array",
+      "Foundations/Data Structures and Algorithms/Datastructure/Linear Data Structures/Linked List",
+      "Foundations/Data Structures and Algorithms/Datastructure/Linear Data Structures/Queue",
+      "Foundations/Data Structures and Algorithms/Datastructure/Linear Data Structures/Stack.md"
+    ],
+    "Foundations/Data Structures and Algorithms/Datastructure/Linear Data Structures/Array": [
+      "Foundations/Data Structures and Algorithms/Datastructure/Linear Data Structures/Array/Array.md",
+      "Foundations/Data Structures and Algorithms/Datastructure/Linear Data Structures/Array/Rotated Shifted Arrays.md"
+    ],
+    "Foundations/Data Structures and Algorithms/Datastructure/Linear Data Structures/Linked List": [
+      "Foundations/Data Structures and Algorithms/Datastructure/Linear Data Structures/Linked List/Types",
+      "Foundations/Data Structures and Algorithms/Datastructure/Linear Data Structures/Linked List/Linked Lists.md"
+    ],
+    "Foundations/Data Structures and Algorithms/Datastructure/Linear Data Structures/Linked List/Types": [
+      "Foundations/Data Structures and Algorithms/Datastructure/Linear Data Structures/Linked List/Types/Circular Linked List.md",
+      "Foundations/Data Structures and Algorithms/Datastructure/Linear Data Structures/Linked List/Types/Doubly Linked List.md",
+      "Foundations/Data Structures and Algorithms/Datastructure/Linear Data Structures/Linked List/Types/Singly Linked List.md"
+    ],
+    "Foundations/Data Structures and Algorithms/Datastructure/Linear Data Structures/Queue": [
+      "Foundations/Data Structures and Algorithms/Datastructure/Linear Data Structures/Queue/Types",
+      "Foundations/Data Structures and Algorithms/Datastructure/Linear Data Structures/Queue/Queue.md"
+    ],
+    "Foundations/Data Structures and Algorithms/Datastructure/Linear Data Structures/Queue/Types": [
+      "Foundations/Data Structures and Algorithms/Datastructure/Linear Data Structures/Queue/Types/Priority Queue.md"
+    ],
+    "Foundations/Data Structures and Algorithms/Datastructure/Non-Linear Data Structures": [
+      "Foundations/Data Structures and Algorithms/Datastructure/Non-Linear Data Structures/Union-Find and Disjoint Set Union (DSU).md",
+      "Foundations/Data Structures and Algorithms/Datastructure/Non-Linear Data Structures/Map",
+      "Foundations/Data Structures and Algorithms/Datastructure/Non-Linear Data Structures/Tree",
+      "Foundations/Data Structures and Algorithms/Datastructure/Non-Linear Data Structures/Graph.md",
+      "Foundations/Data Structures and Algorithms/Datastructure/Non-Linear Data Structures/Set.md"
+    ],
+    "Foundations/Data Structures and Algorithms/Datastructure/Non-Linear Data Structures/Map": [
+      "Foundations/Data Structures and Algorithms/Datastructure/Non-Linear Data Structures/Map/Map.md"
+    ],
+    "Foundations/Data Structures and Algorithms/Datastructure/Non-Linear Data Structures/Tree": [
+      "Foundations/Data Structures and Algorithms/Datastructure/Non-Linear Data Structures/Tree/Types",
+      "Foundations/Data Structures and Algorithms/Datastructure/Non-Linear Data Structures/Tree/Tree.md"
+    ],
+    "Foundations/Data Structures and Algorithms/Datastructure/Non-Linear Data Structures/Tree/Types": [
+      "Foundations/Data Structures and Algorithms/Datastructure/Non-Linear Data Structures/Tree/Types/Specialised Binary Trees",
+      "Foundations/Data Structures and Algorithms/Datastructure/Non-Linear Data Structures/Tree/Types/Binary Search Trees.md",
+      "Foundations/Data Structures and Algorithms/Datastructure/Non-Linear Data Structures/Tree/Types/Binary Tree.md",
+      "Foundations/Data Structures and Algorithms/Datastructure/Non-Linear Data Structures/Tree/Types/N-ary Tree (Generic Tree).md",
+      "Foundations/Data Structures and Algorithms/Datastructure/Non-Linear Data Structures/Tree/Types/Red-Black Tree.md",
+      "Foundations/Data Structures and Algorithms/Datastructure/Non-Linear Data Structures/Tree/Types/Ternary Tree.md",
+      "Foundations/Data Structures and Algorithms/Datastructure/Non-Linear Data Structures/Tree/Types/Trie.md"
+    ],
+    "Foundations/Data Structures and Algorithms/Datastructure/Non-Linear Data Structures/Tree/Types/Specialised Binary Trees": [
+      "Foundations/Data Structures and Algorithms/Datastructure/Non-Linear Data Structures/Tree/Types/Specialised Binary Trees/Heap Binary Tree.md"
+    ],
+    "Foundations/Theory": [
+      "Foundations/Theory/Bits, Bytes, Hexadecimals.md",
+      "Foundations/Theory/Miscallaneous",
+      "Foundations/Theory/Computer",
+      "Foundations/Theory/OS"
+    ],
+    "Foundations/Theory/Computer": [
+      "Foundations/Theory/Computer/CPU.md",
+      "Foundations/Theory/Computer/How Computers Work.md",
+      "Foundations/Theory/Computer/Instruction.md"
+    ],
+    "Foundations/Theory/Miscallaneous": [
+      "Foundations/Theory/Miscallaneous/API Versioning.md",
+      "Foundations/Theory/Miscallaneous/Asynchronous and Synchronous.md",
+      "Foundations/Theory/Miscallaneous/Charsets (Character Sets).md",
+      "Foundations/Theory/Miscallaneous/Compression.md",
+      "Foundations/Theory/Miscallaneous/DataSource.md",
+      "Foundations/Theory/Miscallaneous/Encoding.md",
+      "Foundations/Theory/Miscallaneous/Framework.md",
+      "Foundations/Theory/Miscallaneous/Hashing.md",
+      "Foundations/Theory/Miscallaneous/JSON Flattening.md",
+      "Foundations/Theory/Miscallaneous/Mimetypes.md",
+      "Foundations/Theory/Miscallaneous/Process Batch Operations.md",
+      "Foundations/Theory/Miscallaneous/Protocol Buffers.md",
+      "Foundations/Theory/Miscallaneous/Serialisation and Deserialization.md",
+      "Foundations/Theory/Miscallaneous/Time Zones.md",
+      "Foundations/Theory/Miscallaneous/Vi-Vim.md",
+      "Foundations/Theory/Miscallaneous/Wrapper Class.md"
+    ],
+    "Foundations/Theory/OS": [
+      "Foundations/Theory/OS/OS Scheduler.md",
+      "Foundations/Theory/OS/Process.md",
+      "Foundations/Theory/OS/Program Counter.md",
+      "Foundations/Theory/OS/Stack.md",
+      "Foundations/Theory/OS/Thread.md",
+      "Foundations/Theory/OS/Time Slice.md"
+    ],
+    "Infastructure": [
+      "Infastructure/Cloud",
+      "Infastructure/DevOps"
+    ],
+    "Infastructure/Cloud": [
+      "Infastructure/Cloud/AWS"
+    ],
+    "Infastructure/Cloud/AWS": [
+      "Infastructure/Cloud/AWS/Automation and Infastructure as Code",
+      "Infastructure/Cloud/AWS/Compute Services",
+      "Infastructure/Cloud/AWS/Core Concepts",
+      "Infastructure/Cloud/AWS/Cost Optimisation",
+      "Infastructure/Cloud/AWS/Database",
+      "Infastructure/Cloud/AWS/Monitoring and Logging",
+      "Infastructure/Cloud/AWS/Security",
+      "Infastructure/Cloud/AWS/Serverless and Event-Driven Architecture",
+      "Infastructure/Cloud/AWS/Storage",
+      "Infastructure/Cloud/AWS/IaaS, PaaS, and SaaS.md"
+    ],
+    "Infastructure/Cloud/AWS/Automation and Infastructure as Code": [
+      "Infastructure/Cloud/AWS/Automation and Infastructure as Code/AWS CDK (Cloud Development Kit).md",
+      "Infastructure/Cloud/AWS/Automation and Infastructure as Code/AWS CLI and SDKs.md",
+      "Infastructure/Cloud/AWS/Automation and Infastructure as Code/AWS CloudFormation.md",
+      "Infastructure/Cloud/AWS/Automation and Infastructure as Code/AWS SAM.md"
+    ],
+    "Infastructure/Cloud/AWS/Compute Services": [
+      "Infastructure/Cloud/AWS/Compute Services/Lambda",
+      "Infastructure/Cloud/AWS/Compute Services/AWS Elastic Beanstalk.md",
+      "Infastructure/Cloud/AWS/Compute Services/AWS Elastic Container Service (ECS).md",
+      "Infastructure/Cloud/AWS/Compute Services/AWS Elastic Kubernetes Service (EKS).md",
+      "Infastructure/Cloud/AWS/Compute Services/AWS Fargate.md"
+    ],
+    "Infastructure/Cloud/AWS/Compute Services/Lambda": [
+      "Infastructure/Cloud/AWS/Compute Services/Lambda/AWS Lambda.md",
+      "Infastructure/Cloud/AWS/Compute Services/Lambda/AWS Lambda Event Source Mapping.md",
+      "Infastructure/Cloud/AWS/Compute Services/Lambda/Lambda RPC.md"
+    ],
+    "Infastructure/Cloud/AWS/Core Concepts": [
+      "Infastructure/Cloud/AWS/Core Concepts/AWS Cloudfront.md",
+      "Infastructure/Cloud/AWS/Core Concepts/AWS Global Infastructure.md",
+      "Infastructure/Cloud/AWS/Core Concepts/Shared Responsibility Model.md"
+    ],
+    "Infastructure/Cloud/AWS/Cost Optimisation": [
+      "Infastructure/Cloud/AWS/Cost Optimisation/AWS Cost Explorer and Budgets.md",
+      "Infastructure/Cloud/AWS/Cost Optimisation/AWS Pricing Models.md",
+      "Infastructure/Cloud/AWS/Cost Optimisation/S3 Lifecycle Policies.md"
+    ],
+    "Infastructure/Cloud/AWS/Database": [
+      "Infastructure/Cloud/AWS/Database/AWS Aurora Serverless.md",
+      "Infastructure/Cloud/AWS/Database/AWS Database Migration Service.md",
+      "Infastructure/Cloud/AWS/Database/AWS DynamoDB.md",
+      "Infastructure/Cloud/AWS/Database/AWS Relational Database Service (RDS).md"
+    ],
+    "Infastructure/Cloud/AWS/Monitoring and Logging": [
+      "Infastructure/Cloud/AWS/Monitoring and Logging/AWS CloudTrail.md",
+      "Infastructure/Cloud/AWS/Monitoring and Logging/AWS CloudWatch.md",
+      "Infastructure/Cloud/AWS/Monitoring and Logging/AWS X-Ray.md"
+    ],
+    "Infastructure/Cloud/AWS/Security": [
+      "Infastructure/Cloud/AWS/Security/AWS Cognito.md",
+      "Infastructure/Cloud/AWS/Security/AWS Key Management Service (KMS).md",
+      "Infastructure/Cloud/AWS/Security/Identity and Access Management (IAM).md",
+      "Infastructure/Cloud/AWS/Security/VPC Security Groups.md"
+    ],
+    "Infastructure/Cloud/AWS/Serverless and Event-Driven Architecture": [
+      "Infastructure/Cloud/AWS/Serverless and Event-Driven Architecture/AWS API Gateway.md",
+      "Infastructure/Cloud/AWS/Serverless and Event-Driven Architecture/AWS EventBridge.md",
+      "Infastructure/Cloud/AWS/Serverless and Event-Driven Architecture/AWS Simple Notification Service (SNS).md",
+      "Infastructure/Cloud/AWS/Serverless and Event-Driven Architecture/AWS Simple Queue Service (SQS).md"
+    ],
+    "Infastructure/Cloud/AWS/Storage": [
+      "Infastructure/Cloud/AWS/Storage/AWS Elastic File System (EFS).md",
+      "Infastructure/Cloud/AWS/Storage/AWS S3.md"
+    ],
+    "Infastructure/DevOps": [
+      "Infastructure/DevOps/Build Tools",
+      "Infastructure/DevOps/CI CD.md",
+      "Infastructure/DevOps/Containerization.md",
+      "Infastructure/DevOps/Downtimeless Deployment.md",
+      "Infastructure/DevOps/Infrastructure as Code.md",
+      "Infastructure/DevOps/Jenkins.md",
+      "Infastructure/DevOps/Kubernetes.md",
+      "Infastructure/DevOps/Nexus.md",
+      "Infastructure/DevOps/Redundancy and Failover.md",
+      "Infastructure/DevOps/Scalability and Performance.md"
+    ],
+    "Infastructure/DevOps/Build Tools": [
+      "Infastructure/DevOps/Build Tools/Docker",
+      "Infastructure/DevOps/Build Tools/Maven"
+    ],
+    "Infastructure/DevOps/Build Tools/Docker": [
+      "Infastructure/DevOps/Build Tools/Docker/Docker and Kubernetes",
+      "Infastructure/DevOps/Build Tools/Docker/Docker Architecture",
+      "Infastructure/DevOps/Build Tools/Docker/Docker Compose",
+      "Infastructure/DevOps/Build Tools/Docker/Docker Images and Containers",
+      "Infastructure/DevOps/Build Tools/Docker/Docker Swarm",
+      "Infastructure/DevOps/Build Tools/Docker/Dockerfile and Custom Images",
+      "Infastructure/DevOps/Build Tools/Docker/Introduction",
+      "Infastructure/DevOps/Build Tools/Docker/Networking in Docker",
+      "Infastructure/DevOps/Build Tools/Docker/Volumes and Data Persistence",
+      "Infastructure/DevOps/Build Tools/Docker/Working with Docker Images",
+      "Infastructure/DevOps/Build Tools/Docker/Docker Logging & Debugging.md",
+      "Infastructure/DevOps/Build Tools/Docker/Minor Checklist.md"
+    ],
+    "Infastructure/DevOps/Build Tools/Docker/Docker and Kubernetes": [
+      "Infastructure/DevOps/Build Tools/Docker/Docker and Kubernetes/Differences between Docker Swarm and Kubernetes.md",
+      "Infastructure/DevOps/Build Tools/Docker/Docker and Kubernetes/Running and Deploying containers with Kubernetes.md"
+    ],
+    "Infastructure/DevOps/Build Tools/Docker/Docker Architecture": [
+      "Infastructure/DevOps/Build Tools/Docker/Docker Architecture/Docker Architecture.md",
+      "Infastructure/DevOps/Build Tools/Docker/Docker Architecture/Docker CLI.md",
+      "Infastructure/DevOps/Build Tools/Docker/Docker Architecture/Docker Client-Server Model.md",
+      "Infastructure/DevOps/Build Tools/Docker/Docker Architecture/Docker Daemon.md",
+      "Infastructure/DevOps/Build Tools/Docker/Docker Architecture/Images, Containers, and Registries.md"
+    ],
+    "Infastructure/DevOps/Build Tools/Docker/Docker Compose": [
+      "Infastructure/DevOps/Build Tools/Docker/Docker Compose/Docker Compose.md",
+      "Infastructure/DevOps/Build Tools/Docker/Docker Compose/Running multiple services with docker-compose up.md",
+      "Infastructure/DevOps/Build Tools/Docker/Docker Compose/Scaling services with Compose.md",
+      "Infastructure/DevOps/Build Tools/Docker/Docker Compose/Writing a docker-compose.yml file.md"
+    ],
+    "Infastructure/DevOps/Build Tools/Docker/Docker Images and Containers": [
+      "Infastructure/DevOps/Build Tools/Docker/Docker Images and Containers/Docker Basic Commands.md",
+      "Infastructure/DevOps/Build Tools/Docker/Docker Images and Containers/What are Docker images and containers_.md"
+    ],
+    "Infastructure/DevOps/Build Tools/Docker/Docker Swarm": [
+      "Infastructure/DevOps/Build Tools/Docker/Docker Swarm/Docker Swarm.md",
+      "Infastructure/DevOps/Build Tools/Docker/Docker Swarm/Docker Swarm Commands.md"
+    ],
+    "Infastructure/DevOps/Build Tools/Docker/Dockerfile and Custom Images": [
+      "Infastructure/DevOps/Build Tools/Docker/Dockerfile and Custom Images/Building custom images.md",
+      "Infastructure/DevOps/Build Tools/Docker/Dockerfile and Custom Images/FROM, RUN, COPY, CMD, ENTRYPOINT instructions.md",
+      "Infastructure/DevOps/Build Tools/Docker/Dockerfile and Custom Images/Multi-stage builds for optimized images.md",
+      "Infastructure/DevOps/Build Tools/Docker/Dockerfile and Custom Images/Writing a Dockerfile.md"
+    ],
+    "Infastructure/DevOps/Build Tools/Docker/Introduction": [
+      "Infastructure/DevOps/Build Tools/Docker/Introduction/Advantages and Disadvantages of using Docker.md",
+      "Infastructure/DevOps/Build Tools/Docker/Introduction/Differences between Docker and Virtual Machines.md",
+      "Infastructure/DevOps/Build Tools/Docker/Introduction/Docker Desktop.md",
+      "Infastructure/DevOps/Build Tools/Docker/Introduction/What is Docker.md"
+    ],
+    "Infastructure/DevOps/Build Tools/Docker/Networking in Docker": [
+      "Infastructure/DevOps/Build Tools/Docker/Networking in Docker/Default Docker networks (Bridge, Host, None).md",
+      "Infastructure/DevOps/Build Tools/Docker/Networking in Docker/Networking Commands.md"
+    ],
+    "Infastructure/DevOps/Build Tools/Docker/Volumes and Data Persistence": [
+      "Infastructure/DevOps/Build Tools/Docker/Volumes and Data Persistence/Bind Mounts.md",
+      "Infastructure/DevOps/Build Tools/Docker/Volumes and Data Persistence/Difference between Bind Mounts and Volumes.md",
+      "Infastructure/DevOps/Build Tools/Docker/Volumes and Data Persistence/Volume.md",
+      "Infastructure/DevOps/Build Tools/Docker/Volumes and Data Persistence/Volume Commands.md"
+    ],
+    "Infastructure/DevOps/Build Tools/Docker/Working with Docker Images": [
+      "Infastructure/DevOps/Build Tools/Docker/Working with Docker Images/Docker Image Commands.md",
+      "Infastructure/DevOps/Build Tools/Docker/Working with Docker Images/Understanding image layers and caching.md"
+    ],
+    "Infastructure/DevOps/Build Tools/Maven": [
+      "Infastructure/DevOps/Build Tools/Maven/Bill of Materials (BOM).md",
+      "Infastructure/DevOps/Build Tools/Maven/Maven.md",
+      "Infastructure/DevOps/Build Tools/Maven/Maven Build Lifecycles.md",
+      "Infastructure/DevOps/Build Tools/Maven/Maven Plugin.md",
+      "Infastructure/DevOps/Build Tools/Maven/Maven wrapper.md",
+      "Infastructure/DevOps/Build Tools/Maven/Multi-Module Projects.md",
+      "Infastructure/DevOps/Build Tools/Maven/Project Object Model.md"
+    ],
+    "Machine Learning": [
+      "Machine Learning/Large Language Models.md",
+      "Machine Learning/Neural Network.md",
+      "Machine Learning/Reinforcement Learning",
+      "Machine Learning/Unsupervised Learning",
+      "Machine Learning/Supervised Learning",
+      "Machine Learning/Machine Learning.md"
+    ],
+    "Machine Learning/Reinforcement Learning": [
+      "Machine Learning/Reinforcement Learning/Algorithms",
+      "Machine Learning/Reinforcement Learning/Reinforcement Learning.md"
+    ],
+    "Machine Learning/Reinforcement Learning/Algorithms": [
+      "Machine Learning/Reinforcement Learning/Algorithms/Deep Q-Networks.md"
+    ],
+    "Machine Learning/Supervised Learning": [
+      "Machine Learning/Supervised Learning/Regression"
+    ],
+    "Machine Learning/Supervised Learning/Regression": [
+      "Machine Learning/Supervised Learning/Regression/Algorithms"
+    ],
+    "Machine Learning/Supervised Learning/Regression/Algorithms": [
+      "Machine Learning/Supervised Learning/Regression/Algorithms/Linear Regression.md"
+    ],
+    "Machine Learning/Unsupervised Learning": [
+      "Machine Learning/Unsupervised Learning/Algorithms",
+      "Machine Learning/Unsupervised Learning/Unsupervised Learning.md"
+    ],
+    "Machine Learning/Unsupervised Learning/Algorithms": [
+      "Machine Learning/Unsupervised Learning/Algorithms/Clustering K-Means.md",
+      "Machine Learning/Unsupervised Learning/Algorithms/Isolation Forest.md"
+    ],
+    "Network": [
+      "Network/Routing and Subnetting.md",
+      "Network/The Network.md"
+    ],
+    "Overview": [
+      "Overview/Flashcards.base",
+      "Overview/Notes needed.base",
+      "Overview/Status.md"
+    ],
+    "Programming": [
+      "Programming/JavaScript",
+      "Programming/Java",
+      "Programming/Python",
+      "Programming/C",
+      "Programming/NodeJs"
+    ],
+    "Programming/C": [
+      "Programming/C/C++",
+      "Programming/C/CMake",
+      "Programming/C/C vs C++ vs C#.md"
+    ],
+    "Programming/C/C++": [
+      "Programming/C/C++/C++.md"
+    ],
+    "Programming/C/CMake": [
+      "Programming/C/CMake/1. Basics and Core Concepts",
+      "Programming/C/CMake/2. Variables and Options",
+      "Programming/C/CMake/3. Dependencies and External Library",
+      "Programming/C/CMake/Build Types and Configuration",
+      "Programming/C/CMake/Modules and Packages",
+      "Programming/C/CMake/Targets and Build Logic",
+      "Programming/C/CMake/Toolchains and Cross Compilation",
+      "Programming/C/CMake/Project Structure.md"
+    ],
+    "Programming/C/CMake/1. Basics and Core Concepts": [
+      "Programming/C/CMake/1. Basics and Core Concepts/CMake.md",
+      "Programming/C/CMake/1. Basics and Core Concepts/CMake and Make_Ninja_MSBuild..md",
+      "Programming/C/CMake/1. Basics and Core Concepts/CMakeLists file.md",
+      "Programming/C/CMake/1. Basics and Core Concepts/Configure and build phases in CMake..md",
+      "Programming/C/CMake/1. Basics and Core Concepts/Understand CMake commands vs variables vs modules..md"
+    ],
+    "Programming/C/CMake/2. Variables and Options": [
+      "Programming/C/CMake/2. Variables and Options/Option.md",
+      "Programming/C/CMake/2. Variables and Options/Variables.md"
+    ],
+    "Programming/C/CMake/3. Dependencies and External Library": [
+      "Programming/C/CMake/3. Dependencies and External Library/ExternalProject Add().md",
+      "Programming/C/CMake/3. Dependencies and External Library/target_link_libraries().md",
+      "Programming/C/CMake/3. Dependencies and External Library/Understand Config mode vs Module mode in find_package().md",
+      "Programming/C/CMake/3. Dependencies and External Library/Use FetchContent to download and build dependencies..md",
+      "Programming/C/CMake/3. Dependencies and External Library/Use find_package() for locating external packages.md"
+    ],
+    "Programming/C/CMake/Build Types and Configuration": [
+      "Programming/C/CMake/Build Types and Configuration/Build Types.md",
+      "Programming/C/CMake/Build Types and Configuration/Configuration.md",
+      "Programming/C/CMake/Build Types and Configuration/Multi-configuration generators (Visual Studio, Xcode)..md"
+    ],
+    "Programming/C/CMake/Modules and Packages": [
+      "Programming/C/CMake/Modules and Packages/Built-in modules.md",
+      "Programming/C/CMake/Modules and Packages/Custom CMake modules..md",
+      "Programming/C/CMake/Modules and Packages/Package a project with install() and export() commands..md"
+    ],
+    "Programming/C/CMake/Targets and Build Logic": [
+      "Programming/C/CMake/Targets and Build Logic/Build Logic.md",
+      "Programming/C/CMake/Targets and Build Logic/PRIVATE, PUBLIC, and INTERFACE keywords..md",
+      "Programming/C/CMake/Targets and Build Logic/Target.md"
+    ],
+    "Programming/C/CMake/Toolchains and Cross Compilation": [
+      "Programming/C/CMake/Toolchains and Cross Compilation/Define compiler manually.md",
+      "Programming/C/CMake/Toolchains and Cross Compilation/Toolchain.md"
+    ],
+    "Programming/Java": [
+      "Programming/Java/Java.md",
+      "Programming/Java/Java Concurrency.md",
+      "Programming/Java/Collection",
+      "Programming/Java/Development and Build Tools",
+      "Programming/Java/File and IO",
+      "Programming/Java/Java APIs and Libraries",
+      "Programming/Java/Java EE Web",
+      "Programming/Java/Low-Latency",
+      "Programming/Java/Networking",
+      "Programming/Java/Object-Oriented-Programming",
+      "Programming/Java/Other",
+      "Programming/Java/Testing",
+      "Programming/Java/Advanced topic checklist.md",
+      "Programming/Java/Java Base.base"
+    ],
+    "Programming/Java/Collection": [
+      "Programming/Java/Collection/Array-Based",
+      "Programming/Java/Collection/Node-Based",
+      "Programming/Java/Collection/Collection Framework.md",
+      "Programming/Java/Collection/Comparable.md",
+      "Programming/Java/Collection/Comparator.md",
+      "Programming/Java/Collection/Data Structures.md",
+      "Programming/Java/Collection/Deep Dive.md",
+      "Programming/Java/Collection/Split Iterator method.md",
+      "Programming/Java/Collection/Under the hood.md"
+    ],
+    "Programming/Java/Collection/Array-Based": [
+      "Programming/Java/Collection/Array-Based/Queue",
+      "Programming/Java/Collection/Array-Based/HashMap.md",
+      "Programming/Java/Collection/Array-Based/HashSet.md",
+      "Programming/Java/Collection/Array-Based/String.md"
+    ],
+    "Programming/Java/Collection/Array-Based/Queue": [
+      "Programming/Java/Collection/Array-Based/Queue/PriorityQueue.md"
+    ],
+    "Programming/Java/Collection/Node-Based": [
+      "Programming/Java/Collection/Node-Based/Map",
+      "Programming/Java/Collection/Node-Based/LinkedList.md"
+    ],
+    "Programming/Java/Collection/Node-Based/Map": [
+      "Programming/Java/Collection/Node-Based/Map/Concurrent Hash Map.md",
+      "Programming/Java/Collection/Node-Based/Map/Java Hash Map.md",
+      "Programming/Java/Collection/Node-Based/Map/Map methods.md",
+      "Programming/Java/Collection/Node-Based/Map/Table Buckets.md"
+    ],
+    "Programming/Java/Development and Build Tools": [
+      "Programming/Java/Development and Build Tools/Classpath and path.md",
+      "Programming/Java/Development and Build Tools/Java Project Build Process.md",
+      "Programming/Java/Development and Build Tools/Libraries vs Facets vs Artifacts.md"
+    ],
+    "Programming/Java/File and IO": [
+      "Programming/Java/File and IO/File handling.md",
+      "Programming/Java/File and IO/Writers, Readers and Streams.md"
+    ],
+    "Programming/Java/Java APIs and Libraries": [
+      "Programming/Java/Java APIs and Libraries/Date_Time.md",
+      "Programming/Java/Java APIs and Libraries/Dynamic Proxy.md",
+      "Programming/Java/Java APIs and Libraries/Generics.md",
+      "Programming/Java/Java APIs and Libraries/Java Annotations.md",
+      "Programming/Java/Java APIs and Libraries/Java Reflection API.md",
+      "Programming/Java/Java APIs and Libraries/Java Type Erasure.md",
+      "Programming/Java/Java APIs and Libraries/Logging.md",
+      "Programming/Java/Java APIs and Libraries/Serialisation.md",
+      "Programming/Java/Java APIs and Libraries/Streams.md"
+    ],
+    "Programming/Java/Java EE Web": [
+      "Programming/Java/Java EE Web/Servlet.md",
+      "Programming/Java/Java EE Web/Servlet filter.md"
+    ],
+    "Programming/Java/Low-Latency": [
+      "Programming/Java/Low-Latency/Java Low Latency Checklist.md"
+    ],
+    "Programming/Java/Networking": [
+      "Programming/Java/Networking/API requests.md",
+      "Programming/Java/Networking/Java Networking.md"
+    ],
+    "Programming/Java/Object-Oriented-Programming": [
+      "Programming/Java/Object-Oriented-Programming/Abstract Classes and Interfaces.md",
+      "Programming/Java/Object-Oriented-Programming/Abstraction.md",
+      "Programming/Java/Object-Oriented-Programming/Encapsulation.md",
+      "Programming/Java/Object-Oriented-Programming/Inheritence.md",
+      "Programming/Java/Object-Oriented-Programming/Polymorphism.md"
+    ],
+    "Programming/Java/Other": [
+      "Programming/Java/Other/Anonymous class.md",
+      "Programming/Java/Other/Functional interface.md",
+      "Programming/Java/Other/Hashing in Java.md",
+      "Programming/Java/Other/Java Record (JDK 17).md",
+      "Programming/Java/Other/Object Creation and Lifetime.md",
+      "Programming/Java/Other/Groovy.md",
+      "Programming/Java/Other/Groovy Script.md",
+      "Programming/Java/Other/Jackson Annotation.md",
+      "Programming/Java/Other/JavaFX.md",
+      "Programming/Java/Other/Thymeleaf.md"
+    ],
+    "Programming/Java/Testing": [
+      "Programming/Java/Testing/JUnit.md",
+      "Programming/Java/Testing/Mockito.md"
+    ],
+    "Programming/JavaScript": [
+      "Programming/JavaScript/Arrays and Iteration Methods",
+      "Programming/JavaScript/Asynchronous JavaScript",
+      "Programming/JavaScript/Basics",
+      "Programming/JavaScript/DOM Manipulation",
+      "Programming/JavaScript/Error Handeling and Debugging",
+      "Programming/JavaScript/ES6+ Features",
+      "Programming/JavaScript/Functions",
+      "Programming/JavaScript/Javascript in the Browser",
+      "Programming/JavaScript/Object-Oriented Programming in Javascript",
+      "Programming/JavaScript/Objects and Prototypes",
+      "Programming/JavaScript/Performance Optimisation",
+      "Programming/JavaScript/Scopes and Closures",
+      "Programming/JavaScript/Testing in Javascript",
+      "Programming/JavaScript/Javascript Advanced.md",
+      "Programming/JavaScript/Javascript.md",
+      "Programming/JavaScript/Bookmarklet.md",
+      "Programming/JavaScript/JavaScript Build Process.md",
+      "Programming/JavaScript/JavaScript Engines.md"
+    ],
+    "Programming/JavaScript/Arrays and Iteration Methods": [
+      "Programming/JavaScript/Arrays and Iteration Methods/Array methods (map, filter, reduce, find, some, every, includes, sort).md",
+      "Programming/JavaScript/Arrays and Iteration Methods/Array mutability and immutability.md",
+      "Programming/JavaScript/Arrays and Iteration Methods/Destructuring and spread_rest operators.md"
+    ],
+    "Programming/JavaScript/Asynchronous JavaScript": [
+      "Programming/JavaScript/Asynchronous JavaScript/Async_Await.md",
+      "Programming/JavaScript/Asynchronous JavaScript/Callbacks and callback hell.md",
+      "Programming/JavaScript/Asynchronous JavaScript/Error handling in async functions.md",
+      "Programming/JavaScript/Asynchronous JavaScript/Promises (then, catch, finally).md",
+      "Programming/JavaScript/Asynchronous JavaScript/setTimeout and setInterval.md"
+    ],
+    "Programming/JavaScript/Basics": [
+      "Programming/JavaScript/Basics/Data types.md",
+      "Programming/JavaScript/Basics/Operators.md",
+      "Programming/JavaScript/Basics/Type coercion and type conversion.md",
+      "Programming/JavaScript/Basics/Variables.md"
+    ],
+    "Programming/JavaScript/DOM Manipulation": [
+      "Programming/JavaScript/DOM Manipulation/Creating and Removing Elements.md",
+      "Programming/JavaScript/DOM Manipulation/Handling user input.md",
+      "Programming/JavaScript/DOM Manipulation/Modifying elements (textContent, innerHTML, classList).md",
+      "Programming/JavaScript/DOM Manipulation/Selecting elements.md"
+    ],
+    "Programming/JavaScript/Error Handeling and Debugging": [
+      "Programming/JavaScript/Error Handeling and Debugging/Debugging with console.log and browser developer tools.md",
+      "Programming/JavaScript/Error Handeling and Debugging/Throwing custom errors (throw new Error()).md",
+      "Programming/JavaScript/Error Handeling and Debugging/Using try...catch.md"
+    ],
+    "Programming/JavaScript/ES6+ Features": [
+      "Programming/JavaScript/ES6+ Features/Arrow functions.md",
+      "Programming/JavaScript/ES6+ Features/Default parameters.md",
+      "Programming/JavaScript/ES6+ Features/Destructuring assignment.md",
+      "Programming/JavaScript/ES6+ Features/let and const vs var.md",
+      "Programming/JavaScript/ES6+ Features/Modules (import_export).md",
+      "Programming/JavaScript/ES6+ Features/Object shorthand and computed properties.md",
+      "Programming/JavaScript/ES6+ Features/Spread and rest operators.md",
+      "Programming/JavaScript/ES6+ Features/Template Literal.md"
+    ],
+    "Programming/JavaScript/Functions": [
+      "Programming/JavaScript/Functions/Arrow functions.md",
+      "Programming/JavaScript/Functions/Callback functions.md",
+      "Programming/JavaScript/Functions/Function declarations vs function expressions.md",
+      "Programming/JavaScript/Functions/Higher-order functions.md",
+      "Programming/JavaScript/Functions/Immediately Invoked Function Expressions (IIFE).md"
+    ],
+    "Programming/JavaScript/Javascript in the Browser": [
+      "Programming/JavaScript/Javascript in the Browser/Fetch API for making HTTP requests.md",
+      "Programming/JavaScript/Javascript in the Browser/Handling JSON data (JSON.stringify, JSON.parse).md",
+      "Programming/JavaScript/Javascript in the Browser/LocalStorage and SessionStorage.md",
+      "Programming/JavaScript/Javascript in the Browser/window and document objects.md"
+    ],
+    "Programming/JavaScript/Object-Oriented Programming in Javascript": [
+      "Programming/JavaScript/Object-Oriented Programming in Javascript/Classes and constructors (class, constructor).md",
+      "Programming/JavaScript/Object-Oriented Programming in Javascript/Encapsulation and private properties.md",
+      "Programming/JavaScript/Object-Oriented Programming in Javascript/Inheritance (extends, super).md"
+    ],
+    "Programming/JavaScript/Objects and Prototypes": [
+      "Programming/JavaScript/Objects and Prototypes/Creating objects.md",
+      "Programming/JavaScript/Objects and Prototypes/Object methods and properties.md",
+      "Programming/JavaScript/Objects and Prototypes/Prototype inheritance (Object.prototype).md",
+      "Programming/JavaScript/Objects and Prototypes/this keyword and its behavior.md"
+    ],
+    "Programming/JavaScript/Performance Optimisation": [
+      "Programming/JavaScript/Performance Optimisation/Debouncing and throttling.md",
+      "Programming/JavaScript/Performance Optimisation/Lazy loading and code splitting.md",
+      "Programming/JavaScript/Performance Optimisation/Memory leaks and garbage collection.md"
+    ],
+    "Programming/JavaScript/Scopes and Closures": [
+      "Programming/JavaScript/Scopes and Closures/Closures and their practical use cases.md",
+      "Programming/JavaScript/Scopes and Closures/Global, function, and block scope.md",
+      "Programming/JavaScript/Scopes and Closures/Lexical Scope.md"
+    ],
+    "Programming/JavaScript/Testing in Javascript": [
+      "Programming/JavaScript/Testing in Javascript/Mocking dependencies.md",
+      "Programming/JavaScript/Testing in Javascript/Unit testing with Jest, Mocha, or Jasmine.md",
+      "Programming/JavaScript/Testing in Javascript/Writing test cases with assertions.md"
+    ],
+    "Programming/NodeJs": [
+      "Programming/NodeJs/Asynchronous Programming",
+      "Programming/NodeJs/Core Concepts",
+      "Programming/NodeJs/Database Integration",
+      "Programming/NodeJs/Error Handeling and Debugging",
+      "Programming/NodeJs/Event-Driven Programming",
+      "Programming/NodeJs/Express.js Framework",
+      "Programming/NodeJs/File System and Path Handeling",
+      "Programming/NodeJs/HTTP and Web Server Development",
+      "Programming/NodeJs/Installation and Setup",
+      "Programming/NodeJs/NodeJs Modules and Package Management",
+      "Programming/NodeJs/Performance Optimisation and Scaling",
+      "Programming/NodeJs/Authentication and Security.md",
+      "Programming/NodeJs/Deployment in Nodejs.md",
+      "Programming/NodeJs/Environment Variables & Configuration.md",
+      "Programming/NodeJs/Testing in Nodejs.md",
+      "Programming/NodeJs/WebSockets & Real-Time Communication.md"
+    ],
+    "Programming/NodeJs/Asynchronous Programming": [
+      "Programming/NodeJs/Asynchronous Programming/Callbacks, Promises, and Async_Await.md",
+      "Programming/NodeJs/Asynchronous Programming/Handling errors in async code (try_catch, .catch() method).md",
+      "Programming/NodeJs/Asynchronous Programming/util.promisify for converting callback-based functions to promises.md"
+    ],
+    "Programming/NodeJs/Core Concepts": [
+      "Programming/NodeJs/Core Concepts/Differences between Node.js and traditional server-side languages.md",
+      "Programming/NodeJs/Core Concepts/Node.js Architecture.md",
+      "Programming/NodeJs/Core Concepts/What is Nodejs.md"
+    ],
+    "Programming/NodeJs/Database Integration": [
+      "Programming/NodeJs/Database Integration/Handling database connections and pooling.md",
+      "Programming/NodeJs/Database Integration/NoSQL (MongoDB, Firebase).md",
+      "Programming/NodeJs/Database Integration/Performing CRUD operations (Create, Read, Update, Delete).md",
+      "Programming/NodeJs/Database Integration/SQL (MySQL, PostgreSQL, SQLite).md",
+      "Programming/NodeJs/Database Integration/Using ORMs_ODMs (Sequelize, Mongoose).md"
+    ],
+    "Programming/NodeJs/Error Handeling and Debugging": [
+      "Programming/NodeJs/Error Handeling and Debugging/Handling synchronous and asynchronous errors.md",
+      "Programming/NodeJs/Error Handeling and Debugging/Logging with Winston, Pino, or Morgan.md",
+      "Programming/NodeJs/Error Handeling and Debugging/Other debugging.md"
+    ],
+    "Programming/NodeJs/Event-Driven Programming": [
+      "Programming/NodeJs/Event-Driven Programming/Creating and handling custom events.md",
+      "Programming/NodeJs/Event-Driven Programming/Real-world use cases of event-driven architecture.md",
+      "Programming/NodeJs/Event-Driven Programming/Understanding the EventEmitter class (events module).md"
+    ],
+    "Programming/NodeJs/Express.js Framework": [
+      "Programming/NodeJs/Express.js Framework/Error handling in Express.md",
+      "Programming/NodeJs/Express.js Framework/Express Router for modular routes.md",
+      "Programming/NodeJs/Express.js Framework/Handling routes (GET, POST, PUT, DELETE).md",
+      "Programming/NodeJs/Express.js Framework/Installing and setting up Express.md",
+      "Programming/NodeJs/Express.js Framework/Middleware (built-in, third-party, and custom).md",
+      "Programming/NodeJs/Express.js Framework/Request and response objects (req.body, req.params, req.query).md",
+      "Programming/NodeJs/Express.js Framework/Using static files (express.static).md"
+    ],
+    "Programming/NodeJs/File System and Path Handeling": [
+      "Programming/NodeJs/File System and Path Handeling/Creating, deleting, and modifying files_folders (fs.mkdir, fs.rmdir, fs.unlink).md",
+      "Programming/NodeJs/File System and Path Handeling/Handling paths efficiently (path.join, path.resolve).md",
+      "Programming/NodeJs/File System and Path Handeling/Reading and writing files (fs.readFile, fs.writeFile, fs.appendFile).md",
+      "Programming/NodeJs/File System and Path Handeling/Working with Streams (Readable, Writable, Duplex, Transform).md"
+    ],
+    "Programming/NodeJs/HTTP and Web Server Development": [
+      "Programming/NodeJs/HTTP and Web Server Development/Creating an HTTP server (http.createServer).md",
+      "Programming/NodeJs/HTTP and Web Server Development/Handling requests and responses.md",
+      "Programming/NodeJs/HTTP and Web Server Development/Sending JSON responses (res.writeHead(200, { _Content-Type__ _application_json_ })).md",
+      "Programming/NodeJs/HTTP and Web Server Development/Understanding and using middleware.md",
+      "Programming/NodeJs/HTTP and Web Server Development/Working with query parameters and request body.md"
+    ],
+    "Programming/NodeJs/Installation and Setup": [
+      "Programming/NodeJs/Installation and Setup/Installing Node.js and npm (Node Package Manager).md",
+      "Programming/NodeJs/Installation and Setup/Understanding nvm (Node Version Manager).md"
+    ],
+    "Programming/NodeJs/NodeJs Modules and Package Management": [
+      "Programming/NodeJs/NodeJs Modules and Package Management/Built-in modules (fs, path, http, os, events, crypto, etc.).md",
+      "Programming/NodeJs/NodeJs Modules and Package Management/CommonJS vs ES Modules (require vs import).md",
+      "Programming/NodeJs/NodeJs Modules and Package Management/Creating and exporting custom modules.md",
+      "Programming/NodeJs/NodeJs Modules and Package Management/Installing and managing third-party packages (npm install, npm update, npm uninstall).md",
+      "Programming/NodeJs/NodeJs Modules and Package Management/Using npm (package.json, package-lock.json, dependencies vs devDependencies).md",
+      "Programming/NodeJs/NodeJs Modules and Package Management/Using npx to run Node.js scripts.md"
+    ],
+    "Programming/NodeJs/Performance Optimisation and Scaling": [
+      "Programming/NodeJs/Performance Optimisation and Scaling/Caching strategies (Redis, in-memory caching).md",
+      "Programming/NodeJs/Performance Optimisation and Scaling/Clustering and Worker Threads.md",
+      "Programming/NodeJs/Performance Optimisation and Scaling/Load balancing with Nginx or PM2.md",
+      "Programming/NodeJs/Performance Optimisation and Scaling/Profiling performance with Node.js tools.md"
+    ],
+    "Programming/Python": [
+      "Programming/Python/Fundamentals",
+      "Programming/Python/Packages"
+    ],
+    "Programming/Python/Fundamentals": [
+      "Programming/Python/Fundamentals/Conditionals.md",
+      "Programming/Python/Fundamentals/Data Structures.md",
+      "Programming/Python/Fundamentals/Error Handeling and Logging.md",
+      "Programming/Python/Fundamentals/File Handeling.md",
+      "Programming/Python/Fundamentals/Functions and Lambdas.md",
+      "Programming/Python/Fundamentals/Functions and Module_Importing (Seperate).md",
+      "Programming/Python/Fundamentals/Iterators and Generators.md",
+      "Programming/Python/Fundamentals/List Functions.md",
+      "Programming/Python/Fundamentals/Loops.md",
+      "Programming/Python/Fundamentals/Modules and Importing.md",
+      "Programming/Python/Fundamentals/Multi-Threading & Parallel Processing.md",
+      "Programming/Python/Fundamentals/OOP.md",
+      "Programming/Python/Fundamentals/Profiling Code.md",
+      "Programming/Python/Fundamentals/Sorting.md",
+      "Programming/Python/Fundamentals/String Formatting.md",
+      "Programming/Python/Fundamentals/User Input.md",
+      "Programming/Python/Fundamentals/Using Generators Instead of Lists (Lazy Evaluation).md",
+      "Programming/Python/Fundamentals/Variables and Data Types.md",
+      "Programming/Python/Fundamentals/venv and conda.md",
+      "Programming/Python/Fundamentals/What is pip.md",
+      "Programming/Python/Fundamentals/Working with JSON and APIs.md"
+    ],
+    "Programming/Python/Packages": [
+      "Programming/Python/Packages/Data Manipulation",
+      "Programming/Python/Packages/Data Visualisation",
+      "Programming/Python/Packages/Deep Learning",
+      "Programming/Python/Packages/Machine Learning Algorithms",
+      "Programming/Python/Packages/Natural Language Processin",
+      "Programming/Python/Packages/Pacakages.md",
+      "Programming/Python/Packages/Python Package checklist.md"
+    ],
+    "Programming/Python/Packages/Data Manipulation": [
+      "Programming/Python/Packages/Data Manipulation/NumPy",
+      "Programming/Python/Packages/Data Manipulation/Panda"
+    ],
+    "Programming/Python/Packages/Data Manipulation/NumPy": [
+      "Programming/Python/Packages/Data Manipulation/NumPy/Numpy checklist.md"
+    ],
+    "Programming/Python/Packages/Data Manipulation/Panda": [
+      "Programming/Python/Packages/Data Manipulation/Panda/Advanced Data Manipulation.md",
+      "Programming/Python/Packages/Data Manipulation/Panda/Data Cleaning.md",
+      "Programming/Python/Packages/Data Manipulation/Panda/Data Inspection.md",
+      "Programming/Python/Packages/Data Manipulation/Panda/Data Selection.md",
+      "Programming/Python/Packages/Data Manipulation/Panda/Data Structures.md",
+      "Programming/Python/Packages/Data Manipulation/Panda/Data Transformation.md",
+      "Programming/Python/Packages/Data Manipulation/Panda/Filtering and Grouping.md",
+      "Programming/Python/Packages/Data Manipulation/Panda/Loading data.md",
+      "Programming/Python/Packages/Data Manipulation/Panda/Merging and Joining.md",
+      "Programming/Python/Packages/Data Manipulation/Panda/Performance Optimisation.md",
+      "Programming/Python/Packages/Data Manipulation/Panda/Reshaping Data.md",
+      "Programming/Python/Packages/Data Manipulation/Panda/Time Series.md"
+    ],
+    "Programming/Python/Packages/Data Visualisation": [
+      "Programming/Python/Packages/Data Visualisation/Matplotlib"
+    ],
+    "Programming/Python/Packages/Data Visualisation/Matplotlib": [
+      "Programming/Python/Packages/Data Visualisation/Matplotlib/Advanced Plot Types.md",
+      "Programming/Python/Packages/Data Visualisation/Matplotlib/Basic Plotting.md",
+      "Programming/Python/Packages/Data Visualisation/Matplotlib/Customizing Plot Colors, Markers, and Line Styles.md",
+      "Programming/Python/Packages/Data Visualisation/Matplotlib/Customizing Tick Marks, Colors, and Labels.md",
+      "Programming/Python/Packages/Data Visualisation/Matplotlib/Figure, Axis, and Subplots.md",
+      "Programming/Python/Packages/Data Visualisation/Matplotlib/Interactive plots.md",
+      "Programming/Python/Packages/Data Visualisation/Matplotlib/Saving Plots.md",
+      "Programming/Python/Packages/Data Visualisation/Matplotlib/Styles and Themes.md",
+      "Programming/Python/Packages/Data Visualisation/Matplotlib/Subplots.md"
+    ],
+    "Programming/Python/Packages/Deep Learning": [
+      "Programming/Python/Packages/Deep Learning/TensorFlow"
+    ],
+    "Programming/Python/Packages/Deep Learning/TensorFlow": [
+      "Programming/Python/Packages/Deep Learning/TensorFlow/TensorFlow Checklist.md"
+    ],
+    "Programming/Python/Packages/Machine Learning Algorithms": [
+      "Programming/Python/Packages/Machine Learning Algorithms/Scikit-learn"
+    ],
+    "Programming/Python/Packages/Machine Learning Algorithms/Scikit-learn": [
+      "Programming/Python/Packages/Machine Learning Algorithms/Scikit-learn/Scikit-learn checklist.md"
+    ],
+    "Programming/Python/Packages/Natural Language Processin": [
+      "Programming/Python/Packages/Natural Language Processin/NLTK"
+    ],
+    "Programming/Python/Packages/Natural Language Processin/NLTK": [
+      "Programming/Python/Packages/Natural Language Processin/NLTK/NLTK Checklist.md"
+    ],
+    "Review": [
+      "Review/design_doc.md",
+      "Review/History Timeline Project.md",
+      "Review/Necromancy Game Design.md",
+      "Review/Potential Projects.md",
+      "Review/Software Design Prep.md",
+      "Review/System Design Prep.md"
+    ],
+    "Software Architecture": [
+      "Software Architecture/Software Design",
+      "Software Architecture/System Design"
+    ],
+    "Software Architecture/Software Design": [
+      "Software Architecture/Software Design/Paradigms",
+      "Software Architecture/Software Design/Principles"
+    ],
+    "Software Architecture/Software Design/Paradigms": [
+      "Software Architecture/Software Design/Paradigms/OOP",
+      "Software Architecture/Software Design/Paradigms/Functional Programming.md",
+      "Software Architecture/Software Design/Paradigms/Reactive Programming.md"
+    ],
+    "Software Architecture/Software Design/Paradigms/OOP": [
+      "Software Architecture/Software Design/Paradigms/OOP/_Object Oriented Programming (OOP).md",
+      "Software Architecture/Software Design/Paradigms/OOP/Abstraction.md",
+      "Software Architecture/Software Design/Paradigms/OOP/Encapsulation.md",
+      "Software Architecture/Software Design/Paradigms/OOP/Inheritance.md",
+      "Software Architecture/Software Design/Paradigms/OOP/Polymorphism.md"
+    ],
+    "Software Architecture/Software Design/Principles": [
+      "Software Architecture/Software Design/Principles/SOLID",
+      "Software Architecture/Software Design/Principles/1. Software Design Principles.md",
+      "Software Architecture/Software Design/Principles/API-First Principles.md",
+      "Software Architecture/Software Design/Principles/DRY (Don't Repeat Yourself).md",
+      "Software Architecture/Software Design/Principles/KISS (Keep It Simple, Stupid).md",
+      "Software Architecture/Software Design/Principles/Separation of Concerns (SoC).md",
+      "Software Architecture/Software Design/Principles/YAGNI (You Ain't Gonna Need It).md"
+    ],
+    "Software Architecture/Software Design/Principles/SOLID": [
+      "Software Architecture/Software Design/Principles/SOLID/1. What is Solid.md",
+      "Software Architecture/Software Design/Principles/SOLID/Dependency Inversion Principle (DIP).md",
+      "Software Architecture/Software Design/Principles/SOLID/Interface Segregation Principle (ISP).md",
+      "Software Architecture/Software Design/Principles/SOLID/Liskov Substitution Principle (LSP).md",
+      "Software Architecture/Software Design/Principles/SOLID/Open-Closed Principle (OCP).md",
+      "Software Architecture/Software Design/Principles/SOLID/Single Responsibility Principle (SRP).md"
+    ],
+    "Software Architecture/System Design": [
+      "Software Architecture/System Design/System Design.md",
+      "Software Architecture/System Design/API design",
+      "Software Architecture/System Design/Architecture",
+      "Software Architecture/System Design/Data access patterns",
+      "Software Architecture/System Design/Data Movement or Propogation",
+      "Software Architecture/System Design/Design Patterns",
+      "Software Architecture/System Design/Performance",
+      "Software Architecture/System Design/System Design",
+      "Software Architecture/System Design/API Gateway.md",
+      "Software Architecture/System Design/Basic overview of Authentication and Authorisation.md",
+      "Software Architecture/System Design/Content Delivery Networks (CDNs).md",
+      "Software Architecture/System Design/Domain driven design.md",
+      "Software Architecture/System Design/Functional vs Non-Functional Requirements.md",
+      "Software Architecture/System Design/Latency, Throughput and Bandwidth.md",
+      "Software Architecture/System Design/Load Balancer.md",
+      "Software Architecture/System Design/Object Store.md",
+      "Software Architecture/System Design/Open API (formally Swagger).md",
+      "Software Architecture/System Design/Pagination.md",
+      "Software Architecture/System Design/Rate Limiting.md",
+      "Software Architecture/System Design/ReadWrite ratio.md",
+      "Software Architecture/System Design/Redis.md",
+      "Software Architecture/System Design/SQL vs NoSQL performance.md",
+      "Software Architecture/System Design/System Design Base.base"
+    ],
+    "Software Architecture/System Design/API design": [
+      "Software Architecture/System Design/API design/MVC.md",
+      "Software Architecture/System Design/API design/RPC",
+      "Software Architecture/System Design/API design/GraphQL.md",
+      "Software Architecture/System Design/API design/HATEOS Principle.md",
+      "Software Architecture/System Design/API design/Long Polling.md",
+      "Software Architecture/System Design/API design/Rest.md"
+    ],
+    "Software Architecture/System Design/API design/RPC": [
+      "Software Architecture/System Design/API design/RPC/gRPC.md",
+      "Software Architecture/System Design/API design/RPC/Remote Procedure Call (RPC).md"
+    ],
+    "Software Architecture/System Design/Architecture": [
+      "Software Architecture/System Design/Architecture/Event-Driven Architecture",
+      "Software Architecture/System Design/Architecture/Message Brokers",
+      "Software Architecture/System Design/Architecture/Other",
+      "Software Architecture/System Design/Architecture/API Architecture.md",
+      "Software Architecture/System Design/Architecture/Architectural Patterns.md",
+      "Software Architecture/System Design/Architecture/Clean Architecture.md",
+      "Software Architecture/System Design/Architecture/Client-Server Architecture.md",
+      "Software Architecture/System Design/Architecture/Distributed Systems.md",
+      "Software Architecture/System Design/Architecture/Hexaganol Architecture.md",
+      "Software Architecture/System Design/Architecture/Layered Architecture.md",
+      "Software Architecture/System Design/Architecture/Microservices Architecture.md",
+      "Software Architecture/System Design/Architecture/Monolithic Architecture.md",
+      "Software Architecture/System Design/Architecture/Monolithic Vs Microservices Vs Serverless.md",
+      "Software Architecture/System Design/Architecture/Multitenency.md",
+      "Software Architecture/System Design/Architecture/Serverless Architecture.md"
+    ],
+    "Software Architecture/System Design/Architecture/Event-Driven Architecture": [
+      "Software Architecture/System Design/Architecture/Event-Driven Architecture/Event Sourcing Pattern.md",
+      "Software Architecture/System Design/Architecture/Event-Driven Architecture/Event type field data type.md",
+      "Software Architecture/System Design/Architecture/Event-Driven Architecture/Event-Driven Architecture.md"
+    ],
+    "Software Architecture/System Design/Architecture/Message Brokers": [
+      "Software Architecture/System Design/Architecture/Message Brokers/_Message Broker.md",
+      "Software Architecture/System Design/Architecture/Message Brokers/Apache Kafka.md",
+      "Software Architecture/System Design/Architecture/Message Brokers/RabitMQ.md"
+    ],
+    "Software Architecture/System Design/Architecture/Other": [
+      "Software Architecture/System Design/Architecture/Other/DAO.md",
+      "Software Architecture/System Design/Architecture/Other/Pub Sub model.md"
+    ],
+    "Software Architecture/System Design/Data access patterns": [
+      "Software Architecture/System Design/Data access patterns/CQRS (Command Query Responsibility Segregation).md",
+      "Software Architecture/System Design/Data access patterns/Data Access Patterns.md"
+    ],
+    "Software Architecture/System Design/Data Movement or Propogation": [
+      "Software Architecture/System Design/Data Movement or Propogation/Change Data Capture.md",
+      "Software Architecture/System Design/Data Movement or Propogation/Data Movement or Propogation.md"
+    ],
+    "Software Architecture/System Design/Design Patterns": [
+      "Software Architecture/System Design/Design Patterns/Anti-Pattern",
+      "Software Architecture/System Design/Design Patterns/Behavioural",
+      "Software Architecture/System Design/Design Patterns/Creational",
+      "Software Architecture/System Design/Design Patterns/Structural",
+      "Software Architecture/System Design/Design Patterns/Design Patterns.md"
+    ],
+    "Software Architecture/System Design/Design Patterns/Anti-Pattern": [
+      "Software Architecture/System Design/Design Patterns/Anti-Pattern/Anti-Pattern.md",
+      "Software Architecture/System Design/Design Patterns/Anti-Pattern/God Object, Spaghetti Code, Magic Numbers.md"
+    ],
+    "Software Architecture/System Design/Design Patterns/Behavioural": [
+      "Software Architecture/System Design/Design Patterns/Behavioural/Chain of Responsibility Pattern.md",
+      "Software Architecture/System Design/Design Patterns/Behavioural/Command Pattern.md",
+      "Software Architecture/System Design/Design Patterns/Behavioural/Iterator Pattern.md",
+      "Software Architecture/System Design/Design Patterns/Behavioural/Mediator Pattern.md",
+      "Software Architecture/System Design/Design Patterns/Behavioural/Memento Pattern.md",
+      "Software Architecture/System Design/Design Patterns/Behavioural/Observer Pattern.md",
+      "Software Architecture/System Design/Design Patterns/Behavioural/State Pattern.md",
+      "Software Architecture/System Design/Design Patterns/Behavioural/Strategy Pattern.md",
+      "Software Architecture/System Design/Design Patterns/Behavioural/Template Method Pattern.md",
+      "Software Architecture/System Design/Design Patterns/Behavioural/Visitor Pattern.md"
+    ],
+    "Software Architecture/System Design/Design Patterns/Creational": [
+      "Software Architecture/System Design/Design Patterns/Creational/Abstract Factory Pattern.md",
+      "Software Architecture/System Design/Design Patterns/Creational/Builder Pattern.md",
+      "Software Architecture/System Design/Design Patterns/Creational/Factory Pattern.md",
+      "Software Architecture/System Design/Design Patterns/Creational/Prototype Pattern.md",
+      "Software Architecture/System Design/Design Patterns/Creational/Singleton Pattern.md"
+    ],
+    "Software Architecture/System Design/Design Patterns/Structural": [
+      "Software Architecture/System Design/Design Patterns/Structural/Adapter Pattern.md",
+      "Software Architecture/System Design/Design Patterns/Structural/Bridge Pattern.md",
+      "Software Architecture/System Design/Design Patterns/Structural/Composite Pattern.md",
+      "Software Architecture/System Design/Design Patterns/Structural/Decorator Pattern.md",
+      "Software Architecture/System Design/Design Patterns/Structural/Facade Pattern.md",
+      "Software Architecture/System Design/Design Patterns/Structural/Flyweight Pattern.md",
+      "Software Architecture/System Design/Design Patterns/Structural/Proxy Pattern.md"
+    ],
+    "Software Architecture/System Design/Performance": [
+      "Software Architecture/System Design/Performance/Caching strategies (memoization, HTTP caching).md",
+      "Software Architecture/System Design/Performance/Performance Bottlenecks.md",
+      "Software Architecture/System Design/Performance/Profiling and benchmarking techniques.md",
+      "Software Architecture/System Design/Performance/Rate Limiting and throttling.md"
+    ],
+    "Software Architecture/System Design/System Design": [
+      "Software Architecture/System Design/System Design/Caching strategies (CDN, Redis).md",
+      "Software Architecture/System Design/System Design/CAP theorem and BASE vs ACID.md",
+      "Software Architecture/System Design/System Design/Database partitioning (sharding, replication).md",
+      "Software Architecture/System Design/System Design/Eventual consistency and strong consistency.md",
+      "Software Architecture/System Design/System Design/How to approach system design questions.md",
+      "Software Architecture/System Design/System Design/Load balancing strategies.md",
+      "Software Architecture/System Design/System Design/System Design Decision Categories.md",
+      "Software Architecture/System Design/System Design/Understand scalability, reliability, and availability.md"
+    ],
+    "Templates": [
+      "Templates/Leaf.md",
+      "Templates/Tertirary.md",
+      "Templates/Secondary.md",
+      "Templates/Trunk.md",
+      "Templates/Algorithm Template.md",
+      "Templates/_Nothing.md",
+      "Templates/Checklist.md",
+      "Templates/Custom.md",
+      "Templates/Tagging + Clean-up + Comprehend.md"
+    ],
+    "Testing": [
+      "Testing/End to End Testing.md",
+      "Testing/Integration Testing.md",
+      "Testing/TDD and BDD.md",
+      "Testing/Types of Tests.md",
+      "Testing/Unit Testing.md"
+    ],
+    "Theory of Computation": [
+      "Theory of Computation/Automata Theory.md",
+      "Theory of Computation/Theory of Computation.md"
+    ],
+    "Version Control": [
+      "Version Control/SVN.md",
+      "Version Control/Version Control.md"
+    ],
+    "Web Development": [
+      "Web Development/Security",
+      "Web Development/Backend Frameworks",
+      "Web Development/Frontend",
+      "Web Development/General Concepts"
+    ],
+    "Web Development/Backend Frameworks": [
+      "Web Development/Backend Frameworks/Spring",
+      "Web Development/Backend Frameworks/Web Framework.md"
+    ],
+    "Web Development/Backend Frameworks/Spring": [
+      "Web Development/Backend Frameworks/Spring/Spring Boot.md",
+      "Web Development/Backend Frameworks/Spring/Spring Core",
+      "Web Development/Backend Frameworks/Spring/Spring Web",
+      "Web Development/Backend Frameworks/Spring/Spring Data",
+      "Web Development/Backend Frameworks/Spring/Spring Security",
+      "Web Development/Backend Frameworks/Spring/Spring AOP",
+      "Web Development/Backend Frameworks/Spring/Spring Testing",
+      "Web Development/Backend Frameworks/Spring/Spring Build Process.md",
+      "Web Development/Backend Frameworks/Spring/Spring Checklist.md",
+      "Web Development/Backend Frameworks/Spring/Spring Overview.md"
+    ],
+    "Web Development/Backend Frameworks/Spring/Spring AOP": [
+      "Web Development/Backend Frameworks/Spring/Spring AOP/Advice Types.md",
+      "Web Development/Backend Frameworks/Spring/Spring AOP/AOP Terminology.md",
+      "Web Development/Backend Frameworks/Spring/Spring AOP/Aspect.md",
+      "Web Development/Backend Frameworks/Spring/Spring AOP/Aspect-Oriented Programming.md",
+      "Web Development/Backend Frameworks/Spring/Spring AOP/Join Points.md",
+      "Web Development/Backend Frameworks/Spring/Spring AOP/Pointcut expressions.md"
+    ],
+    "Web Development/Backend Frameworks/Spring/Spring Core": [
+      "Web Development/Backend Frameworks/Spring/Spring Core/Spring Core.md",
+      "Web Development/Backend Frameworks/Spring/Spring Core/Application Context.md",
+      "Web Development/Backend Frameworks/Spring/Spring Core/Understanding the Need for IoC.md",
+      "Web Development/Backend Frameworks/Spring/Spring Core/Beans.md",
+      "Web Development/Backend Frameworks/Spring/Spring Core/IoC (Inversion of Control) and Dependency Injection (DI).md",
+      "Web Development/Backend Frameworks/Spring/Spring Core/Construct Annotations.md",
+      "Web Development/Backend Frameworks/Spring/Spring Core/Spring Event System.md",
+      "Web Development/Backend Frameworks/Spring/Spring Core/Spring proxy.md",
+      "Web Development/Backend Frameworks/Spring/Spring Core/Spring Runners.md",
+      "Web Development/Backend Frameworks/Spring/Spring Core/RequestContextHolder.md",
+      "Web Development/Backend Frameworks/Spring/Spring Core/SpEll.md",
+      "Web Development/Backend Frameworks/Spring/Spring Core/Profiles and Configuraition.md",
+      "Web Development/Backend Frameworks/Spring/Spring Core/Spring Boot Actuator.md"
+    ],
+    "Web Development/Backend Frameworks/Spring/Spring Data": [
+      "Web Development/Backend Frameworks/Spring/Spring Data/Spring Data.md",
+      "Web Development/Backend Frameworks/Spring/Spring Data/_Persistence Context.md",
+      "Web Development/Backend Frameworks/Spring/Spring Data/(to be removed) Spring data JPA.md",
+      "Web Development/Backend Frameworks/Spring/Spring Data/Cascade.md",
+      "Web Development/Backend Frameworks/Spring/Spring Data/Eager and Lazy Loading.md",
+      "Web Development/Backend Frameworks/Spring/Spring Data/Entity Lifecycle.md",
+      "Web Development/Backend Frameworks/Spring/Spring Data/EventListeners.md",
+      "Web Development/Backend Frameworks/Spring/Spring Data/JPA_Hibernate.md",
+      "Web Development/Backend Frameworks/Spring/Spring Data/Pagination and Sorting.md",
+      "Web Development/Backend Frameworks/Spring/Spring Data/Propogation.md",
+      "Web Development/Backend Frameworks/Spring/Spring Data/Queries.md",
+      "Web Development/Backend Frameworks/Spring/Spring Data/Table Relationship Mapping.md",
+      "Web Development/Backend Frameworks/Spring/Spring Data/Transation Management.md"
+    ],
+    "Web Development/Backend Frameworks/Spring/Spring Security": [
+      "Web Development/Backend Frameworks/Spring/Spring Security/Spring Security.md",
+      "Web Development/Backend Frameworks/Spring/Spring Security/_Authentication and Authorisation",
+      "Web Development/Backend Frameworks/Spring/Spring Security/Security Filters",
+      "Web Development/Backend Frameworks/Spring/Spring Security/_Overview of Spring Security.md",
+      "Web Development/Backend Frameworks/Spring/Spring Security/Core Components and Architecture.md",
+      "Web Development/Backend Frameworks/Spring/Spring Security/Spring Security Configuration.md"
+    ],
+    "Web Development/Backend Frameworks/Spring/Spring Security/_Authentication and Authorisation": [
+      "Web Development/Backend Frameworks/Spring/Spring Security/_Authentication and Authorisation/Authentication",
+      "Web Development/Backend Frameworks/Spring/Spring Security/_Authentication and Authorisation/Authorisation",
+      "Web Development/Backend Frameworks/Spring/Spring Security/_Authentication and Authorisation/Authentication-Authorisation flow.md",
+      "Web Development/Backend Frameworks/Spring/Spring Security/_Authentication and Authorisation/SecurityContext.md"
+    ],
+    "Web Development/Backend Frameworks/Spring/Spring Security/_Authentication and Authorisation/Authentication": [
+      "Web Development/Backend Frameworks/Spring/Spring Security/_Authentication and Authorisation/Authentication/Authentication Manager and Providers",
+      "Web Development/Backend Frameworks/Spring/Spring Security/_Authentication and Authorisation/Authentication/Authentication Mechanisms",
+      "Web Development/Backend Frameworks/Spring/Spring Security/_Authentication and Authorisation/Authentication/Authentication Methods",
+      "Web Development/Backend Frameworks/Spring/Spring Security/_Authentication and Authorisation/Authentication/UserDetails and UserService.md"
+    ],
+    "Web Development/Backend Frameworks/Spring/Spring Security/_Authentication and Authorisation/Authentication/Authentication Manager and Providers": [
+      "Web Development/Backend Frameworks/Spring/Spring Security/_Authentication and Authorisation/Authentication/Authentication Manager and Providers/Spring Authentication Providers",
+      "Web Development/Backend Frameworks/Spring/Spring Security/_Authentication and Authorisation/Authentication/Authentication Manager and Providers/AuthenticationManager and AuthenticationProvider.md",
+      "Web Development/Backend Frameworks/Spring/Spring Security/_Authentication and Authorisation/Authentication/Authentication Manager and Providers/Custom Authentication Providers.md"
+    ],
+    "Web Development/Backend Frameworks/Spring/Spring Security/_Authentication and Authorisation/Authentication/Authentication Manager and Providers/Spring Authentication Providers": [
+      "Web Development/Backend Frameworks/Spring/Spring Security/_Authentication and Authorisation/Authentication/Authentication Manager and Providers/Spring Authentication Providers/DaoAuthenticationProvider.md",
+      "Web Development/Backend Frameworks/Spring/Spring Security/_Authentication and Authorisation/Authentication/Authentication Manager and Providers/Spring Authentication Providers/Provider checklist.md"
+    ],
+    "Web Development/Backend Frameworks/Spring/Spring Security/_Authentication and Authorisation/Authentication/Authentication Mechanisms": [
+      "Web Development/Backend Frameworks/Spring/Spring Security/_Authentication and Authorisation/Authentication/Authentication Mechanisms/Basic Authentication.md",
+      "Web Development/Backend Frameworks/Spring/Spring Security/_Authentication and Authorisation/Authentication/Authentication Mechanisms/Digest Authentication.md",
+      "Web Development/Backend Frameworks/Spring/Spring Security/_Authentication and Authorisation/Authentication/Authentication Mechanisms/Form-Based Authentication.md",
+      "Web Development/Backend Frameworks/Spring/Spring Security/_Authentication and Authorisation/Authentication/Authentication Mechanisms/Multi-Factor Authentication (MFA).md",
+      "Web Development/Backend Frameworks/Spring/Spring Security/_Authentication and Authorisation/Authentication/Authentication Mechanisms/Session-Based Authentication (Statefull).md",
+      "Web Development/Backend Frameworks/Spring/Spring Security/_Authentication and Authorisation/Authentication/Authentication Mechanisms/Token-Based Authentication (Stateless).md"
+    ],
+    "Web Development/Backend Frameworks/Spring/Spring Security/_Authentication and Authorisation/Authentication/Authentication Methods": [
+      "Web Development/Backend Frameworks/Spring/Spring Security/_Authentication and Authorisation/Authentication/Authentication Methods/In-Memory Authentication.md",
+      "Web Development/Backend Frameworks/Spring/Spring Security/_Authentication and Authorisation/Authentication/Authentication Methods/JDBC Authentication.md",
+      "Web Development/Backend Frameworks/Spring/Spring Security/_Authentication and Authorisation/Authentication/Authentication Methods/LDAP Authentication.md"
+    ],
+    "Web Development/Backend Frameworks/Spring/Spring Security/_Authentication and Authorisation/Authorisation": [
+      "Web Development/Backend Frameworks/Spring/Spring Security/_Authentication and Authorisation/Authorisation/__Role-Based and Authority-Based Access Control.md",
+      "Web Development/Backend Frameworks/Spring/Spring Security/_Authentication and Authorisation/Authorisation/_Method-Level Security with Annotations.md",
+      "Web Development/Backend Frameworks/Spring/Spring Security/_Authentication and Authorisation/Authorisation/_URL-Based Authorization with HttpSecurity.md",
+      "Web Development/Backend Frameworks/Spring/Spring Security/_Authentication and Authorisation/Authorisation/Expression-Based Authorization.md"
+    ],
+    "Web Development/Backend Frameworks/Spring/Spring Security/Security Filters": [
+      "Web Development/Backend Frameworks/Spring/Spring Security/Security Filters/Spring Security Filter.md"
+    ],
+    "Web Development/Backend Frameworks/Spring/Spring Testing": [
+      "Web Development/Backend Frameworks/Spring/Spring Testing/Spring Boot Test Utilities",
+      "Web Development/Backend Frameworks/Spring/Spring Testing/Spring Data",
+      "Web Development/Backend Frameworks/Spring/Spring Testing/Spring Secuirty Testing",
+      "Web Development/Backend Frameworks/Spring/Spring Testing/Spring Test Framework",
+      "Web Development/Backend Frameworks/Spring/Spring Testing/Spring Boot Test vs Spring Framework Test.md",
+      "Web Development/Backend Frameworks/Spring/Spring Testing/Spring Testing.md"
+    ],
+    "Web Development/Backend Frameworks/Spring/Spring Testing/Spring Boot Test Utilities": [
+      "Web Development/Backend Frameworks/Spring/Spring Testing/Spring Boot Test Utilities/@MockBean and @SpyBean Annotations.md",
+      "Web Development/Backend Frameworks/Spring/Spring Testing/Spring Boot Test Utilities/Embedded Server for Integration Testing.md",
+      "Web Development/Backend Frameworks/Spring/Spring Testing/Spring Boot Test Utilities/MockMvc .md",
+      "Web Development/Backend Frameworks/Spring/Spring Testing/Spring Boot Test Utilities/TestRestTemplate vs. WebTestClient.md",
+      "Web Development/Backend Frameworks/Spring/Spring Testing/Spring Boot Test Utilities/Using Mock Objects with Mockito.md"
+    ],
+    "Web Development/Backend Frameworks/Spring/Spring Testing/Spring Data": [
+      "Web Development/Backend Frameworks/Spring/Spring Testing/Spring Data/@DataJpaTest and @Sql for Database State Management.md",
+      "Web Development/Backend Frameworks/Spring/Spring Testing/Spring Data/Transaction Management in Tests (@Transactional).md",
+      "Web Development/Backend Frameworks/Spring/Spring Testing/Spring Data/Using H2 or Embedded Databases for Integration Tests.md",
+      "Web Development/Backend Frameworks/Spring/Spring Testing/Spring Data/Using Testcontainers for Real Database Integration.md"
+    ],
+    "Web Development/Backend Frameworks/Spring/Spring Testing/Spring Secuirty Testing": [
+      "Web Development/Backend Frameworks/Spring/Spring Testing/Spring Secuirty Testing/Authenitcation and Authroisation Testing",
+      "Web Development/Backend Frameworks/Spring/Spring Testing/Spring Secuirty Testing/@WithMockUser and @WithUserDetails.md",
+      "Web Development/Backend Frameworks/Spring/Spring Testing/Spring Secuirty Testing/Security Test Configurations.md",
+      "Web Development/Backend Frameworks/Spring/Spring Testing/Spring Secuirty Testing/SecurityMockMvcRequestPostProcessors for Custom Security Contexts.md",
+      "Web Development/Backend Frameworks/Spring/Spring Testing/Spring Secuirty Testing/Spring Security Testing.md",
+      "Web Development/Backend Frameworks/Spring/Spring Testing/Spring Secuirty Testing/Testing Method-Level Security with @PreAuthorize and @PostAuthorize.md"
+    ],
+    "Web Development/Backend Frameworks/Spring/Spring Testing/Spring Secuirty Testing/Authenitcation and Authroisation Testing": [
+      "Web Development/Backend Frameworks/Spring/Spring Testing/Spring Secuirty Testing/Authenitcation and Authroisation Testing/Custom Security Expressions in Tests.md",
+      "Web Development/Backend Frameworks/Spring/Spring Testing/Spring Secuirty Testing/Authenitcation and Authroisation Testing/Mocking Authentication with UsernamePasswordAuthenticationToken.md",
+      "Web Development/Backend Frameworks/Spring/Spring Testing/Spring Secuirty Testing/Authenitcation and Authroisation Testing/Role-Based and Permission-Based Testing.md",
+      "Web Development/Backend Frameworks/Spring/Spring Testing/Spring Secuirty Testing/Authenitcation and Authroisation Testing/Using @WithAnonymousUser for Anonymous Access Testing.md",
+      "Web Development/Backend Frameworks/Spring/Spring Testing/Spring Secuirty Testing/Authenitcation and Authroisation Testing/Validating JWT Tokens and OAuth2 Tokens in Spring.md"
+    ],
+    "Web Development/Backend Frameworks/Spring/Spring Testing/Spring Test Framework": [
+      "Web Development/Backend Frameworks/Spring/Spring Testing/Spring Test Framework/@ContextConfiguration and @TestConfiguration.md",
+      "Web Development/Backend Frameworks/Spring/Spring Testing/Spring Test Framework/@RunWith(SpringRunner.class) vs. @ExtendWith(SpringExtension.class).md",
+      "Web Development/Backend Frameworks/Spring/Spring Testing/Spring Test Framework/@SpringBootTest Annotation.md",
+      "Web Development/Backend Frameworks/Spring/Spring Testing/Spring Test Framework/ApplicationContext and Dependency Injection in Tests.md",
+      "Web Development/Backend Frameworks/Spring/Spring Testing/Spring Test Framework/Test Context Management.md"
+    ],
+    "Web Development/Backend Frameworks/Spring/Spring Web": [
+      "Web Development/Backend Frameworks/Spring/Spring Web/Spring MVC",
+      "Web Development/Backend Frameworks/Spring/Spring Web/Spring Caching .md"
+    ],
+    "Web Development/Backend Frameworks/Spring/Spring Web/Spring MVC": [
+      "Web Development/Backend Frameworks/Spring/Spring Web/Spring MVC/Spring Web MVC.md",
+      "Web Development/Backend Frameworks/Spring/Spring Web/Spring MVC/@InitBinder (Method to be called before each endpo.md",
+      "Web Development/Backend Frameworks/Spring/Spring Web/Spring MVC/Exception Handling.md",
+      "Web Development/Backend Frameworks/Spring/Spring Web/Spring MVC/Spring Data REST.md",
+      "Web Development/Backend Frameworks/Spring/Spring Web/Spring MVC/Spring MVC File Handeling.md",
+      "Web Development/Backend Frameworks/Spring/Spring Web/Spring MVC/Spring MVC WebSockets and STOMP.md"
+    ],
+    "Web Development/Frontend": [
+      "Web Development/Frontend/CSS",
+      "Web Development/Frontend/Framework",
+      "Web Development/Frontend/HTML",
+      "Web Development/Frontend/Theory",
+      "Web Development/Frontend/Typescript"
+    ],
+    "Web Development/Frontend/CSS": [
+      "Web Development/Frontend/CSS/Basics",
+      "Web Development/Frontend/CSS/Box Model",
+      "Web Development/Frontend/CSS/Color and Background",
+      "Web Development/Frontend/CSS/CSS Transitions and Animations",
+      "Web Development/Frontend/CSS/Flexbox",
+      "Web Development/Frontend/CSS/Grid",
+      "Web Development/Frontend/CSS/Layouts",
+      "Web Development/Frontend/CSS/Responsive Design",
+      "Web Development/Frontend/CSS/Syntax",
+      "Web Development/Frontend/CSS/Typography",
+      "Web Development/Frontend/CSS/CSS Filters.md",
+      "Web Development/Frontend/CSS/CSS Variables.md"
+    ],
+    "Web Development/Frontend/CSS/Basics": [
+      "Web Development/Frontend/CSS/Basics/How CSS is used to style HTML elements (colors, layout, fonts, etc.)..md",
+      "Web Development/Frontend/CSS/Basics/Inline, Internal, and External CSS.md",
+      "Web Development/Frontend/CSS/Basics/What is CSS.md"
+    ],
+    "Web Development/Frontend/CSS/Box Model": [
+      "Web Development/Frontend/CSS/Box Model/Box model using padding, border, margin, and width_height..md",
+      "Web Development/Frontend/CSS/Box Model/Difference between box-sizing_ content-box and box-sizing_ border-box.md",
+      "Web Development/Frontend/CSS/Box Model/What is the box model.md"
+    ],
+    "Web Development/Frontend/CSS/Color and Background": [
+      "Web Development/Frontend/CSS/Color and Background/Background Images.md",
+      "Web Development/Frontend/CSS/Color and Background/Defining Colors.md"
+    ],
+    "Web Development/Frontend/CSS/CSS Transitions and Animations": [
+      "Web Development/Frontend/CSS/CSS Transitions and Animations/Animations.md",
+      "Web Development/Frontend/CSS/CSS Transitions and Animations/Transition Properties.md",
+      "Web Development/Frontend/CSS/CSS Transitions and Animations/Transitions.md"
+    ],
+    "Web Development/Frontend/CSS/Flexbox": [
+      "Web Development/Frontend/CSS/Flexbox/Flexbox Properties.md",
+      "Web Development/Frontend/CSS/Flexbox/How does Flexbox work.md"
+    ],
+    "Web Development/Frontend/CSS/Grid": [
+      "Web Development/Frontend/CSS/Grid/Basics of Grid.md",
+      "Web Development/Frontend/CSS/Grid/Controlling the layout of grid items.md",
+      "Web Development/Frontend/CSS/Grid/Defining columns and rows.md"
+    ],
+    "Web Development/Frontend/CSS/Layouts": [
+      "Web Development/Frontend/CSS/Layouts/Flexbox.md",
+      "Web Development/Frontend/CSS/Layouts/Floats.md",
+      "Web Development/Frontend/CSS/Layouts/Grid.md",
+      "Web Development/Frontend/CSS/Layouts/Positioning.md"
+    ],
+    "Web Development/Frontend/CSS/Responsive Design": [
+      "Web Development/Frontend/CSS/Responsive Design/Flexbox and Grid for flexible layouts.md",
+      "Web Development/Frontend/CSS/Responsive Design/Media Queries.md",
+      "Web Development/Frontend/CSS/Responsive Design/Meta tag.md",
+      "Web Development/Frontend/CSS/Responsive Design/Viewport units_ vw, vh.md"
+    ],
+    "Web Development/Frontend/CSS/Syntax": [
+      "Web Development/Frontend/CSS/Syntax/CSS rule.md",
+      "Web Development/Frontend/CSS/Syntax/CSS Selectors.md",
+      "Web Development/Frontend/CSS/Syntax/Difference between class selectors (.class), ID selectors (id), and element selectors (element)..md",
+      "Web Development/Frontend/CSS/Syntax/Selectors, properties, and values are.md",
+      "Web Development/Frontend/CSS/Syntax/Specificity of selectors and how they cascade.md"
+    ],
+    "Web Development/Frontend/CSS/Typography": [
+      "Web Development/Frontend/CSS/Typography/Text Styling.md",
+      "Web Development/Frontend/CSS/Typography/Web Fonts and Google Fonts.md"
+    ],
+    "Web Development/Frontend/Framework": [
+      "Web Development/Frontend/Framework/ReactJs",
+      "Web Development/Frontend/Framework/Vue",
+      "Web Development/Frontend/Framework/Nuxt.js"
+    ],
+    "Web Development/Frontend/Framework/Nuxt.js": [
+      "Web Development/Frontend/Framework/Nuxt.js/API routes and middleware in Nuxt.md",
+      "Web Development/Frontend/Framework/Nuxt.js/Server-side rendering (SSR) with Nuxt.js.md",
+      "Web Development/Frontend/Framework/Nuxt.js/Static site generation (SSG).md"
+    ],
+    "Web Development/Frontend/Framework/ReactJs": [
+      "Web Development/Frontend/Framework/ReactJs/ReactJs.md"
+    ],
+    "Web Development/Frontend/Framework/Vue": [
+      "Web Development/Frontend/Framework/Vue/VueJS (Options API).md",
+      "Web Development/Frontend/Framework/Vue/1. Introduction",
+      "Web Development/Frontend/Framework/Vue/2. Basics",
+      "Web Development/Frontend/Framework/Vue/3. Components",
+      "Web Development/Frontend/Framework/Vue/4. Lifecycle Hooks",
+      "Web Development/Frontend/Framework/Vue/5. Vue Directives",
+      "Web Development/Frontend/Framework/Vue/6. Composition API and Options API",
+      "Web Development/Frontend/Framework/Vue/7. Handeling Forms and User Input",
+      "Web Development/Frontend/Framework/Vue/8. Reactivity in Vue",
+      "Web Development/Frontend/Framework/Vue/9. Vue Router",
+      "Web Development/Frontend/Framework/Vue/API Calls and Data Fetching",
+      "Web Development/Frontend/Framework/Vue/Deploying Vue Applications",
+      "Web Development/Frontend/Framework/Vue/State Management",
+      "Web Development/Frontend/Framework/Vue/Testing in Vue",
+      "Web Development/Frontend/Framework/Vue/Vue 3 Advanced Topics",
+      "Web Development/Frontend/Framework/Vue/Vue Performance Optimisation",
+      "Web Development/Frontend/Framework/Vue/Vue Transitions and Animations",
+      "Web Development/Frontend/Framework/Vue/Vue with Typescript",
+      "Web Development/Frontend/Framework/Vue/VueJs build Process.md"
+    ],
+    "Web Development/Frontend/Framework/Vue/1. Introduction": [
+      "Web Development/Frontend/Framework/Vue/1. Introduction/1. What is Vue.md",
+      "Web Development/Frontend/Framework/Vue/1. Introduction/Key features of Vue.md",
+      "Web Development/Frontend/Framework/Vue/1. Introduction/Setting up a Vue project (vue create project-name, Vite).md",
+      "Web Development/Frontend/Framework/Vue/1. Introduction/Vue CLI vs Vite.md"
+    ],
+    "Web Development/Frontend/Framework/Vue/2. Basics": [
+      "Web Development/Frontend/Framework/Vue/2. Basics/1. Vue Instance (new Vue(), createApp()).md",
+      "Web Development/Frontend/Framework/Vue/2. Basics/2. Data binding (v-bind, v-model).md",
+      "Web Development/Frontend/Framework/Vue/2. Basics/3. Template syntax ({{ }} for interpolation).md",
+      "Web Development/Frontend/Framework/Vue/2. Basics/4. Computed properties and watchers.md"
+    ],
+    "Web Development/Frontend/Framework/Vue/3. Components": [
+      "Web Development/Frontend/Framework/Vue/3. Components/Creating and using components.md",
+      "Web Development/Frontend/Framework/Vue/3. Components/Dynamic & Async components (_component _is=_compName___).md",
+      "Web Development/Frontend/Framework/Vue/3. Components/Event emission ($emit) for parent-child communication.md",
+      "Web Development/Frontend/Framework/Vue/3. Components/Props for passing data to child components.md",
+      "Web Development/Frontend/Framework/Vue/3. Components/Slots for content distribution.md"
+    ],
+    "Web Development/Frontend/Framework/Vue/4. Lifecycle Hooks": [
+      "Web Development/Frontend/Framework/Vue/4. Lifecycle Hooks/beforeCreate, created.md",
+      "Web Development/Frontend/Framework/Vue/4. Lifecycle Hooks/beforeMount, mounted.md",
+      "Web Development/Frontend/Framework/Vue/4. Lifecycle Hooks/beforeUnmount, unmounted.md",
+      "Web Development/Frontend/Framework/Vue/4. Lifecycle Hooks/beforeUpdate, updated.md",
+      "Web Development/Frontend/Framework/Vue/4. Lifecycle Hooks/Lifecycle.md",
+      "Web Development/Frontend/Framework/Vue/4. Lifecycle Hooks/Using lifecycle hooks for API calls (mounted()).md"
+    ],
+    "Web Development/Frontend/Framework/Vue/5. Vue Directives": [
+      "Web Development/Frontend/Framework/Vue/5. Vue Directives/v-bind (Binding attributes dynamically).md",
+      "Web Development/Frontend/Framework/Vue/5. Vue Directives/v-for (Looping).md",
+      "Web Development/Frontend/Framework/Vue/5. Vue Directives/v-html, v-text (Rendering HTML content).md",
+      "Web Development/Frontend/Framework/Vue/5. Vue Directives/v-if, v-else-if, v-else (Conditional Rendering).md",
+      "Web Development/Frontend/Framework/Vue/5. Vue Directives/v-model (Two-way data binding).md",
+      "Web Development/Frontend/Framework/Vue/5. Vue Directives/v-on (@click, @input, event handling).md",
+      "Web Development/Frontend/Framework/Vue/5. Vue Directives/v-show vs v-if.md"
+    ],
+    "Web Development/Frontend/Framework/Vue/6. Composition API and Options API": [
+      "Web Development/Frontend/Framework/Vue/6. Composition API and Options API/Best practices for structuring Vue apps with Composition API.md",
+      "Web Development/Frontend/Framework/Vue/6. Composition API and Options API/Difference between Composition API and Options API.md",
+      "Web Development/Frontend/Framework/Vue/6. Composition API and Options API/Using ref, reactive, computed, watch in Composition API.md",
+      "Web Development/Frontend/Framework/Vue/6. Composition API and Options API/Using setup() function.md"
+    ],
+    "Web Development/Frontend/Framework/Vue/7. Handeling Forms and User Input": [
+      "Web Development/Frontend/Framework/Vue/7. Handeling Forms and User Input/Form validation (Vuelidate, vee-validate).md",
+      "Web Development/Frontend/Framework/Vue/7. Handeling Forms and User Input/Handling input events (@input, @change).md",
+      "Web Development/Frontend/Framework/Vue/7. Handeling Forms and User Input/Two-way binding with v-model.md"
+    ],
+    "Web Development/Frontend/Framework/Vue/8. Reactivity in Vue": [
+      "Web Development/Frontend/Framework/Vue/8. Reactivity in Vue/Deep reactivity vs shallow reactivity.md",
+      "Web Development/Frontend/Framework/Vue/8. Reactivity in Vue/Vue’s reactivity system (ref, reactive).md",
+      "Web Development/Frontend/Framework/Vue/8. Reactivity in Vue/Watching reactive data (watch, watchEffect).md"
+    ],
+    "Web Development/Frontend/Framework/Vue/9. Vue Router": [
+      "Web Development/Frontend/Framework/Vue/9. Vue Router/Defining routes (createRouter, routes array).md",
+      "Web Development/Frontend/Framework/Vue/9. Vue Router/Dynamic routes (_user__id).md",
+      "Web Development/Frontend/Framework/Vue/9. Vue Router/Installing and Setting up Vue Router (vue-router).md",
+      "Web Development/Frontend/Framework/Vue/9. Vue Router/Route guards (Navigation guards like beforeEnter, beforeEach).md",
+      "Web Development/Frontend/Framework/Vue/9. Vue Router/Route navigation (router-link, useRouter()).md"
+    ],
+    "Web Development/Frontend/Framework/Vue/API Calls and Data Fetching": [
+      "Web Development/Frontend/Framework/Vue/API Calls and Data Fetching/Fetching data using fetch and axios.md",
+      "Web Development/Frontend/Framework/Vue/API Calls and Data Fetching/Handling loading states and errors.md",
+      "Web Development/Frontend/Framework/Vue/API Calls and Data Fetching/Using watchEffect for reactive API calls.md"
+    ],
+    "Web Development/Frontend/Framework/Vue/Deploying Vue Applications": [
+      "Web Development/Frontend/Framework/Vue/Deploying Vue Applications/Deploying to Netlify, Vercel, Firebase Hosting.md",
+      "Web Development/Frontend/Framework/Vue/Deploying Vue Applications/Dockerizing Vue applications.md",
+      "Web Development/Frontend/Framework/Vue/Deploying Vue Applications/Generating static sites with Nuxt.js.md"
+    ],
+    "Web Development/Frontend/Framework/Vue/State Management": [
+      "Web Development/Frontend/Framework/Vue/State Management/Pinia (alternative to Vuex, simpler state management).md",
+      "Web Development/Frontend/Framework/Vue/State Management/Using provide_inject for global state sharing.md",
+      "Web Development/Frontend/Framework/Vue/State Management/Vuex concepts_ state, getters, mutations, actions.md",
+      "Web Development/Frontend/Framework/Vue/State Management/Vuex_ Centralized state management.md"
+    ],
+    "Web Development/Frontend/Framework/Vue/Testing in Vue": [
+      "Web Development/Frontend/Framework/Vue/Testing in Vue/Testing Vue components and interactions.md",
+      "Web Development/Frontend/Framework/Vue/Testing in Vue/Unit testing with Vue Test Utils and Jest.md",
+      "Web Development/Frontend/Framework/Vue/Testing in Vue/Writing snapshot tests.md"
+    ],
+    "Web Development/Frontend/Framework/Vue/Vue 3 Advanced Topics": [
+      "Web Development/Frontend/Framework/Vue/Vue 3 Advanced Topics/defineExpose for exposing component functions.md",
+      "Web Development/Frontend/Framework/Vue/Vue 3 Advanced Topics/Suspense for handling async components.md",
+      "Web Development/Frontend/Framework/Vue/Vue 3 Advanced Topics/Teleport for rendering elements outside the root component.md"
+    ],
+    "Web Development/Frontend/Framework/Vue/Vue Performance Optimisation": [
+      "Web Development/Frontend/Framework/Vue/Vue Performance Optimisation/Debouncing and throttling (lodash).md",
+      "Web Development/Frontend/Framework/Vue/Vue Performance Optimisation/Lazy loading components (defineAsyncComponent).md",
+      "Web Development/Frontend/Framework/Vue/Vue Performance Optimisation/Using keep-alive for caching components.md",
+      "Web Development/Frontend/Framework/Vue/Vue Performance Optimisation/Virtual DOM optimizations.md"
+    ],
+    "Web Development/Frontend/Framework/Vue/Vue Transitions and Animations": [
+      "Web Development/Frontend/Framework/Vue/Vue Transitions and Animations/CSS animations and JavaScript hooks (enter, leave).md",
+      "Web Development/Frontend/Framework/Vue/Vue Transitions and Animations/Transitioning elements (_transition_, _transition-group_).md",
+      "Web Development/Frontend/Framework/Vue/Vue Transitions and Animations/Using external animation libraries (GSAP, Anime.js).md"
+    ],
+    "Web Development/Frontend/Framework/Vue/Vue with Typescript": [
+      "Web Development/Frontend/Framework/Vue/Vue with Typescript/Typing props, events, and components.md",
+      "Web Development/Frontend/Framework/Vue/Vue with Typescript/Using interfaces and types for Vue components.md",
+      "Web Development/Frontend/Framework/Vue/Vue with Typescript/Using TypeScript in Vue (defineProps and defineEmits).md"
+    ],
+    "Web Development/Frontend/HTML": [
+      "Web Development/Frontend/HTML/Basics",
+      "Web Development/Frontend/HTML/Forms",
+      "Web Development/Frontend/HTML/HTML5 Elements",
+      "Web Development/Frontend/HTML/Multimedia",
+      "Web Development/Frontend/HTML/Tables",
+      "Web Development/Frontend/HTML/Attributes.md",
+      "Web Development/Frontend/HTML/Block-level vs. inline elements..md"
+    ],
+    "Web Development/Frontend/HTML/Basics": [
+      "Web Development/Frontend/HTML/Basics/DOCTYPE.md",
+      "Web Development/Frontend/HTML/Basics/HTML Structure.md",
+      "Web Development/Frontend/HTML/Basics/What is HTML.md"
+    ],
+    "Web Development/Frontend/HTML/Forms": [
+      "Web Development/Frontend/HTML/Forms/Creating Forms.md",
+      "Web Development/Frontend/HTML/Forms/Form attributes.md"
+    ],
+    "Web Development/Frontend/HTML/HTML5 Elements": [
+      "Web Development/Frontend/HTML/HTML5 Elements/Semantic and non-semantic tags..md",
+      "Web Development/Frontend/HTML/HTML5 Elements/Semantic HTML5 Tags.md"
+    ],
+    "Web Development/Frontend/HTML/Multimedia": [
+      "Web Development/Frontend/HTML/Multimedia/Audio.md",
+      "Web Development/Frontend/HTML/Multimedia/Video.md"
+    ],
+    "Web Development/Frontend/HTML/Tables": [
+      "Web Development/Frontend/HTML/Tables/Creating Tables.md",
+      "Web Development/Frontend/HTML/Tables/Table Attributes.md"
+    ],
+    "Web Development/Frontend/Theory": [
+      "Web Development/Frontend/Theory/Browser",
+      "Web Development/Frontend/Theory/Cache",
+      "Web Development/Frontend/Theory/Cookies and Tokens.md",
+      "Web Development/Frontend/Theory/Falsey Values.md",
+      "Web Development/Frontend/Theory/Session Management.md",
+      "Web Development/Frontend/Theory/Storage Media.md",
+      "Web Development/Frontend/Theory/Transpilation.md",
+      "Web Development/Frontend/Theory/Truthy Values.md",
+      "Web Development/Frontend/Theory/Web Fundamentals.md",
+      "Web Development/Frontend/Theory/Webhook.md"
+    ],
+    "Web Development/Frontend/Theory/Browser": [
+      "Web Development/Frontend/Theory/Browser/DOM.md",
+      "Web Development/Frontend/Theory/Browser/Memory.md",
+      "Web Development/Frontend/Theory/Browser/Virtual Dom.md",
+      "Web Development/Frontend/Theory/Browser/Web Storage.md"
+    ],
+    "Web Development/Frontend/Theory/Cache": [
+      "Web Development/Frontend/Theory/Cache/Cache.md",
+      "Web Development/Frontend/Theory/Cache/Cache Client.md"
+    ],
+    "Web Development/Frontend/Typescript": [
+      "Web Development/Frontend/Typescript/Advanced Type Features",
+      "Web Development/Frontend/Typescript/Basic Type Annotation",
+      "Web Development/Frontend/Typescript/Functions",
+      "Web Development/Frontend/Typescript/Generics",
+      "Web Development/Frontend/Typescript/Introduction",
+      "Web Development/Frontend/Typescript/Objects and Interfaces",
+      "Web Development/Frontend/Typescript/OOP",
+      "Web Development/Frontend/Typescript/Type Aliases and Union Types",
+      "Web Development/Frontend/Typescript/Type Inference and Type Assertions",
+      "Web Development/Frontend/Typescript/Checklist.md",
+      "Web Development/Frontend/Typescript/Error Handling & Debugging.md",
+      "Web Development/Frontend/Typescript/Modules & Namespaces.md",
+      "Web Development/Frontend/Typescript/TypeScript Build Process.md",
+      "Web Development/Frontend/Typescript/TypeScript Utility Types.md"
+    ],
+    "Web Development/Frontend/Typescript/Advanced Type Features": [
+      "Web Development/Frontend/Typescript/Advanced Type Features/Conditional types.md",
+      "Web Development/Frontend/Typescript/Advanced Type Features/Mapped types.md",
+      "Web Development/Frontend/Typescript/Advanced Type Features/Template literal types.md",
+      "Web Development/Frontend/Typescript/Advanced Type Features/Type guards (typeof, instanceof, custom type predicates).md"
+    ],
+    "Web Development/Frontend/Typescript/Basic Type Annotation": [
+      "Web Development/Frontend/Typescript/Basic Type Annotation/Any, unknown, never, void.md",
+      "Web Development/Frontend/Typescript/Basic Type Annotation/Arrays.md",
+      "Web Development/Frontend/Typescript/Basic Type Annotation/Enums.md",
+      "Web Development/Frontend/Typescript/Basic Type Annotation/Primitive Types.md",
+      "Web Development/Frontend/Typescript/Basic Type Annotation/Tuples.md"
+    ],
+    "Web Development/Frontend/Typescript/Functions": [
+      "Web Development/Frontend/Typescript/Functions/Function Overloading.md",
+      "Web Development/Frontend/Typescript/Functions/Function return types.md",
+      "Web Development/Frontend/Typescript/Functions/Optional and default parameters.md",
+      "Web Development/Frontend/Typescript/Functions/Rest parameters.md"
+    ],
+    "Web Development/Frontend/Typescript/Generics": [
+      "Web Development/Frontend/Typescript/Generics/Constraints in generics (extends).md",
+      "Web Development/Frontend/Typescript/Generics/Creating generic functions.md",
+      "Web Development/Frontend/Typescript/Generics/Generic interfaces and classes.md"
+    ],
+    "Web Development/Frontend/Typescript/Introduction": [
+      "Web Development/Frontend/Typescript/Introduction/Compiling TypeScript (tsc file.ts).md",
+      "Web Development/Frontend/Typescript/Introduction/Differences between TypeScript and JavaScript.md",
+      "Web Development/Frontend/Typescript/Introduction/tsconfig.md",
+      "Web Development/Frontend/Typescript/Introduction/What is Typescript.md"
+    ],
+    "Web Development/Frontend/Typescript/Objects and Interfaces": [
+      "Web Development/Frontend/Typescript/Objects and Interfaces/Creating and using interfaces.md",
+      "Web Development/Frontend/Typescript/Objects and Interfaces/Defining Object Types.md",
+      "Web Development/Frontend/Typescript/Objects and Interfaces/Extending interfaces (extends).md",
+      "Web Development/Frontend/Typescript/Objects and Interfaces/Optional properties (_ operator).md",
+      "Web Development/Frontend/Typescript/Objects and Interfaces/Readonly properties.md"
+    ],
+    "Web Development/Frontend/Typescript/OOP": [
+      "Web Development/Frontend/Typescript/OOP/Abstract classes and methods.md",
+      "Web Development/Frontend/Typescript/OOP/Implementing interfaces in classes.md",
+      "Web Development/Frontend/Typescript/OOP/OOP.md"
+    ],
+    "Web Development/Frontend/Typescript/Type Aliases and Union Types": [
+      "Web Development/Frontend/Typescript/Type Aliases and Union Types/Defining type aliases.md",
+      "Web Development/Frontend/Typescript/Type Aliases and Union Types/Intersection types (TypeA and TypeB).md",
+      "Web Development/Frontend/Typescript/Type Aliases and Union Types/Union types (string or number).md"
+    ],
+    "Web Development/Frontend/Typescript/Type Inference and Type Assertions": [
+      "Web Development/Frontend/Typescript/Type Inference and Type Assertions/Implicit vs Explicit typing.md",
+      "Web Development/Frontend/Typescript/Type Inference and Type Assertions/Type assertions.md"
+    ],
+    "Web Development/General Concepts": [
+      "Web Development/General Concepts/HTTP Protocol.md",
+      "Web Development/General Concepts/Websocket.md",
+      "Web Development/General Concepts/Conversation Scope.md",
+      "Web Development/General Concepts/Web application checklist.md",
+      "Web Development/General Concepts/Web Server.md"
+    ],
+    "Web Development/Security": [
+      "Web Development/Security/Cyber Security",
+      "Web Development/Security/Security Theory Fundamentals.md"
+    ],
+    "Web Development/Security/Cyber Security": [
+      "Web Development/Security/Cyber Security/Access Control And Identity",
+      "Web Development/Security/Cyber Security/Cryptography",
+      "Web Development/Security/Cyber Security/Web Application Attacks",
+      "Web Development/Security/Cyber Security/Cyber Security.md"
+    ],
+    "Web Development/Security/Cyber Security/Access Control And Identity": [
+      "Web Development/Security/Cyber Security/Access Control And Identity/Authentication",
+      "Web Development/Security/Cyber Security/Access Control And Identity/Authorisation",
+      "Web Development/Security/Cyber Security/Access Control And Identity/Role-Based Access Control (RBAC).md"
+    ],
+    "Web Development/Security/Cyber Security/Access Control And Identity/Authentication": [
+      "Web Development/Security/Cyber Security/Access Control And Identity/Authentication/Authentication.md"
+    ],
+    "Web Development/Security/Cyber Security/Access Control And Identity/Authorisation": [
+      "Web Development/Security/Cyber Security/Access Control And Identity/Authorisation/JWT.md",
+      "Web Development/Security/Cyber Security/Access Control And Identity/Authorisation/OAuth.md"
+    ],
+    "Web Development/Security/Cyber Security/Cryptography": [
+      "Web Development/Security/Cyber Security/Cryptography/_Cryptography basics.md",
+      "Web Development/Security/Cyber Security/Cryptography/Asymmetric vs Symmetric Encryption.md",
+      "Web Development/Security/Cyber Security/Cryptography/Cryptography.md",
+      "Web Development/Security/Cyber Security/Cryptography/Public Key Infrastructure (PKI).md",
+      "Web Development/Security/Cyber Security/Cryptography/RSA (Rivest–Shamir–Adleman).md"
+    ],
+    "Web Development/Security/Cyber Security/Web Application Attacks": [
+      "Web Development/Security/Cyber Security/Web Application Attacks/CSRF & XSS.md"
+    ]
+  },
+  "draggingEnabled": true,
+  "selectedSortOrder": "manual-sorting",
+  "debugMode": false,
+  "newItemsPosition": "top"
+}

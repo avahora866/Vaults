@@ -1,0 +1,5 @@
+I am nervous when in high stakes situations. The reason I am nervous is because I am afraid of making a mistake and failing the high-stakes situation. I have since learnt that when I have realised the high-stake situation has already failed, it no longer is a high stakes situation and i am no longer nervous. 
+### Anecdotes
+1. Initial Marriage Meeting in coffee shop (Meeting 2 Mej's friends Hawa's sister). I was nervous before and up to hallway through meeting the person. However I realised that it was going terribly and there was nothing I could do to salvage this. So I no longer felt nervous
+### Realisation
+To stop being nervous realise that the high stakes situation you are in will fail if you are nervous. As you are nervous you will stumble over words as well as create silences. Realise that this high-stake situation is high stakes in the moment however in an hour or a day or a week, the situation will have passed and nothing will have changed

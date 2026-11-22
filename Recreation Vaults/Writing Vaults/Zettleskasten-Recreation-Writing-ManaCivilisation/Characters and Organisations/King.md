@@ -1,0 +1,1 @@
+Dead king who triggers the sucsession war

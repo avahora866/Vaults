@@ -1,0 +1,29 @@
+{
+  "customFileOrder": {
+    "/": [
+      "_Definitions and notes to organise",
+      "_Templates",
+      "Checklist.md",
+      "Physics Map of Content.md",
+      "Status.md"
+    ],
+    "_Definitions and notes to organise": [
+      "_Definitions and notes to organise/3D Cartesian coordinates.md",
+      "_Definitions and notes to organise/Derivative.md",
+      "_Definitions and notes to organise/Orthoganol Components.md",
+      "_Definitions and notes to organise/Perpendicular.md",
+      "_Definitions and notes to organise/Spatial coordinate.md"
+    ],
+    "_Templates": [
+      "_Templates/LEAF.md",
+      "_Templates/BRANCH.md",
+      "_Templates/TRUNK.md",
+      "_Templates/Custom.md",
+      "_Templates/MOC.md"
+    ]
+  },
+  "draggingEnabled": true,
+  "selectedSortOrder": "manual-sorting",
+  "debugMode": false,
+  "newItemsPosition": "top"
+}

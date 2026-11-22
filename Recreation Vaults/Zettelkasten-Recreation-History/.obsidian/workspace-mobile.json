@@ -1,0 +1,183 @@
+{
+  "main": {
+    "id": "7399258935b47f34",
+    "type": "split",
+    "children": [
+      {
+        "id": "1edc5342529bedab",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7b6bcda43df027e5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chronological Dating.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Chronological Dating"
+            }
+          },
+          {
+            "id": "354fdea7d1e43668",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Introduction to the Study of Human Development through History.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Introduction to the Study of Human Development through History"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "70bdcf2612ef5e5d",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "0333c0396a0fe917",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "b9844f8f6b803034",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "6c660a61084859e5",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "86d0a18261b4a4b7",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "32e6f3af1a0550d0",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "ed881c004327bb75",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Introduction to the Study of Human Development through History.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "339073b2075352c6",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Area of Study.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "c28c5211d29fe8ff",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Area of Study.md",
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "354fdea7d1e43668",
+  "lastOpenFiles": [
+    "Other/Chronological Dating.md",
+    "Prehistory and early development",
+    "Introduction to the Study of Human Development through History.md",
+    "Other",
+    "Other/Area of Study.md",
+    "Dating",
+    "Volcano/Toba Supereruption (~74,000 BCE, Indonesia).md",
+    "Volcano/Key Points in history.md",
+    "Volcano"
+  ]
+}

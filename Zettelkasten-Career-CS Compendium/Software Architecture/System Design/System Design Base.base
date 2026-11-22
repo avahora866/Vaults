@@ -1,0 +1,6 @@
+filters:
+  and:
+    - file.path.startsWith("System Design")
+views:
+  - type: table
+    name: Table

@@ -1,0 +1,192 @@
+{
+  "main": {
+    "id": "747fe1ac51b371ef",
+    "type": "split",
+    "children": [
+      {
+        "id": "2109390b0de42a1d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8a7127498c10caa6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Core Topics/Core Topics MOC.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Core Topics MOC"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4ecfde5ce6c7b075",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "fdcd00c5bda46739",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "b950bde7cd6d6439",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "tag:#Comprehend",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "95dbd4dee320f62e",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "1f21226dc39ef7aa",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "b4d0c63fb534808e",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "252626bd642be6a4",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "2. Algebra/Factoring.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "e35bf003d0dc50f6",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Trigonometry/Similar triangles.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "0f394a511e0f0f15",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Trigonometry/Similar triangles.md",
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "8a7127498c10caa6",
+  "lastOpenFiles": [
+    "Core Topics/Linear Algebra/Linear Algebra MOC.md",
+    "Core Topics/Linear Algebra/Linear Systems.md",
+    "Core Topics/Linear Algebra/Matrix.md",
+    "Core Topics/Linear Algebra/Vector.md",
+    "Core Topics/Linear Algebra/Linear Algebra.md",
+    "2. Algebra/_Algebra.md",
+    "2. Algebra/Polynomials.md",
+    "2. Algebra/Inequalities.md",
+    "2. Algebra/Linear equations.md",
+    "2. Algebra/Equations.md",
+    "2. Algebra/Operation.md",
+    "1. Arithmatic/_Arithmetic.md",
+    "1. Arithmatic/Arithmetic Sequences and Series.md",
+    "1. Arithmatic/Basic modular arithmetic.md",
+    "1. Arithmatic/Scientific Notoation.md",
+    "1. Arithmatic/Absolute Values.md",
+    "1. Arithmatic/Roots and Radicals.md",
+    "1. Arithmatic/Exponents and Powers.md",
+    "1. Arithmatic/Percentage.md",
+    "1. Arithmatic/Ratios and Proportions.md",
+    "1. Arithmatic/Prime numbers.md",
+    "1. Arithmatic/Factors and Multiples.md",
+    "1. Arithmatic/Relationship between decimals and fractions.md",
+    "1. Arithmatic/Rational and Irrational numbers.md",
+    "_Templates/Custom.md",
+    "Status.md",
+    "rational",
+    "Pasted image 20250221223137.jpg",
+    "Pasted image 20250221223110.png",
+    "2. Algebra",
+    "_Templates",
+    "Trigonometry"
+  ]
+}

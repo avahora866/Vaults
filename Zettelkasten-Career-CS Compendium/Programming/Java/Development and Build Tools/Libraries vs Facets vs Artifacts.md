@@ -1,0 +1,6 @@
+---
+tags:
+  - Java
+  - NOTES
+  - FLASHCARD
+---

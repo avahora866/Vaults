@@ -1,0 +1,2 @@
+- Working on anaotmoy to be able to draw with correct proportions
+	- Proportions in a figure are not arbitrary; they are a direct result of the underlying anatomical structure

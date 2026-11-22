@@ -1,0 +1,186 @@
+{
+  "main": {
+    "id": "6af016ef5187cf54",
+    "type": "split",
+    "children": [
+      {
+        "id": "aeea7f2ff36e9ae2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "364d2e7684a98cc3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2026/01-03-2026 8-3.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "01-03-2026 8-3"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "51e94f0a325883bb",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "70bc4e9fcfc903f8",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "069349999941cb3a",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "9fbe94547ebb608f",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "47211e9b740b6109",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "76e19151819c950d",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "07d565846952b822",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Mar-25/Journel.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "f77f52ff4bf722d2",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Mar-25/Journel.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "3e7f5203ff4641e6",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Mar-25/Journel.md",
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "70bc4e9fcfc903f8",
+  "lastOpenFiles": [
+    "2025/01-01-2026 23-1.md",
+    "2025/03-01-2026 16-1.md",
+    "2025/31-12-2025 21-12.md",
+    "2025/12-12-2025 9-12.md",
+    "2025/09-12-2025.md",
+    "2025/08-12-2025.md",
+    "0. Templates/Journal Entry.md",
+    "2025/27-11-2025.md",
+    "2025/26-11-2025.md",
+    "2025/25-11-2025.md",
+    "2025/24-11-2025.md",
+    "2025/22-11-2025.md",
+    "2025/06-10-2025.md",
+    "2025/08-09-2025.md",
+    "2025/07-09-2025.md",
+    "2025/24-07-2025.md",
+    "2025/14-06-2025.md",
+    "2025/28-05-2025.md",
+    "2025/27-05-2025.md",
+    "2025/26-05-2025.md",
+    "2025/19-05-2025.md",
+    "2025/21-07-2025.md",
+    "2025/20-05-2025.md",
+    "2025/18-05-2025.md",
+    "2025/17-05-2025.md",
+    "Invalid date.md"
+  ]
+}

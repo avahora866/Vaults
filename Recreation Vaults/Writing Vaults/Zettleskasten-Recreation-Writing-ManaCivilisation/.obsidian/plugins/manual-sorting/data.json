@@ -1,0 +1,60 @@
+{
+  "customOrder": {
+    "/": {
+      "children": [
+        "Timeline.md",
+        "Manuscript",
+        "Research",
+        "Characters",
+        "Places",
+        "Notes"
+      ],
+      "sortOrder": "custom"
+    },
+    "Characters": {
+      "children": [],
+      "sortOrder": "custom"
+    },
+    "Manuscript": {
+      "children": [
+        "Manuscript/Chapter 1"
+      ],
+      "sortOrder": "custom"
+    },
+    "Manuscript/Chapter 1": {
+      "children": [
+        "Manuscript/Chapter 1/Scene 1"
+      ],
+      "sortOrder": "custom"
+    },
+    "Manuscript/Chapter 1/Scene 1": {
+      "children": [],
+      "sortOrder": "custom"
+    },
+    "Notes": {
+      "children": [],
+      "sortOrder": "custom"
+    },
+    "Places": {
+      "children": [],
+      "sortOrder": "custom"
+    },
+    "Research": {
+      "children": [
+        "Research/Worldbuilding"
+      ],
+      "sortOrder": "custom"
+    },
+    "Research/Worldbuilding": {
+      "children": [
+        "Research/Worldbuilding/Culture.md",
+        "Research/Worldbuilding/History.md",
+        "Research/Worldbuilding/Magic.md"
+      ],
+      "sortOrder": "custom"
+    }
+  },
+  "sortOrder": "custom",
+  "debugMode": false,
+  "newItemPlacement": "top"
+}

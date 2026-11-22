@@ -1,0 +1,1 @@
+I am very easily embarrassed by  social situations, so I cant do things that are childish or funny meaning I do not converse how I want to.

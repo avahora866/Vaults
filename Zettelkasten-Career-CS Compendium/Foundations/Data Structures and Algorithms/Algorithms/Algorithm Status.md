@@ -1,0 +1,56 @@
+- [ ] Coding Interview Patterns
+    - [x] Cyclic Sort
+    - [x] Fast and Slow Pointers
+    - [x] K-Way merge
+    - [x] Merge Intervals
+    - [o] Modified binary Search
+    - [x] Sliding Window
+    - [o] Subsets
+    - [x] Top K Elements
+    - [o] Topological Sort
+    - [x] Tree BFS
+    - [x] Tree DFS
+    - [x] Two Heaps
+    - [x] Two Pointers or Iterators
+- [x] Merge Algorithm
+    - [x] Basic Merge
+    - [x] Natural Merge
+    - [x] K-Way merge
+- [ ] Searching Algorithm
+    - [ ] Graph Algorithms
+        - [o] A star algorithm
+        - [o] Bellmon ford
+        - [o] Djitsrkis 
+        - [o] Floyd Warshell
+        - [o] Kruskalls 
+        - [o] Prim
+    - [x] Binary Search on Arrays
+    - [x] BFS
+    - [x] DFS
+    - [ ] Binary Search Varaiation
+    - [ ] Backtracking
+- [x] Sorting Algorithm
+    - [x] Bubble Sort
+    - [x] Counting Sort
+    - [x] Heap Sort
+    - [x] Insertion Sort
+    - [x] Merge Sort
+    - [x] Quick Sort
+    - [x] Selection Sort
+- [ ] Trie Algorithm
+    - [x] Trie algorithms
+    - [o] Count of words with given prefix
+    - [o] Find all words
+    - [o] Longeset prefix matching
+    - [o] Trie autocomplete
+    - [o] Trie delete word
+    - [o] Trie from list of words
+    - [o] Trie insert 
+    - [o] Trie Prefix
+    - [o] Trie Word Search
+    - [o] Word suggestions with prefix
+- [ ] Bit Manipulation
+- [ ] Divde and Conqeuer
+- [ ] Dynamic Programming
+- [ ] Greedy Algorithm
+- [ ] Math and Number Theory

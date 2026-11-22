@@ -1,0 +1,1 @@
+Officer who betrays the scout unit and eventually gets framed by MC

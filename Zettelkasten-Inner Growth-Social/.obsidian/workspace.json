@@ -1,0 +1,202 @@
+{
+  "main": {
+    "id": "ef5a18fa13a013a2",
+    "type": "split",
+    "children": [
+      {
+        "id": "d0bc323c81d2488c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "38cc201d8b698692",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "76b3a822ceb5fa1e",
+    "type": "split",
+    "children": [
+      {
+        "id": "496b292de0cbbfdb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "206aefdf86ca3a58",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "18036948074badad",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "a6396ee0e4b9987e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 429.5
+  },
+  "right": {
+    "id": "96506a8645c65aa8",
+    "type": "split",
+    "children": [
+      {
+        "id": "5b4896ae513795b3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2ab47c6774a05e6b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "11101742d677266d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "1dcfe0bf060fc8b3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "a8d1ce15089c6209",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "media-extended:Open external media": false
+    }
+  },
+  "active": "38cc201d8b698692",
+  "lastOpenFiles": [
+    "People/Abraar Vahora.md",
+    "People/-Type of relationships.md",
+    "People/Friends/Hussain Makda.md",
+    "People/Friends/-Makda marriage.md",
+    "People/Family/Mohammad Eessa Vahora.md",
+    "People/Family/Mehajib Sayid.md",
+    "People/Family/Abdullateef Vahora.md",
+    "People/Family/Aaminah Munshi.md",
+    "How to express concepts properly.md",
+    "People/Family/Cousins/Afeef.md",
+    "What i want to know how to do.md",
+    "Untitled",
+    "Old/Audio Notes/Interview/Yaspa/Yaspa initial interview.m4a",
+    "Old/Audio Notes/Interview/Solarium/Solarium 1st interview.m4a",
+    "Old/Audio Notes/Interview/SVGC/Interview with SVGC.m4a",
+    "Old/Audio Notes/Interview/SVGC/Interview 2nd svgc.m4a",
+    "Old/Audio Notes/Interview/Capgemini/Capgemini Interview.m4a",
+    "Old/Audio Notes/Interview/Goldman Sachs/Goldaman sachs 19 - 9-25.m4a",
+    "Old/Audio Notes/Interview/Goldman Sachs/Goldaman sachs - 8 - 9 - 25.m4a",
+    "Old/Audio Notes/Interview/Amber Labs/Amber Labs.md",
+    "Old/Audio Notes/Interview/Yaspa",
+    "Old/Audio Notes/Interview/Solarium",
+    "Old/3. Theory/Personality/Personality.md",
+    "Old/3. Theory/Personality/Personality Types.md",
+    "Old/3. Theory/Social Anxiety.md",
+    "Old/3. Theory/Marraige.md",
+    "Old/3. Theory/Halo Effect.md",
+    "Old/3. Theory/Entitlement and Background.md",
+    "Old/3. Improvement/Improving Speech Clarity.md",
+    "Old/2. Situational Playbooks/Analyze scenarios/Holdiay.md",
+    "Old/2. Situational Playbooks/Analyze scenarios/Being myself.md",
+    "Old/2. Situational Playbooks/Personal Communication Insights.md",
+    "Old/2. Situational Playbooks/Mum and Muhammed talking.md",
+    "Old/2. Situational Playbooks/Meeting 2.md",
+    "Old/2. Situational Playbooks/Brainstorm.md",
+    "Old/1. Core Concepts/Social Anxiety/Uncomfertable.md",
+    "Untitled.canvas",
+    "Advanced/Untitled.canvas"
+  ]
+}

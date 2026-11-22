@@ -1,0 +1,204 @@
+{
+  "main": {
+    "id": "eea7ac32bd8458e2",
+    "type": "split",
+    "children": [
+      {
+        "id": "6dec0cc5e7598c51",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bb456df1401aceb6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Prerequisites/Algebra.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Algebra"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "78f8a1e047bf8d9b",
+    "type": "split",
+    "children": [
+      {
+        "id": "e2632ffbb1fda630",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c08e336c35b7f528",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "340aaedceaf8da2e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#NOTE",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "f92b8778d0ae31e6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d4fed854d1fdb835",
+    "type": "split",
+    "children": [
+      {
+        "id": "172b1ed26a9eff43",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a665951ddf770656",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Core Topics/Linear Algebra/Vector.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Vector"
+            }
+          },
+          {
+            "id": "c5ba050310751cf8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Mathematics Map of Content.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Mathematics Map of Content"
+            }
+          },
+          {
+            "id": "55f9d18070f49c4e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "ff04d6c92a93c389",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "bb456df1401aceb6",
+  "lastOpenFiles": [
+    "Prerequisites/Arithmetic.md",
+    "Prerequisites/Algebra.md",
+    "Linear Algebra/Linear Algebra MOC.md",
+    "Overview/Checklist.md",
+    "Overview/Mathematics Map of Content.md",
+    "Linear Algebra/Linear Algebra Checklist.md",
+    "Other Mathmatic Fields/Trigonometry.md",
+    "Linear Algebra/Linear Algebra.md",
+    "Linear Algebra/Matrix.md",
+    "Linear Algebra/Vector.md",
+    "Prerequisites/Algebra/Algebra MOC.md",
+    "Prerequisites/Algebra/Operation.md",
+    "Prerequisites/Arithmatic/Arithmetic MOC.md",
+    "Prerequisites/Arithmatic/Rational and Irrational numbers.md",
+    "Prerequisites/Arithmatic/Factorial.md",
+    "Prerequisites/Arithmatic/Absolute Values.md",
+    "Prerequisites/Arithmatic/Logarithms.md",
+    "Prerequisites/Arithmatic/Arithmetic Sequences and Series.md",
+    "Prerequisites/Arithmatic/Basic modular arithmetic.md",
+    "Prerequisites/Arithmatic/Scientific Notoation.md",
+    "Prerequisites/Arithmatic/Roots and Radicals.md",
+    "Prerequisites/Arithmatic/Exponents and Powers.md",
+    "Prerequisites/Arithmatic/Percentage.md",
+    "Prerequisites/Arithmatic/Prime numbers.md",
+    "Prerequisites/Arithmatic/Factors and Multiples.md",
+    "Prerequisites/Arithmatic/Relationship between decimals and fractions.md",
+    "Overview",
+    "Other Mathmatic Fields",
+    "Core Topics",
+    "Prerequisites"
+  ]
+}
