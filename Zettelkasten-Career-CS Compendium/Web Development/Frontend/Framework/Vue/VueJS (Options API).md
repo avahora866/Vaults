@@ -1,6 +1,7 @@
 
 # State
 We use the `data` option to declare a reactive state. Vue will call the `data` option (basically a function) when instantiating the component, and wrap the returned object in its reactivity system.
+Testing green
 ## Reactive Proxy vs Original
 In Vue 3 data is made reactive through JavaScript Proxies, which leads to the following edge case:
 ```js
